@@ -1,6 +1,12 @@
 _id: drupal-comment-535
 message: >-
-  <p>I think you can skip creating the files directory if you use</p><p>&lt;code&gt;</p><p>drush make --prepare-install</p><p>&lt;/code&gt;</p>
+  I think you can skip creating the files directory if you use
+
+  <code>
+
+  drush make --prepare-install
+
+  </code>
 name: fwalch
 email: de225261acb7c717b60c4fd0799fee5c
 url: ''

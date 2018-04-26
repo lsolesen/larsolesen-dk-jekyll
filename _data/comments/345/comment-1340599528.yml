@@ -1,6 +1,8 @@
 _id: drupal-comment-7637
 message: >-
-  <p>Here is another epic issue. There is a path but nobody can commit it.<br /><br /><a href="http://drupal.org/node/936044">http://drupal.org/node/936044</a></p>
+  Here is another epic issue. There is a path but nobody can commit it.  
+  
+  <http://drupal.org/node/936044>
 name: E. Colsman
 email: 495e5b51f35eae28ef37a3b00dda2008
 url: ''

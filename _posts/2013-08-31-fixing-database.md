@@ -1,6 +1,7 @@
 ---
-title: Fixing the database
+title: "Fixing the database"
 redirect_from: /content/fixing-database
+language: und
 tags:
 modified: 2013-08-31T09:21:54Z
 ---

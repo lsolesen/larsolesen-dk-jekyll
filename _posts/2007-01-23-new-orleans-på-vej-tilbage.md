@@ -1,6 +1,7 @@
 ---
-title: New Orleans på vej tilbage
+title: "New Orleans på vej tilbage"
 redirect_from: /content/new-orleans-på-vej-tilbage
+language: da
 tags:
   - usa
   - new orleans

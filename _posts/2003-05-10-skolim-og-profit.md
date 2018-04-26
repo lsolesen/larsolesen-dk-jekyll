@@ -1,6 +1,7 @@
 ---
-title: Skolim og profit
+title: "Skolim og profit"
 redirect_from: /content/skolim-og-profit
+language: da
 tags:
   - sydafrika
 modified: 2010-11-07T01:20:57Z

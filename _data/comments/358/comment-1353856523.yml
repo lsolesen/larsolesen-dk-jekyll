@@ -1,6 +1,6 @@
 _id: drupal-comment-7707
 message: >-
-  Please don't confuse it: "remove remote_import from the target server" - it is wrong, you should remove it from the *source* server only, if exists there.
+  Please don't confuse it: "remove remote\_import from the target server" - it is wrong, you should remove it from the \*source\* server only, if exists there.
 name: Grace
 email: 3f7208da947841a849eece61d8500752
 url: ''

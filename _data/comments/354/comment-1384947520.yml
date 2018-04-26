@@ -1,6 +1,10 @@
 _id: drupal-comment-7807
 message: >-
-  <p>Hi - interesting post. I also develop a Drupal Commerce website which is selling courses and so on, and have grappled with the issue of managing course dates and so in line items.</p><p>I haven&#39;t tried out the entity reference route you&#39;ve described, but I have a question:</p><p>What happens when a course has to be removed from the line item options? Does this have an impact upon previous orders on the system (which reference those options)?</p>
+  Hi - interesting post. I also develop a Drupal Commerce website which is selling courses and so on, and have grappled with the issue of managing course dates and so in line items.
+
+  I haven't tried out the entity reference route you've described, but I have a question:
+
+  What happens when a course has to be removed from the line item options? Does this have an impact upon previous orders on the system (which reference those options)?
 name: Leo
 email: 67d752952a277a672b3c9c5d5f2dd43a
 url: ''

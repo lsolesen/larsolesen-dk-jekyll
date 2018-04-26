@@ -1,10 +1,8 @@
 _id: drupal-comment-444
 message: >-
-  <p>I think you chose the right approach. I would consider using&nbsp;<span class="Apple-style-span" style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; -webkit-border-horizontal-spacing: 2px; -webkit-border-vertical-spacing: 2px; color: rgb(0, 0, 0); line-height: normal; ">410 instead of 404 though, it just feels more accurate, even when both would get the same effect.</span></p><p>http://federicojm.com</p>
-<meta charset="utf-8" />
-
+  I think you chose the right approach. I would consider using 410 instead of 404 though, it just feels more accurate, even when both would get the same effect.
 name: jmfederico
 email: c4433f1f8b73a912df78844aa6eef8ad
-url: ''
+url: 'http://federicojm.com'
 hidden: ''
 date: '2011-06-21T05:40:37Z'

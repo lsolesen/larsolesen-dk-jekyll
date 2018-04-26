@@ -1,6 +1,8 @@
 _id: drupal-comment-7748
 message: >-
-  Heads up: one of the code snippets using <noscript> is not being shown.
+  Heads up: one of the code snippets using
+
+  is not being shown.
 name: Juampy
 email: 02bdc5e43feee5754c491d60b3b1e538
 url: ''

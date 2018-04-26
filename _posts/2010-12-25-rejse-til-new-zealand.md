@@ -1,6 +1,7 @@
 ---
-title: Rejse til New Zealand
+title: "Rejse til New Zealand"
 redirect_from: /content/rejse-til-new-zealand
+language: da
 tags:
   - new zealand
   - dagbog

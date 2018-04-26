@@ -1,6 +1,20 @@
 _id: drupal-comment-25
 message: >-
-  <p>Vi har nogle formler vi bruger i fysikken, dem kan du jo komme over og kigge på.</p><p>V (hastighed) = a (accelerationen) * t (tiden)</p><p>s (strækningen) = 1/2 * g * t^2</p><p>Hvis s = 30 m og g=9,82 m/s^2 bliver t = 2,5 sek. ca.</p><p>Så vil hastigheden være 9,82 m/s^2 *2,5 sek = 24,3 m/s.</p><p>Det passer fint med den formel du har fundet.</p><p>Hilsen</p><p>Kim</p>
+  Vi har nogle formler vi bruger i fysikken, dem kan du jo komme over og kigge på.
+
+  V (hastighed) = a (accelerationen) \* t (tiden)
+
+  s (strækningen) = 1/2 \* g \* t^2
+
+  Hvis s = 30 m og g=9,82 m/s^2 bliver t = 2,5 sek. ca.
+
+  Så vil hastigheden være 9,82 m/s^2 \*2,5 sek = 24,3 m/s.
+
+  Det passer fint med den formel du har fundet.
+
+  Hilsen
+
+  Kim
 name: Kim Torp Petersen
 email: d41d8cd98f00b204e9800998ecf8427e
 url: ''

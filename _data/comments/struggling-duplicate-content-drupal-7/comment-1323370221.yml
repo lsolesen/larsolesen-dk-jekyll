@@ -1,6 +1,8 @@
 _id: drupal-comment-7541
 message: >-
-  <p>@Kars-T I have seen the possibility to add url-parameters in Google Webmaster Tools. However, I also care about Bing and other search engines. Therefore I think robots.txt is a better solution.</p><p>@DVDB I also scheduled them for deletion in Google using Google Webmaster Tools. I would prefer not to use the metatag you suggested, as I wanted the other links to be indexed.</p>
+  @Kars-T I have seen the possibility to add url-parameters in Google Webmaster Tools. However, I also care about Bing and other search engines. Therefore I think robots.txt is a better solution.
+
+  @DVDB I also scheduled them for deletion in Google using Google Webmaster Tools. I would prefer not to use the metatag you suggested, as I wanted the other links to be indexed.
 name: lsolesen
 email: d41d8cd98f00b204e9800998ecf8427e
 url: ''

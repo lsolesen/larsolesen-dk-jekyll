@@ -1,6 +1,6 @@
 _id: drupal-comment-526
 message: >-
-  <p>I fixed the link. Should be: <a href="http://github.com/fvju/fjernvarme-theme">http://github.com/fjvu/fjernvarme-theme</a></p>
+  I fixed the link. Should be: [http://github.com/fjvu/fjernvarme-theme](http://github.com/fvju/fjernvarme-theme)
 name: lsolesen
 email: d41d8cd98f00b204e9800998ecf8427e
 url: ''

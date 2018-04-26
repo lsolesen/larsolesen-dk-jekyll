@@ -1,6 +1,7 @@
 ---
-title: Rotere videoklip
+title: "Rotere videoklip"
 redirect_from: /content/rotere-videoklip
+language: da
 tags:
   - ubuntu
   - linux

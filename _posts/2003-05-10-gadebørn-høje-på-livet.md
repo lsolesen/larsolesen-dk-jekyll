@@ -1,6 +1,7 @@
 ---
-title: Gadebørn høje på livet
+title: "Gadebørn høje på livet"
 redirect_from: /content/gadebørn-høje-på-livet
+language: da
 tags:
   - sydafrika
 modified: 2010-11-07T01:35:04Z

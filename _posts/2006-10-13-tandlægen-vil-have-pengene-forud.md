@@ -1,6 +1,7 @@
 ---
-title: Tandlægen vil have pengene forud
+title: "Tandlægen vil have pengene forud"
 redirect_from: /content/tandlægen-vil-have-pengene-forud
+language: da
 tags:
   - usa
   - dagbog

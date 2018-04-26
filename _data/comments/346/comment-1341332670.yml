@@ -1,6 +1,6 @@
 _id: drupal-comment-7649
 message: >-
-  <p>There is a lot of <a href="http://drupal.org/simpletest/">documentation about simpletest testing on drupal.org</a>.</p>
+  There is a lot of [documentation about simpletest testing on drupal.org](http://drupal.org/simpletest/).
 name: lsolesen
 email: d41d8cd98f00b204e9800998ecf8427e
 url: ''

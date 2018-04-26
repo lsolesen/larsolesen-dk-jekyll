@@ -1,6 +1,6 @@
 _id: drupal-comment-7512
 message: >-
-  <p>Now metatag (previously metatags and a rewrite of nodewords) is released in an early alpha. Go check it out. I have already uninstalled page_title and metatags_quick in favor for metatag.</p>
+  Now metatag (previously metatags and a rewrite of nodewords) is released in an early alpha. Go check it out. I have already uninstalled page\_title and metatags\_quick in favor for metatag.
 name: Lars Olesen
 email: 98c28fcbe1e816f8e64ff24302298e81
 url: 'http://larsolesen.dk'

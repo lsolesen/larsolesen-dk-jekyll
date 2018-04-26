@@ -1,6 +1,7 @@
 ---
-title: Struggling with duplicate content in Drupal 7
+title: "Struggling with duplicate content in Drupal 7"
 redirect_from: /content/struggling-duplicate-content-drupal-7
+language: und
 tags:
   - drupal
   - planet drupal

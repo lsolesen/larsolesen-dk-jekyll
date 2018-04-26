@@ -1,6 +1,7 @@
 ---
-title: De frie skoler bør open source deres hjemmeside
+title: "De frie skoler bør open source deres hjemmeside"
 redirect_from: /content/de-frie-skoler-bør-open-source-deres-hjemmeside
+language: da
 tags:
   - drupal
   - højskole

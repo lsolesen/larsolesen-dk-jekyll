@@ -1,6 +1,8 @@
 _id: drupal-comment-7576
 message: >-
-  <p>the wrapper technique is all built on top of the regions module. Http://drupal.org/project/regions</p><p>d7 is in dev though I&#39;m using it for d6 and d7. Modules elms uses to invoke it haven&#39;t been upgraded yet but should be easy enough to do.</p>
+  the wrapper technique is all built on top of the regions module. Http://drupal.org/project/regions
+
+  d7 is in dev though I'm using it for d6 and d7. Modules elms uses to invoke it haven't been upgraded yet but should be easy enough to do.
 name: bryan
 email: ae7b48c30838c7991efe9a591f250f9f
 url: ''

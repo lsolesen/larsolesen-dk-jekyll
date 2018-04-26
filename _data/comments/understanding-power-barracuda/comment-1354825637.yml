@@ -1,12 +1,6 @@
 _id: drupal-comment-7717
 message: >-
-  Thank you for sharing!
-
-I'm trying to get shared folders working and wondering if you can help. I follwed instructions here: vagrantup.com/v1/docs/troubleshooting.html but when I try to update the Virtualbox Guest Additions with
-
-sudo /etc/init.d/vboxadd setup
-
-I get an error and need to specify KERN_DIR. Any ideas?
+  Thank you for sharing! I'm trying to get shared folders working and wondering if you can help. I follwed instructions here: vagrantup.com/v1/docs/troubleshooting.html but when I try to update the Virtualbox Guest Additions with sudo /etc/init.d/vboxadd setup I get an error and need to specify KERN\_DIR. Any ideas?
 name: Ari
 email: fddf924ce6a7af6d2fb7cf72958feeff
 url: ''

@@ -1,6 +1,7 @@
 ---
-title: Valgkamp i fuld gang
+title: "Valgkamp i fuld gang"
 redirect_from: /content/valgkamp-i-fuld-gang
+language: da
 tags:
   - usa
   - los angeles

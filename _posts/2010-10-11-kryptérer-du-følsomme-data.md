@@ -1,6 +1,7 @@
 ---
-title: Kryptérer du følsomme data?
+title: "Kryptérer du følsomme data?"
 redirect_from: /content/kryptérer-du-følsomme-data
+language: da
 tags:
   - sikkerhed
   - kryptering

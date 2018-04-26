@@ -1,6 +1,13 @@
 _id: drupal-comment-529
 message: >-
-  <p>Hi, Visiting vih.dk, I got the following error on the site frontpage in Firefox 3.6.18</p><ul><li><em class="placeholder">Notice</em>: Undefined index: view modes i <em class="placeholder">field_view_mode_settings()</em> (linje <em class="placeholder">629</em> af <em class="placeholder">/home/vih/vih.dk/modules/field/field.module</em>).</li><li><em class="placeholder">Warning</em>: Invalid argument supplied for foreach() i <em class="placeholder">field_view_mode_settings()</em> (linje <em class="placeholder">629</em> af <em class="placeholder">/home/vih/vih.dk/modules/field/field.module</em>).</li><li><em class="placeholder">Notice</em>: Undefined index: settings i <em class="placeholder">media_get_file_without_label()</em> (linje <em class="placeholder">358</em> af <em class="placeholder">/home/vih/vih.dk/profiles/vih_dk/modules/contrib/media/includes/media.filter.inc</em>).</li><li><em class="placeholder">Warning</em>: array_merge() [<a href="http://vih.dk/function.array-merge">function.array-merge</a>]: Argument #1 is not an array i <em class="placeholder">media_get_file_without_label()</em> (linje <em class="placeholder">358</em> af <em class="placeholder">/home/vih/vih.dk/profiles/vih_dk/modules/contrib/media/includes/media.filter.inc</em>).</li></ul><p>Hope this helps (module looks interesting too)</p>
+  Hi, Visiting vih.dk, I got the following error on the site frontpage in Firefox 3.6.18
+
+  - _Notice_: Undefined index: view modes i _field\_view\_mode\_settings()_ (linje _629_ af _/home/vih/vih.dk/modules/field/field.module_).
+  - _Warning_: Invalid argument supplied for foreach() i _field\_view\_mode\_settings()_ (linje _629_ af _/home/vih/vih.dk/modules/field/field.module_).
+  - _Notice_: Undefined index: settings i _media\_get\_file\_without\_label()_ (linje _358_ af _/home/vih/vih.dk/profiles/vih\_dk/modules/contrib/media/includes/media.filter.inc_).
+  - _Warning_: array\_merge() \[[function.array-merge](http://vih.dk/function.array-merge)\]: Argument #1 is not an array i _media\_get\_file\_without\_label()_ (linje _358_ af _/home/vih/vih.dk/profiles/vih\_dk/modules/contrib/media/includes/media.filter.inc_).
+
+  Hope this helps (module looks interesting too)
 name: Andrew
 email: 6c0a45b1e68670daebc1c594ad6bbf67
 url: ''

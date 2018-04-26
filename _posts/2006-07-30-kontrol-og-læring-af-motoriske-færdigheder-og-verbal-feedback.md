@@ -1,6 +1,7 @@
 ---
-title: Kontrol og læring af motoriske færdigheder og verbal feedback
+title: "Kontrol og læring af motoriske færdigheder og verbal feedback"
 redirect_from: /content/kontrol-og-læring-af-motoriske-færdigheder-og-verbal-feedback
+language: da
 tags:
   - motorisk læring
   - motorisk kontrol

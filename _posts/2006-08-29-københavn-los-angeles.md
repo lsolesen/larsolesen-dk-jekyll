@@ -1,6 +1,7 @@
 ---
-title: København - Los Angeles
+title: "København - Los Angeles"
 redirect_from: /content/københavn-los-angeles
+language: da
 tags:
 modified: 2010-11-15T14:48:46Z
 ---

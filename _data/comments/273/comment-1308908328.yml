@@ -1,6 +1,6 @@
 _id: drupal-comment-485
 message: >-
-  <p>Could I just remove hook_views_handlers() from the code?</p>
+  Could I just remove hook\_views\_handlers() from the code?
 name: lsolesen
 email: d41d8cd98f00b204e9800998ecf8427e
 url: ''

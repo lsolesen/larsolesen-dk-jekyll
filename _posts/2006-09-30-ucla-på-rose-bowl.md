@@ -1,6 +1,7 @@
 ---
-title: UCLA på Rose Bowl
+title: "UCLA på Rose Bowl"
 redirect_from: /content/ucla-på-rose-bowl
+language: da
 tags:
   - usa
   - los angeles

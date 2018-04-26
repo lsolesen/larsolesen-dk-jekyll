@@ -1,6 +1,10 @@
 _id: drupal-comment-530
 message: >-
-  <p>I&#39;m using the mollom module since D6.</p><p>And now I use it on D7 without any problems. No spam, nothing bad passes thru.<br /><br />Mollom filters all out :)</p>
+  I'm using the mollom module since D6.
+
+  And now I use it on D7 without any problems. No spam, nothing bad passes thru.
+  
+  Mollom filters all out :)
 name: Arne
 email: e7f618b537362f7cac5bddf51d0a8a35
 url: 'http://www.arnetietz.de'

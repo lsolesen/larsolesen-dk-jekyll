@@ -1,6 +1,7 @@
 ---
-title: Biomekaniske kræfter i et gorge swing
+title: "Biomekaniske kræfter i et gorge swing"
 redirect_from: /content/biomekaniske-kræfter-i-et-gorge-swing
+language: da
 tags:
 modified: 2010-11-07T01:08:36Z
 ---

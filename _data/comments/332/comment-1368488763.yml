@@ -1,7 +1,6 @@
 _id: drupal-comment-7750
 message: >-
-  You can use http://drupal.org/project/content_dependency
-It provides you references via tab and supports following modules: node reference / entity reference.
+  You can use http://drupal.org/project/content\_dependency It provides you references via tab and supports following modules: node reference / entity reference.
 name: drupal1
 email: e1f91b80137b460f7e5f91f0328f396a
 url: ''

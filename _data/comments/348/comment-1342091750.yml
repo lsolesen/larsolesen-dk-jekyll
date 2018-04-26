@@ -1,6 +1,8 @@
 _id: drupal-comment-7659
 message: >-
-  <p>Well $5 a month isn&#39;t much for keeping two backups. Keeping 7 daily backups &nbsp;would need 4 times the storage, I tried that on S3 but switched back to 1 daily backup when I saw how much it was costing me.</p><p>Having said that, massive data loss sucks. I had a similar experience with Aegir a couple of years ago. Luckily it *just* deleted all the files on my production sites, and I could get them back from the daily backups. Haven&#39;t touched Aegir since.</p>
+  Well $5 a month isn't much for keeping two backups. Keeping 7 daily backups would need 4 times the storage, I tried that on S3 but switched back to 1 daily backup when I saw how much it was costing me.
+
+  Having said that, massive data loss sucks. I had a similar experience with Aegir a couple of years ago. Luckily it \*just\* deleted all the files on my production sites, and I could get them back from the daily backups. Haven't touched Aegir since.
 name: Mark Muhleder
 email: 02d8d8d69c0ea862ee102a5f3a028910
 url: 'http://www.analogweb.co.uk'

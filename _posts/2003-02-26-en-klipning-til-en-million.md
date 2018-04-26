@@ -1,6 +1,7 @@
 ---
-title: En klipning til en million
+title: "En klipning til en million"
 redirect_from: /content/en-klipning-til-en-million
+language: da
 tags:
   - tanzania
 modified: 2010-11-07T01:32:57Z

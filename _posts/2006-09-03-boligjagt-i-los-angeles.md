@@ -1,6 +1,7 @@
 ---
-title: Boligjagt i Los Angeles
+title: "Boligjagt i Los Angeles"
 redirect_from: /content/boligjagt-i-los-angeles
+language: da
 tags:
   - dagbog
   - los angeles

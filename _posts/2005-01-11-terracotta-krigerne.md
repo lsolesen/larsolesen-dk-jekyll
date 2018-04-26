@@ -1,6 +1,7 @@
 ---
-title: Terracotta krigerne
+title: "Terracotta krigerne"
 redirect_from: /content/terracotta-krigerne
+language: da
 tags:
   - kina
 modified: 2010-11-07T18:13:14Z

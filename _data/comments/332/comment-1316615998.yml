@@ -1,6 +1,8 @@
 _id: drupal-comment-7513
 message: >-
-  <p>The &lt;a href=&quot;drupal.org/project/references&quot;&gt;references&lt;/a&gt; modul has a reverse reference you can choose in views.</p><p>Or try the &lt;a href=&quot;drupal.org/project/relation&quot;&gt;relation&lt;/a&gt; module.</p>
+  The <a href="drupal.org/project/references">references</a> modul has a reverse reference you can choose in views.
+
+  Or try the <a href="drupal.org/project/relation">relation</a> module.
 name: Arne
 email: e7f618b537362f7cac5bddf51d0a8a35
 url: 'http://www.arnetietz.de'

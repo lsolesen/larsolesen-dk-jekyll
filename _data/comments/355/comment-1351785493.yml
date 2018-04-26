@@ -1,6 +1,6 @@
 _id: drupal-comment-7702
 message: >-
-  <p>I&#39;d be very wary of doing this automatically, particularly the &quot;is this still a problem in the current version&quot; question. From the bug reporter&#39;s point of view such an email is a reminder that work is being done on the module, but there bug isn&#39;t important enough to be fixed. It might be true, but it&#39;s not a very friendly message to send!</p>
+  I'd be very wary of doing this automatically, particularly the "is this still a problem in the current version" question. From the bug reporter's point of view such an email is a reminder that work is being done on the module, but there bug isn't important enough to be fixed. It might be true, but it's not a very friendly message to send!
 name: ianmthomasuk
 email: 08e5d830ccf698de6f17e37de6fcfd99
 url: ''

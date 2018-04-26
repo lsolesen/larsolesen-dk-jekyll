@@ -1,6 +1,6 @@
 _id: drupal-comment-533
 message: >-
-  <p>Copying default.settings.php to settings.php is no longer necessary in D7 :) It was patched.</p>
+  Copying default.settings.php to settings.php is no longer necessary in D7 :) It was patched.
 name: EvanDonovan
 email: 72ac24e8572356c6c2c8deba7a09cf37
 url: ''

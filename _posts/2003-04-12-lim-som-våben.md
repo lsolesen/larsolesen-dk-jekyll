@@ -1,6 +1,7 @@
 ---
-title: Lim som våben
+title: "Lim som våben"
 redirect_from: /content/lim-som-våben
+language: da
 tags:
   - sydafrika
 modified: 2010-11-06T20:26:47Z

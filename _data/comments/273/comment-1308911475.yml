@@ -1,6 +1,6 @@
 _id: drupal-comment-486
 message: >-
-  <p>Yeap, it&#39;s not being invoked from the views.module code so it&#39;s not needed anymore.</p>
+  Yeap, it's not being invoked from the views.module code so it's not needed anymore.
 name: Martin
 email: c861448087a37f7afaa5eaaddbfc2798
 url: 'http://mmartinov.com'

@@ -1,6 +1,7 @@
 ---
-title: På museum i Los Angeles
+title: "På museum i Los Angeles"
 redirect_from: /content/på-museum-i-los-angeles
+language: da
 tags:
   - dagbog
   - los angeles

@@ -1,6 +1,7 @@
 ---
-title: På toppen af Kilimanjaro
+title: "På toppen af Kilimanjaro"
 redirect_from: /content/på-toppen-af-kilimanjaro
+language: da
 tags:
   - tanzania
 modified: 2010-11-07T01:27:39Z

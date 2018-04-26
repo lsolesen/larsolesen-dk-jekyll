@@ -1,6 +1,7 @@
 ---
-title: Interesseret i din egen digitale sikkerhed?
+title: "Interesseret i din egen digitale sikkerhed?"
 redirect_from: /content/interesseret-i-din-egen-digitale-sikkerhed
+language: da
 tags:
   - sikkerhed
 modified: 2010-10-11T10:41:09Z

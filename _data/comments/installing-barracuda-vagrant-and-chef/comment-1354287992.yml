@@ -1,36 +1,34 @@
 _id: drupal-comment-7716
 message: >-
-  <p>I have a chef template that contains</p>
+  I have a chef template that contains
 
-<code>/data/disk/<%= node[:vagrant_main][:octopus_user] %>/ <%= node[:vagrant_main][:nfs_host] %>(rw,all_squash,no_subtree_check,anonuid=<%= %x[ id -u #{node[:vagrant_main][:octopus_user]} ].strip %>,anongid=<%= %x[ id -g #{node[:vagrant_main][:octopus_user]} ].strip %>)</code>
+  `/data/disk// (rw,all_squash,no_subtree_check,anonuid=,anongid=)`My recipe writes it to /etc/exports
 
-<p>My recipe writes it to /etc/exports<p>
+  ```
+  package "nfs-kernel-server"
+  package "nfs-common"
+  package "rpcbind"
+  template '/etc/exports' do
+    source "exports.erb"
+    owner "root"
+    group "root"
+    mode "0644"
+    action :create
+  end
+  script "nfs_restart" do
+    interpreter "bash"
+    user "root"
+    code
 
-<code>package "nfs-kernel-server"
-package "nfs-common"
-package "rpcbind"
-template '/etc/exports' do
-  source "exports.erb"
-  owner "root"
-  group "root"
-  mode "0644"
-  action :create
-end
-script "nfs_restart" do
-  interpreter "bash"
-  user "root"
-  code <<-EOH
-/etc/init.d/nfs-kernel-server restart
-  EOH
-end</code>
+  <p>To start up and mount, I have to</p>
 
-<p>To start up and mount, I have to</p>
+  ```
+  vagrant up
+  mkdir -p nfs-o1
+  sudo mount -o -P 192.168.33.10:/data/disk/o1/ nfs-o1
 
-<code>
-vagrant up
-mkdir -p nfs-o1
-sudo mount -o -P 192.168.33.10:/data/disk/o1/ nfs-o1
-</code>
+  ```
+  ```
 name: Brian
 email: f06ffca97ddd5719a20baae4f33d385e
 url: ''

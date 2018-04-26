@@ -1,6 +1,6 @@
 _id: drupal-comment-488
 message: >-
-  <p>Couldn&#39;t you just wrap the field in UNIX_TIMESTAMP()?&nbsp; Would make a much simpler views handler.</p>
+  Couldn't you just wrap the field in UNIX\_TIMESTAMP()? Would make a much simpler views handler.
 name: Leon
 email: cc74dadd9e41e6704192cfd3ea47f686
 url: ''

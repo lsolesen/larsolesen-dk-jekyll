@@ -1,6 +1,7 @@
 ---
-title: Dr. Maretu - en traditionel healer
+title: "Dr. Maretu - en traditionel healer"
 redirect_from: /content/dr-maretu-en-traditionel-healer
+language: da
 tags:
   - tanzania
 modified: 2010-11-07T11:03:10Z

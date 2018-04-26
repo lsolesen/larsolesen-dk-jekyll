@@ -1,6 +1,10 @@
 _id: drupal-comment-514
 message: >-
-  <p>Hi,</p><p>I think you can also just use hook_menu_alter() and change the context values of the tabs to not show up as tabs but only as contextual links :) Much less code, let the system take care of the presentation for you. Maybe I&#39;m misunderstanding your goals here?</p><p>Gábor</p>
+  Hi,
+
+  I think you can also just use hook\_menu\_alter() and change the context values of the tabs to not show up as tabs but only as contextual links :) Much less code, let the system take care of the presentation for you. Maybe I'm misunderstanding your goals here?
+
+  Gábor
 name: Gábor Hojtsy
 email: 4bbb230733a5940bfa98fd55160fb82a
 url: ''

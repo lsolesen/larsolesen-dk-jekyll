@@ -1,6 +1,7 @@
 ---
-title: Announcing Idea Informer Widget to gather feedback
+title: "Announcing Idea Informer Widget to gather feedback"
 redirect_from: /content/announcing-idea-informer-widget-gather-feedback
+language: da
 tags:
   - drupal
   - planet drupal

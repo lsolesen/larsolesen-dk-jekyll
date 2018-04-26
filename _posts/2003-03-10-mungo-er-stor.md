@@ -1,6 +1,7 @@
 ---
-title: Mungo er stor
+title: "Mungo er stor"
 redirect_from: /content/mungo-er-stor
+language: da
 tags:
   - tanzania
 modified: 2010-11-07T01:46:13Z

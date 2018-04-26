@@ -1,6 +1,6 @@
 _id: drupal-comment-7712
 message: >-
-  <p>I had the same issue with permissions and vagrant-mounted folders. I ended up configuring /etc/exports in my vagrantfile so I could map the user and group, and mounting it manually on my host system.</p>
+  I had the same issue with permissions and vagrant-mounted folders. I ended up configuring /etc/exports in my vagrantfile so I could map the user and group, and mounting it manually on my host system.
 name: Brian
 email: f06ffca97ddd5719a20baae4f33d385e
 url: ''

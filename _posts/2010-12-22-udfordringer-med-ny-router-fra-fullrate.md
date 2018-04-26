@@ -1,6 +1,7 @@
 ---
-title: Udfordringer med ny router fra Fullrate
+title: "Udfordringer med ny router fra Fullrate"
 redirect_from: /content/udfordringer-med-ny-router-fra-fullrate
+language: da
 tags:
   - fullrate
   - bredbånd

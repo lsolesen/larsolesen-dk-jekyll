@@ -1,9 +1,12 @@
 _id: drupal-comment-7539
 message: >-
-  <p>Once your content is indexed by Google, adding a disallow rule in your robots.txt won&#39;t fix your issue. You need to give Google a 404 to force it to remove the content. Another option is to add a noindex, follow metatag</p><p>&nbsp;</p>
-<pre style="word-wrap: break-word; white-space: pre-wrap; ">
-&lt;meta name=&quot;robots&quot; content=&quot;noindex, follow&quot; /&gt;</pre>
-<p>I&#39;m doing the last one on each project where you have filters, sorting, ...</p>
+  Once your content is indexed by Google, adding a disallow rule in your robots.txt won't fix your issue. You need to give Google a 404 to force it to remove the content. Another option is to add a noindex, follow metatag
+
+  ```
+  <pre style="word-wrap: break-word; white-space: pre-wrap; ">
+  <meta name="robots" content="noindex, follow" />
+  ```
+  I'm doing the last one on each project where you have filters, sorting, ...
 name: DVDB
 email: 0cd61e1b2bfdf52ed079b57cfd2dea4f
 url: ''

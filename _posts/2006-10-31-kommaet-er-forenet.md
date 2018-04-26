@@ -1,6 +1,7 @@
 ---
-title: Kommaet er forenet
+title: "Kommaet er forenet"
 redirect_from: /content/kommaet-er-forenet
+language: da
 tags:
 modified: 2010-11-06T13:50:33Z
 ---

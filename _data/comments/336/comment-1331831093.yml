@@ -1,6 +1,8 @@
 _id: drupal-comment-7575
 message: >-
-  <p>Are you actively using this combination of fserver and appserver? &nbsp;I too am interested in using fserver to host the tar.gz or zip files that are served by appserver. It works, but it&#39;s cumbersome to add a new app or a new release. &nbsp;Creating some relationships between the fserver and app release entities would help. &nbsp;Let me know if you want to discuss this more. &nbsp;If you happen to be going to DrupalCon Denver, I&#39;ll be there.</p><p>Thanks for your write up!</p>
+  Are you actively using this combination of fserver and appserver? I too am interested in using fserver to host the tar.gz or zip files that are served by appserver. It works, but it's cumbersome to add a new app or a new release. Creating some relationships between the fserver and app release entities would help. Let me know if you want to discuss this more. If you happen to be going to DrupalCon Denver, I'll be there.
+
+  Thanks for your write up!
 name: Brian Wood
 email: 221e4b3eeb72c695a5f7b8674af2e767
 url: ''

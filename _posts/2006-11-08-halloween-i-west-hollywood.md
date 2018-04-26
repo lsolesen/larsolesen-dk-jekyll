@@ -1,6 +1,7 @@
 ---
-title: Halloween i West Hollywood
+title: "Halloween i West Hollywood"
 redirect_from: /content/halloween-i-west-hollywood
+language: da
 tags:
   - usa
   - los angeles

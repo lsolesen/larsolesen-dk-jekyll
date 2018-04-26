@@ -1,6 +1,6 @@
 _id: drupal-comment-482
 message: >-
-  Just FYI - hook_views_handlers() doesn't do anything in D7.
+  Just FYI - hook\_views\_handlers() doesn't do anything in D7.
 name: Martin
 email: c861448087a37f7afaa5eaaddbfc2798
 url: 'http://mmartinov.com'

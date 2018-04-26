@@ -1,14 +1,6 @@
 _id: drupal-comment-7718
 message: >-
-  I figured it out. I'm sorry I'm posting here. All my comments got rejected as spam submissions on the appropriate blog posting.
-
-This is how I fixed it:
-
-guest $ uname -a
-guest $ sudo apt-get install linux-headers-2.6.32-45-generic
-guest $ export KERN_DIR=/usr/src/linux-headers-2.6.32-45-generic
-guest $ sudo /etc/init.d/vboxadd setup
-host $ vagrant reload
+  I figured it out. I'm sorry I'm posting here. All my comments got rejected as spam submissions on the appropriate blog posting. This is how I fixed it: guest $ uname -a guest $ sudo apt-get install linux-headers-2.6.32-45-generic guest $ export KERN\_DIR=/usr/src/linux-headers-2.6.32-45-generic guest $ sudo /etc/init.d/vboxadd setup host $ vagrant reload
 name: Ari
 email: fddf924ce6a7af6d2fb7cf72958feeff
 url: ''

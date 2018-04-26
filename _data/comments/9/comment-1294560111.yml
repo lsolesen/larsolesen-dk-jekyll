@@ -1,6 +1,8 @@
 _id: drupal-comment-84
 message: >-
-  <p>Thanks for this article!</p><p>I wondered what would happen to the installed modules. Due to the fact that in Drupal 6 you had to copy all module-files manually in the sites/all - folder to make them usable for all sites: This seem to be the standard in Drupal 7. All modules installed by the GUI are copied to sites/all/modules. Hence can be used by every page. Didn`t try that one out yet, but seems to be the case.</p>
+  Thanks for this article!
+
+  I wondered what would happen to the installed modules. Due to the fact that in Drupal 6 you had to copy all module-files manually in the sites/all - folder to make them usable for all sites: This seem to be the standard in Drupal 7. All modules installed by the GUI are copied to sites/all/modules. Hence can be used by every page. Didn`t try that one out yet, but seems to be the case.
 name: Steven
 email: d41d8cd98f00b204e9800998ecf8427e
 url: ''

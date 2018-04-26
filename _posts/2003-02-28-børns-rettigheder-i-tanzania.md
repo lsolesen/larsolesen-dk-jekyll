@@ -1,6 +1,7 @@
 ---
-title: Børns rettigheder i Tanzania
+title: "Børns rettigheder i Tanzania"
 redirect_from: /content/børns-rettigheder-i-tanzania
+language: da
 tags:
   - tanzania
 modified: 2010-11-07T01:44:04Z

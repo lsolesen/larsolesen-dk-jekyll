@@ -1,6 +1,8 @@
 _id: drupal-comment-370
 message: >-
-  <p>Hi I was facing the same issue too . There are two D6 modules that seem to do the same thing the iPaper module and the Scribd Field modules. However no drupal 7 port is developed yet and the issue queues are silent as to the progress being made. You seem to be a developer with considerable talents seeing your scribd filter module. May be a look at those will help?</p><p>Santam</p>
+  Hi I was facing the same issue too . There are two D6 modules that seem to do the same thing the iPaper module and the Scribd Field modules. However no drupal 7 port is developed yet and the issue queues are silent as to the progress being made. You seem to be a developer with considerable talents seeing your scribd filter module. May be a look at those will help?
+
+  Santam
 name: Santam Chakraborty
 email: d41d8cd98f00b204e9800998ecf8427e
 url: ''

@@ -1,6 +1,8 @@
 _id: drupal-comment-7540
 message: >-
-  <p>To avoid duplicate content issues with Views, you should definitely use <a href="http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html">rel=&quot;canonical&quot;</a></p><p>Google lately also introduced rel=&quot;next&quot; and rel=&quot;prev&quot; to solve <a href="http://googlewebmastercentral.blogspot.com/2011/09/pagination-with-relnext-and-relprev.html">pagination</a> issues with duplicate content.</p>
+  To avoid duplicate content issues with Views, you should definitely use [rel="canonical"](http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html)
+
+  Google lately also introduced rel="next" and rel="prev" to solve [pagination](http://googlewebmastercentral.blogspot.com/2011/09/pagination-with-relnext-and-relprev.html) issues with duplicate content.
 name: George Paapdongonas
 email: 83e14ddf593fe57646fd18b73004efd7
 url: 'http://www.infowonders.gr'

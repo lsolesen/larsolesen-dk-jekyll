@@ -1,6 +1,7 @@
 ---
-title: Aften i West Street
+title: "Aften i West Street"
 redirect_from: /content/aften-i-west-street
+language: da
 tags:
 modified: 2010-11-07T18:17:59Z
 ---
