@@ -1,0 +1,8 @@
+_id: drupal-comment-529
+message: >-
+  <p>Hi, Visiting vih.dk, I got the following error on the site frontpage in Firefox 3.6.18</p><ul><li><em class="placeholder">Notice</em>: Undefined index: view modes i <em class="placeholder">field_view_mode_settings()</em> (linje <em class="placeholder">629</em> af <em class="placeholder">/home/vih/vih.dk/modules/field/field.module</em>).</li><li><em class="placeholder">Warning</em>: Invalid argument supplied for foreach() i <em class="placeholder">field_view_mode_settings()</em> (linje <em class="placeholder">629</em> af <em class="placeholder">/home/vih/vih.dk/modules/field/field.module</em>).</li><li><em class="placeholder">Notice</em>: Undefined index: settings i <em class="placeholder">media_get_file_without_label()</em> (linje <em class="placeholder">358</em> af <em class="placeholder">/home/vih/vih.dk/profiles/vih_dk/modules/contrib/media/includes/media.filter.inc</em>).</li><li><em class="placeholder">Warning</em>: array_merge() [<a href="http://vih.dk/function.array-merge">function.array-merge</a>]: Argument #1 is not an array i <em class="placeholder">media_get_file_without_label()</em> (linje <em class="placeholder">358</em> af <em class="placeholder">/home/vih/vih.dk/profiles/vih_dk/modules/contrib/media/includes/media.filter.inc</em>).</li></ul><p>Hope this helps (module looks interesting too)</p>
+name: Andrew
+email: 6c0a45b1e68670daebc1c594ad6bbf67
+url: ''
+hidden: ''
+date: '2011-07-07T15:38:42Z'

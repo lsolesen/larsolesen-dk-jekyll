@@ -1,0 +1,8 @@
+_id: drupal-comment-7777
+message: >-
+  To make the above code work you also need to add the class 'contextual-links-region' to the #content div in page.tpl.php
+name: Richard Morgan
+email: 0e33f6faf93c405690b54baacf4374cb
+url: ''
+hidden: ''
+date: '2013-07-24T15:44:45Z'

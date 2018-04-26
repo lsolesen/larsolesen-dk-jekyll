@@ -1,0 +1,8 @@
+_id: drupal-comment-540
+message: >-
+  <p>&lt;blockquote&gt;</p><ul><li><strong>Block.</strong> After 6 months of inactivity I choose to block users which are not content owners from the site. I haven&#39;t really considered why I am blocking people first instead of just deleting them. I give the user a warning 2 weeks before the action is executed.</li><li><strong>Delete.</strong> If users has not logged in for one year, I delete them giving them 2 weeks notice.&lt;/blockquote&gt;</li></ul><p>&nbsp;</p><p>If the users are blocked, they can&#39;t return after 6 months. Thus they will be deleted in a year as they won&#39;t have the ability to log back in. It is unclear if you&#39;ve taken this into consideration which is why I mention here.</p>
+name: Anon
+email: 15b4e6e85f24b863f9bf7f47214f2956
+url: ''
+hidden: ''
+date: '2011-07-16T08:40:23Z'

@@ -1,0 +1,8 @@
+_id: drupal-comment-435
+message: >-
+  <p>We used the Redirect module (http://drupal.org/project/redirect) to add 301 redirects from our old links to the new ones, this has the benefit of not making those pages &#39;dead&#39; for a user that follows a link to them, in fact they probably don&#39;t even notice they&#39;ve been redirected.</p>
+name: Steven Jones
+email: 4a7b2105a0b71e0d35eb3fdabd01811a
+url: 'http://www.computerminds.co.uk'
+hidden: ''
+date: '2011-06-20T17:16:23Z'

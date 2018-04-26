@@ -1,0 +1,14 @@
+_id: drupal-comment-7747
+message: >-
+  When you say "First edit the Vagrantfile and put in an IP" how do you do this and what is the end result. Are you assigning a static IP for a bridged network?
+
+Ideally I would have a static ip so my hosts file didn't need to be changed, but since my setup is on a laptop, I don't have a consistent network to work with.
+
+I have looked into setting up a local dns server but it seems like more work than it might be worth.
+
+For now my work network seems to keep giving me the same IP address using DHCP.
+name: Chris Rowe
+email: 5c20bdec8a2ffd5eb59579086b2f9adb
+url: ''
+hidden: ''
+date: '2013-05-01T19:47:37Z'

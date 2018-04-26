@@ -1,0 +1,8 @@
+_id: drupal-comment-516
+message: >-
+  <p>The article says that you have to define the $GLOBALS once. Not every time you use the function. The benefit is that you are able to redefine your function later in your application, so it is possible to include other systems into Drupal. I will have a look through the article you specified.</p>
+name: lsolesen
+email: d41d8cd98f00b204e9800998ecf8427e
+url: ''
+hidden: ''
+date: '2011-06-27T15:05:43Z'

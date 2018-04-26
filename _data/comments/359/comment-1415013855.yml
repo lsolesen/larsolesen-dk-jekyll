@@ -1,0 +1,8 @@
+_id: drupal-comment-7829
+message: >-
+  <p>Hey Lars,</p><p>Although this is Danish&nbsp;site, I&#39;ll write in English before I learn Danish language.&nbsp;Thanks for the great post. I think BOA is lacking some manual (though it&#39;s out of project scope) on doing manual backups with duplicity (or any other tool) - this post seems to fill that&nbsp;gap nicely.</p><p>&nbsp;Do you have experience when using S3 as remote location? Do you adjust volume sizes, instead of default 25MB to maby 250MB? What about backing up large files folder, which is only symlinked inside drupal site (these files are not showing up in backup created in aegir)&nbsp;?</p><p>Thanks again for sharing this one, this helped me a lot.</p>
+name: Paulius Pazdrazdys
+email: ac90e2222526f7bdc1b0a85f994478c2
+url: ''
+hidden: ''
+date: '2014-11-03T13:24:15Z'

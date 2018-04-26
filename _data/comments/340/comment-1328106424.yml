@@ -1,0 +1,8 @@
+_id: drupal-comment-7557
+message: >-
+  <p>Unfortunately if you try to download the PDF in the linked page, you&#39;ll get an error:</p><p><b>Fatal error</b>: Call to undefined function file_create_path() in <b>/home/vih/vih.dk/profiles/vih_dk/modules/contrib/chart/chart.module</b> on line <b>212</b></p><p>&nbsp;</p><p><b>:)</b></p>
+name: Ema
+email: 8d68e950f64a07de85c45480854f6122
+url: ''
+hidden: ''
+date: '2012-02-01T16:27:04Z'

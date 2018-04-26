@@ -1,0 +1,8 @@
+_id: drupal-comment-538
+message: >-
+  <p>I ran into a permissions problem with the tmp file. I took the shotgun approach and switched it to 777 to make it go away but that makes me antsy. I didn&#39;t have time to play today but I think it should be 755.</p>
+name: Angus
+email: ee438d91248dd17f7f8a1997aff60512
+url: ''
+hidden: ''
+date: '2011-07-15T02:27:44Z'

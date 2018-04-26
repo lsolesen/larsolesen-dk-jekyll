@@ -1,0 +1,8 @@
+_id: drupal-comment-433
+message: >-
+  <p>This is what http://drupal.org/project/redirect is for - so you serve a 301 response code on the old URL that indicates to search engines that the page has moved rather than removing the old URL from the index and starting over with the new page.</p>
+name: Dave Reid
+email: a4c7b4000e21a329a7855a29d4ac744f
+url: ''
+hidden: ''
+date: '2011-06-20T16:03:16Z'

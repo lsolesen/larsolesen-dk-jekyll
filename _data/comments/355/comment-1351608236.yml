@@ -1,0 +1,8 @@
+_id: drupal-comment-7698
+message: >-
+  <p>So, you ask if the issue is resolved, and then close the issue if no one responds in 14 days? That seems rather cruel and disrespectful to me.</p><p>If the issue description has enough detail for you to reproduce it, then you owe it to the reporter to TEST the issue before you suggest that it might be resolved.</p><p>If you&#39;re too lazy to test the report for yourself, then you aren&#39;t &quot;cleaning&quot; the issue queue, you are vandalizing it.</p><p>I know I&#39;m going over the top here, and I suspect that the vast majority of your actions are totally justified! But your process as described is too disruptive.</p><p>If there isn&#39;t enough information to test the issue against dev or the latest release, then by all means go ahead!</p>
+name: Firebus
+email: 39cc765054b154285efde1447b63d582
+url: ''
+hidden: ''
+date: '2012-10-30T16:43:56Z'

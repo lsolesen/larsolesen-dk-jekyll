@@ -1,0 +1,14 @@
+_id: drupal-comment-510
+message: >-
+  <p>With extra flexibility comes a hit in performance.</p><p>Larry Garfield did a write up a while ago about the cost of using call_user_func_array etc:<br />http://www.garfieldtech.com/blog/benchmarking-magic<br />that&#39;s well worth a read.</p><p>Other than the performance issues, are you suggesting that before <em>every</em> call to <code>l</code> I&#39;d need to do:</p>
+<pre>
+<code><?php
+$GLOBALS["_global_function_handler_l"] = "drupal_function_handler_l";
+$string = l("some text");
+?></code></pre>
+<p>Because that seems to be what that article is saying.</p><p>A great idea, but needs a better implementation, maybe using PHP namespaces?</p>
+name: Steven Jones
+email: 4a7b2105a0b71e0d35eb3fdabd01811a
+url: 'http://www.computerminds.co.uk'
+hidden: ''
+date: '2011-06-27T10:01:00Z'

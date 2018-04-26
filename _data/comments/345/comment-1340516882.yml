@@ -1,0 +1,8 @@
+_id: drupal-comment-7636
+message: >-
+  <p>sometimes the trick is to move the patches farther along, so when the maintainer is busy they can more readily apply the patches.</p><p>- include simpltests with patches</p><p>- include test cases/examples</p><p>&nbsp;</p><p>Another common problem is alot of patches in the queue that have not been reviewed and tested by the community.&nbsp; If everytime someone committed a patch to a particular module, they reviewed and tested 2 other patches, this would help move the patches forward.&nbsp;&nbsp; Since one already has the -dev version of a module available when the patch is written, its a good time to review other&#39;s patches.</p>
+name: John Barclay
+email: c8701deaf06392a62debd02989932ca0
+url: ''
+hidden: ''
+date: '2012-06-24T08:48:02Z'

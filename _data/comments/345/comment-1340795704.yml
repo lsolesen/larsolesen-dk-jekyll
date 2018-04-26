@@ -1,0 +1,8 @@
+_id: drupal-comment-7639
+message: >-
+  <p>Everyone feels this way at some time - the problem is that your current sticking point is likely to be because you want to use this module NOW, but the maintainer may not have a pressing deadline etc. (quite simply, different people have different schedules).</p><p>I&#39;d agree that the best way is to progress the patch to RTBC.</p><p>As a maintainer of a couple of modules, my spare time ebbs and flows, but when I have time, I always start by looking for RTBC patches to commit, then I review issues marked Needs Review, then Needs Work, before going for new work. I also prioritise bug reports over other tasks or features.</p>
+name: juliangb
+email: 51607853f5002b21bfc37319ef8a5e73
+url: 'http://julian.granger-bevan.me'
+hidden: ''
+date: '2012-06-27T14:15:04Z'

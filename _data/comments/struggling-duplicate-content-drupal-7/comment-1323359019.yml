@@ -1,0 +1,8 @@
+_id: drupal-comment-7538
+message: >-
+  <p>Hi</p><p>at https://www.google.com/webmasters/tools/crawl-url-parameters you can tell google how to behave. With this you can ignore a parameter and the problem should be gone. Did you try that? Otherwise I think the robots.txt solution should work well.</p>
+name: Kars-T
+email: fc938c8ad6c15fdae0f5677162486749
+url: 'http://www.comm-press.de'
+hidden: ''
+date: '2011-12-08T17:43:39Z'

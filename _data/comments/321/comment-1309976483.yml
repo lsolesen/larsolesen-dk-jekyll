@@ -1,0 +1,8 @@
+_id: drupal-comment-528
+message: >-
+  <p>I have a D6 site running a forum and am using the Spam and&nbsp; CAPTCHA modules.&nbsp;</p><p>People complain about the CAPTCHA module, even though I&#39;m using the CSS CAPTCHA (it doesn&#39;t put up an image, it uses CSS to rearrange the order of a few characters, so it&#39;s easy to read and copy).&nbsp; I see a consistent number of failed CAPTCHA tests in my logs, so it does hurt usability.&nbsp;</p><p>The Spam module mostly relies on a Bayesian filter, but I&#39;ve created a number of whitelist custom filters, too.&nbsp; The Bayesian filter comes completely untrained, and it takes a fair amount of traffic for it to learn.&nbsp; I&#39;ve been running my forum for a year and a half and I get about 5-10 new posts in a day (&gt; 3000 messages).&nbsp; I would say that only now does the filter seem to be getting things right most of the time.&nbsp;</p><p>Probably Mollom is a better solution and I will be looking at it the next time I revamp this site.</p>
+name: Darrylri
+email: 1287787b5afaff6508500ab129a4788d
+url: 'http://www.vintagebmw.org'
+hidden: ''
+date: '2011-07-06T21:21:23Z'
