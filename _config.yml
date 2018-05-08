@@ -25,7 +25,7 @@ comments:
 staticman:
   branch                 : "gh-pages"
 atom_feed:
-  path                   : "rss.xml" # blank (default) uses feed.xml
+  path                   : "/rss.xml" # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
