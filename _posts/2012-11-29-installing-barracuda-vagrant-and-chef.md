@@ -1,6 +1,6 @@
 ---
 title: "Installing barracuda with vagrant and chef"
-redirect_from: /content/installing-barracuda-vagrant-and-chef
+permalink: /content/installing-barracuda-vagrant-and-chef
 language: und
 tags:
 modified: 2012-11-29T15:32:45Z

@@ -1,6 +1,6 @@
 ---
 title: "Guide til cykeloplevelser i Øst- og Vestjylland"
-redirect_from: /content/guide-til-cykeloplevelser-i-øst-og-vestjylland
+permalink: /content/guide-til-cykeloplevelser-i-øst-og-vestjylland
 language: da
 tags:
   - cykelferie

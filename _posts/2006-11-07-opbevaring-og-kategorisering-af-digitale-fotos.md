@@ -1,6 +1,6 @@
 ---
 title: "Opbevaring og kategorisering af digitale fotos"
-redirect_from: /content/opbevaring-og-kategorisering-af-digitale-fotos
+permalink: /content/opbevaring-og-kategorisering-af-digitale-fotos
 language: da
 tags:
 modified: 2010-11-06T16:52:50Z

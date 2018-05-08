@@ -1,6 +1,6 @@
 ---
 title: "Filmbyen Los Angeles"
-redirect_from: /content/filmbyen-los-angeles
+permalink: /content/filmbyen-los-angeles
 language: da
 tags:
   - usa

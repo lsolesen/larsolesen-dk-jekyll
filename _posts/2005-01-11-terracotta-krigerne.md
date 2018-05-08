@@ -1,6 +1,6 @@
 ---
 title: "Terracotta krigerne"
-redirect_from: /content/terracotta-krigerne
+permalink: /content/terracotta-krigerne
 language: da
 tags:
   - kina

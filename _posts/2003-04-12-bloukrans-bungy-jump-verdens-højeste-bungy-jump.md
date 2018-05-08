@@ -1,6 +1,6 @@
 ---
 title: "Bloukrans Bungy Jump: Verdens højeste bungy jump"
-redirect_from: /content/bloukrans-bungy-jump-verdens-højeste-bungy-jump
+permalink: /content/bloukrans-bungy-jump-verdens-højeste-bungy-jump
 language: da
 tags:
   - sydafrika

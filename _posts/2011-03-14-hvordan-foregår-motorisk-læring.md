@@ -1,6 +1,6 @@
 ---
 title: "Hvordan foregår motorisk læring?"
-redirect_from: /content/hvordan-foregår-motorisk-læring
+permalink: /content/hvordan-foregår-motorisk-læring
 language: da
 tags:
   - motorisk læring

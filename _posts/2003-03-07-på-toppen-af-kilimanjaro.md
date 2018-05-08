@@ -1,6 +1,6 @@
 ---
 title: "På toppen af Kilimanjaro"
-redirect_from: /content/på-toppen-af-kilimanjaro
+permalink: /content/på-toppen-af-kilimanjaro
 language: da
 tags:
   - tanzania

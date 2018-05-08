@@ -1,6 +1,6 @@
 ---
 title: "Understanding the power of Barracuda"
-redirect_from: /content/understanding-power-barracuda
+permalink: /content/understanding-power-barracuda
 language: und
 tags:
 modified: 2012-12-02T20:37:27Z

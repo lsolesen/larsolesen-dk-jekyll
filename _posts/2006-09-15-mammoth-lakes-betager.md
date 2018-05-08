@@ -1,6 +1,6 @@
 ---
 title: "Mammoth Lakes betager"
-redirect_from: /content/mammoth-lakes-betager
+permalink: /content/mammoth-lakes-betager
 language: da
 tags:
   - usa

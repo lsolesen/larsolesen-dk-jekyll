@@ -1,6 +1,6 @@
 ---
 title: "En hulens stor elefant - Addo Elephant Park"
-redirect_from: /content/en-hulens-stor-elefant-addo-elephant-park
+permalink: /content/en-hulens-stor-elefant-addo-elephant-park
 language: da
 tags:
   - sydafrika

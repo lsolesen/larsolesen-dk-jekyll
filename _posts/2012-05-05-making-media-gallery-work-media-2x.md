@@ -1,6 +1,6 @@
 ---
 title: "Making Media Gallery work with Media 2.x"
-redirect_from: /content/making-media-gallery-work-media-2x
+permalink: /content/making-media-gallery-work-media-2x
 language: und
 tags:
   - drupal

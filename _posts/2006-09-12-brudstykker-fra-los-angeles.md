@@ -1,6 +1,6 @@
 ---
 title: "Brudstykker fra Los Angeles"
-redirect_from: /content/brudstykker-fra-los-angeles
+permalink: /content/brudstykker-fra-los-angeles
 language: da
 tags:
   - usa

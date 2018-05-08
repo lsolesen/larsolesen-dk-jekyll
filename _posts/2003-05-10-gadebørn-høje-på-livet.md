@@ -1,6 +1,6 @@
 ---
 title: "Gadebørn høje på livet"
-redirect_from: /content/gadebørn-høje-på-livet
+permalink: /content/gadebørn-høje-på-livet
 language: da
 tags:
   - sydafrika

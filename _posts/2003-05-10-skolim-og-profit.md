@@ -1,6 +1,6 @@
 ---
 title: "Skolim og profit"
-redirect_from: /content/skolim-og-profit
+permalink: /content/skolim-og-profit
 language: da
 tags:
   - sydafrika

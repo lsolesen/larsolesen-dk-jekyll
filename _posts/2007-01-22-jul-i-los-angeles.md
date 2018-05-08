@@ -1,6 +1,6 @@
 ---
 title: "Jul i Los Angeles"
-redirect_from: /content/jul-i-los-angeles
+permalink: /content/jul-i-los-angeles
 language: da
 tags:
   - usa

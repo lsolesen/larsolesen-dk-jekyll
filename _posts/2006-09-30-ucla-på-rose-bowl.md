@@ -1,6 +1,6 @@
 ---
 title: "UCLA på Rose Bowl"
-redirect_from: /content/ucla-på-rose-bowl
+permalink: /content/ucla-på-rose-bowl
 language: da
 tags:
   - usa

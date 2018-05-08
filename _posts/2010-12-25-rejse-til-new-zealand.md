@@ -1,6 +1,6 @@
 ---
 title: "Rejse til New Zealand"
-redirect_from: /content/rejse-til-new-zealand
+permalink: /content/rejse-til-new-zealand
 language: da
 tags:
   - new zealand

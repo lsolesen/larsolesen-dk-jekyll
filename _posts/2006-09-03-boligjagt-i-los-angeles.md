@@ -1,6 +1,6 @@
 ---
 title: "Boligjagt i Los Angeles"
-redirect_from: /content/boligjagt-i-los-angeles
+permalink: /content/boligjagt-i-los-angeles
 language: da
 tags:
   - dagbog

@@ -1,6 +1,6 @@
 ---
 title: "Lyx - den perfekte opgaveskriver"
-redirect_from: /content/lyx-den-perfekte-opgaveskriver
+permalink: /content/lyx-den-perfekte-opgaveskriver
 language: da
 tags:
   - lyx linux

@@ -1,6 +1,6 @@
 ---
 title: "Mungo er stor"
-redirect_from: /content/mungo-er-stor
+permalink: /content/mungo-er-stor
 language: da
 tags:
   - tanzania

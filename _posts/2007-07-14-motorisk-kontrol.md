@@ -1,6 +1,6 @@
 ---
 title: "Motorisk kontrol"
-redirect_from: /content/motorisk-kontrol
+permalink: /content/motorisk-kontrol
 language: da
 tags:
   - motorisk læring

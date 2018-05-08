@@ -1,6 +1,6 @@
 ---
 title: "Etikette i e-mails"
-redirect_from: /content/etikette-i-e-mails
+permalink: /content/etikette-i-e-mails
 language: da
 tags:
 modified: 2010-11-17T15:05:33Z

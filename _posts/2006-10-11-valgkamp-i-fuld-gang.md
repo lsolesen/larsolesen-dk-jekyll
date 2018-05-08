@@ -1,6 +1,6 @@
 ---
 title: "Valgkamp i fuld gang"
-redirect_from: /content/valgkamp-i-fuld-gang
+permalink: /content/valgkamp-i-fuld-gang
 language: da
 tags:
   - usa

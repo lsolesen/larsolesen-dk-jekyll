@@ -1,6 +1,6 @@
 ---
 title: "En klipning til en million"
-redirect_from: /content/en-klipning-til-en-million
+permalink: /content/en-klipning-til-en-million
 language: da
 tags:
   - tanzania
