@@ -68,7 +68,6 @@ collections:
           - {label: "Name", name: "name", widget: "string"}
           - {label: "Bio", name: "bio", widget: "string"}
           - {label: "Location", name: "location", widget: "string"}
-          - {label: "Avatar", name: "avatar", widget: "image", default: "/assets/images/authors/default-profile.png"}
           - label: "Links"
             name: links
             widget: list
