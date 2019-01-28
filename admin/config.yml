@@ -10,6 +10,7 @@ slug:
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
+    label_singular: "Post"
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -42,7 +43,21 @@ collections:
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: false
-    files: 
+    files:
+    - file: "_data/navigation.yml"
+        name: "main-navigation"
+        label: "Main navigation"
+        description: "Main navigation"
+        format: yaml
+        extension: yml
+        fields:
+          - label: "Links"
+            name: main
+            widget: list
+            required: false
+            fields:
+              - {label: Url, name: title, widget: string}
+              - {label: Url, name: url, widget: string}
       - file: "_data/site_author.yml"
         name: "author"
         label: "Site Author"
