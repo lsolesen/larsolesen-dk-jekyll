@@ -40,7 +40,7 @@ collections:
   - name: "settings"
     label: "Settings"
     files: 
-      - file: "_data/site-author.yml"
+      - file: "_data/siteauthor.yml"
         name: "author"
         label: "Site Author"
         format: yaml
