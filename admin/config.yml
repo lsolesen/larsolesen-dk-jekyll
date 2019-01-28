@@ -58,6 +58,15 @@ collections:
             fields:
               - {label: Url, name: title, widget: string}
               - {label: Url, name: url, widget: string}
+      - file: "_data/settings.yml"
+        name: "settings"
+        label: "Global settings"
+        description: "Global settings"
+        format: yaml
+        extension: yml
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Name, name: name, widget: string}
       - file: "_data/site_author.yml"
         name: "author"
         label: "Site Author"
