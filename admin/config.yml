@@ -62,8 +62,6 @@ collections:
         name: "settings"
         label: "Global settings"
         description: "Global settings"
-        format: yaml
-        extension: yml
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Name, name: name, widget: string}
@@ -71,8 +69,6 @@ collections:
         name: "author"
         label: "Site Author"
         description: "Settings about the global site author"
-        format: yaml
-        extension: yml
         fields:
           - {label: "Name", name: "name", widget: "string"}
           - {label: "Bio", name: "bio", widget: "string"}
