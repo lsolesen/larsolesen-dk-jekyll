@@ -59,7 +59,7 @@ collections:
               - {label: Url, name: title, widget: string}
               - {label: Url, name: url, widget: string}
       - file: "_data/site_author.yml"
-        name: "author"
+        name: "site_author"
         label: "Site Author"
         description: "Settings about the global site author"
         format: yaml
