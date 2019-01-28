@@ -37,8 +37,8 @@ collections:
         required: false
         fields:
           - {label: Sidebar Navigation, name: nav, widget: string, required: false}
-  - name: "pages"
-    label: "Pages"
+  - name: "settings"
+    label: "Settings"
     files: 
       - file: "_data/site-author.yml"
         name: "author"
@@ -50,7 +50,6 @@ collections:
           - {label: "Bio", name: "bio", widget: "string"}
           - {label: "Location", name: "location", widget: "string"}
           - {label: "Avatar", name: "avatar", widget: "image", default: "/assets/images/authors/default-profile.png"}
-          - {label: "Featured", name: "featured", widget: "select", options: [true, false], default: false, required: false}
           - label: "Links"
             name: links
             widget: list
