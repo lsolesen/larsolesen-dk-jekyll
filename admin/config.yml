@@ -44,7 +44,7 @@ collections:
     editor:
       preview: false
     files:
-    - file: "_data/navigation.yml"
+      - file: "_data/navigation.yml"
         name: "main-navigation"
         label: "Main navigation"
         description: "Main navigation"
