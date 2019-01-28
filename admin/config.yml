@@ -39,10 +39,14 @@ collections:
           - {label: Sidebar Navigation, name: nav, widget: string, required: false}
   - name: "settings"
     label: "Settings"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
     files: 
       - file: "_data/site_author.yml"
         name: "author"
         label: "Site Author"
+        description: "Settings about the global site author"
         format: yaml
         extension: yml
         fields:
