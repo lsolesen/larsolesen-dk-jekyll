@@ -59,7 +59,7 @@ collections:
               - {label: Url, name: title, widget: string}
               - {label: Url, name: url, widget: string}
       - file: "_data/settings.yml"
-        name: "settings"
+        name: "global_settings"
         label: "Global settings"
         format: yaml
         extension: yml  
