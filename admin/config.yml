@@ -38,7 +38,7 @@ collections:
         required: false
         fields:
           - {label: Sidebar Navigation, name: nav, widget: string, required: false}
-  - name: "settings"
+  - name: "global_settings"
     label: "Settings"
     delete: false # Prevent users from deleting documents in this collection
     editor:
@@ -60,7 +60,7 @@ collections:
               - {label: Url, name: url, widget: string}
       - file: "_data/settings.yml"
         name: "global_settings"
-        label: "Global settings"
+        label: "settings"
         format: yaml
         extension: yml  
         description: "Global settings"
