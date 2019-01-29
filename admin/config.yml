@@ -61,12 +61,16 @@ collections:
       - file: "_data/settings.yml"
         name: "settings"
         label: "Global settings"
+        format: yaml
+        extension: yml  
         description: "Global settings"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Name, name: name, widget: string}
       - file: "_data/site_author.yml"
         name: "author"
+        format: yaml
+        extension: yml
         label: "Site Author"
         description: "Settings about the global site author"
         fields:
