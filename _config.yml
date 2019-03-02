@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.12.2"
+remote_theme:            "mmistakes/minimal-mistakes@4.15.2"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Site Settings
@@ -25,7 +25,7 @@ comments:
 staticman:
   branch                 : "gh-pages"
 atom_feed:
-  path                   : "/rss.xml" # blank (default) uses feed.xml
+  path                   : # blank (default) uses feed.xml
 
 
 # reCaptcha
@@ -78,31 +78,28 @@ author:
   avatar           : "/assets/images/authors/lars-olesen.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Familiefar. Højskolemenneske."
   location         : "Vejle"
-  email            : "lsolesen@gmail.com"
-  uri              : "https://larsolesen.dk/"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "lsolesen"
-  foursquare       :
-  github           : "lsolesen"
-  gitlab           :
-  google_plus      : "+LarsOlesen"
-  keybase          :
-  instagram        : "larssolesen"
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          : "lsolesen"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "lsolesen"
+  links            :
+    - label: "E-mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lsolesen@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://larsolesen.dk/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lsolesen"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/lsolesen"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lsolesen"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/lsolesen"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/larssolesen"
 
 
 # Reading Files
@@ -188,6 +185,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-redirect-from
+  - jekyll-include-cache
 
 
 # mimic GitHub Pages with --safe
@@ -246,8 +244,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      listen_time: false
-      video_time: false
       comments: true
       share: true
       related: true
