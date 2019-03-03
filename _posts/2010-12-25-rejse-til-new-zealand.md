@@ -10,7 +10,6 @@ modified: 2011-01-21T11:08:30Z
 
 Vi rejser snart til New Zealand, og vi er i fuld gang med at planlægge. Dina og jeg tager Lily på et halvt år med, og vi har booket en autocamper i hele perioden. Vi lander i Auckland og to måneder senere skal vi aflevere autocamperen i Christchurch inden vi flyver tilbage til Auckland for at bruge de sidste par dage.
 
-  
 Vis [New Zealand rejse 2011](http://maps.google.com/maps/ms?ie=UTF8&hl=da&msa=0&msid=208789482094768845321.00049840f135b26ec7986&ll=-43.487693,172.538283&spn=29.025693,79.013672&t=h&source=embed) på et større kort
 
 Vi vil naturligvis gerne lave den bedst mulige planlægning, og har derfor brug for din hjælp.
@@ -41,6 +40,6 @@ Vi bruger et Google-dokument til at holde styr på, forskellige steder, der kunn
 
 ### Dagbog og rapportering
 
-Jeg bruger Drupal til at skrive dagbog i, og så smider jeg billederne op på [Picasa Webalbums](http://picasaweb.google.com/lsolesen/2011NewZealand).
+Jeg bruger Drupal til at skrive dagbog i, og så smider jeg billederne op i et webalbum.
 
 Hvad siger I? Hvordan ville I gøre det?

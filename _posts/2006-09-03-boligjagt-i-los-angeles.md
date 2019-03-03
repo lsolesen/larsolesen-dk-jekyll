@@ -15,11 +15,9 @@ Hvor skal vi starte. Ja, vi starter fra [Backpackers Paradise](http://www.backpa
 
 Da vi kommer i besiddelse af et kort med alle buslinjerne, er det ikke så svært at komme i den rigtige retning. Det tager bare meget længere tid, end man tror. For der er godt nok meget trafik. Og de snakker meget om det. Der er flere biler end mennesker, og at skaffe en parkeringsplads kan være noget vanskeligt.
 
-
-
 > Los Angeles har mere end 40.000 parkometre, 150.000 skilte med 'parkering forbudt', 41.000 'standsning forbudt'-skilte og 40.000 skilte med 'tidsbegrænset parkering'. LA har omkring 600 parkeringsvagter, og indtægten er omkring 100 mio. $ hvert år fra bøder og parkometre. (Rejsen Rundt i Californien, Politiken 2001).
 
-Universitetet er også rigtig stort. Der er 35.000 indskrevet og 23.000 parkeringspladser. Vi har heldigvis et kort, og vi går lidt rundt og beundrer de flotte bygninger, grønne græsplæner og glæder os på Dinas vegne. Det bliver spændende at læse på et af USAs store universiteter. Men først skal vi lige have noget at bo i. Vi får hjælp af en af DICOPs ansatte, som anbefaler UCLA’s interne Housing Program, [thedailybruin.com](http://www.thedailybruin.com/), [latimes.com](http://www.latimes.com/) og [westsiderentals.com](http://www.westsiderentals.com/), og vi går rundt i kvarteret – og vi opdager at 'one bedroom' og 'one bath' betyder, at man har et værelse og et opholdsrum og naturligvis et bad.
+Universitetet er også rigtig stort. Der er 35.000 indskrevet og 23.000 parkeringspladser. Vi har heldigvis et kort, og vi går lidt rundt og beundrer de flotte bygninger, grønne græsplæner og glæder os på Dinas vegne. Det bliver spændende at læse på et af USAs store universiteter. Men først skal vi lige have noget at bo i. Vi får hjælp af en af DICOPs ansatte, som anbefaler UCLA’s interne Housing Program, thedailybruin.com (som ikke findes på denne adresse længere), [latimes.com](http://www.latimes.com/) og [westsiderentals.com](http://www.westsiderentals.com/), og vi går rundt i kvarteret – og vi opdager at 'one bedroom' og 'one bath' betyder, at man har et værelse og et opholdsrum og naturligvis et bad.
 
 Vi finder noget billigt i Mar Vista. En stor lejlighed, som først er istandsat om fjorten dage. Men den koster kun 850 US$ om måneden. Vi kigger på et mindre studio, som dog virker rimeligt stort til 900 US$ på Cadillac Street. En cool adresse.
 
