@@ -6,7 +6,7 @@ tags:
   - usa
   - los angeles
   - dagbog
-modified: 2010-11-08T12:50:06Z
+last_modified_at: 2010-11-08T12:50:06Z
 ---
 
 **72.000 tilskuere til en ordinær studenterkamp i amerikansk fodbold mellem UCLA og Stanford. Men spektaklet omkring kampen var alt andet end ordinært, og det må være det tiltrækkende. UCLA, eller The Bruins, vandt med 31-0, så kampen var ikke synderlig spændende.**

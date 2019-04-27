@@ -3,7 +3,7 @@ title: "Fixing the database"
 permalink: /content/fixing-database
 language: und
 tags:
-modified: 2013-08-31T09:21:54Z
+last_modified_at: 2013-08-31T09:21:54Z
 ---
 
 service cron stop

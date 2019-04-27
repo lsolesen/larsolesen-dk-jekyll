@@ -6,7 +6,7 @@ tags:
   - dagbog
   - los angeles
   - usa
-modified: 2010-11-08T12:48:40Z
+last_modified_at: 2010-11-08T12:48:40Z
 ---
 
 **Los Angeles: Vi har besøgt to af de bedste kunstmuseer i Los Angeles. Verdens rigeste museum, The Getty Center, og UCLAs imponerende museum, UCLA Hammer Museum. Begge var flotte og interessante.**[The Getty Museum](http://www.getty.edu/) er verdens rigeste museum, og ligger på en bakke som et postmoderne fort. Arkitekturen er imponerende, og kunstsamlingen seværdig. Desværre var fotoudstillingen, som vi helst ville se lukket, da vi var der. Museet er altid gratis, men det er aldrig overfyldt, for antallet af besøgende reguleres altid af, hvor mange der kommer med deres lille togshuttle til toppen af bakkerne.

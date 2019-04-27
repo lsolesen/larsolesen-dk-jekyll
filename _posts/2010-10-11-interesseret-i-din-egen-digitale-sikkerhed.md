@@ -4,7 +4,7 @@ permalink: /content/interesseret-i-din-egen-digitale-sikkerhed
 language: da
 tags:
   - sikkerhed
-modified: 2010-10-11T10:41:09Z
+last_modified_at: 2010-10-11T10:41:09Z
 ---
 
 Der er i hvert fald tre væsentlige områder, når man snakker om digital sikkerhed: backup, adgangskoder og tyveri. Jeg har haft stor fornøjelse af tre projekter, som er usædvanligt lette at bruge:

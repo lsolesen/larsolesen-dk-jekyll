@@ -3,7 +3,7 @@ title: "Etikette i e-mails"
 permalink: /content/etikette-i-e-mails
 language: da
 tags:
-modified: 2010-11-17T15:05:33Z
+last_modified_at: 2010-11-17T15:05:33Z
 ---
 
 **Det er ingen kunst at svare på en e-mail, og det er nærmest ikke sværere at gøre det på en bedre måde end du gør i dag. Send din e-mail som tekst og svar læservenligt med citater.**

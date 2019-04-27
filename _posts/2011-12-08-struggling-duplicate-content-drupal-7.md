@@ -5,7 +5,7 @@ language: und
 tags:
   - drupal
   - planet drupal
-modified: 2011-12-09T10:21:23Z
+last_modified_at: 2011-12-09T10:21:23Z
 ---
 
 I struggled many hours to improve the technical side of SEO on [Vejle Idrætshøjskole](http://vih.dk)s website. Here is what I discovered:

@@ -5,7 +5,7 @@ language: da
 tags:
   - usa
   - new orleans
-modified: 2010-11-07T19:17:57Z
+last_modified_at: 2010-11-07T19:17:57Z
 ---
 
 **Da orkanen [Katrina](http://en.wikipedia.org/wiki/Hurricane_Katrina) ramte New Orleans, Louisiana, i starten af 2005, var byen som med et forvandlet. Men menneskene er så småt på vej tilbage byen, som stadig sprudler.**

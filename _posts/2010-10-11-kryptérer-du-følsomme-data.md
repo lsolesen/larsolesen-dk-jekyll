@@ -5,7 +5,7 @@ language: da
 tags:
   - sikkerhed
   - kryptering
-modified: 2010-10-14T23:05:00Z
+last_modified_at: 2010-10-14T23:05:00Z
 ---
 
 Man bør [tage sin digitale sikkerhed alvorligt](http://larsolesen.dk/content/interesseret-i-din-egen-digitale-sikkerhed). Og det kan faktisk være rigtig fornuftigt at kryptere ens data, så andre mennesker ikke bare kan få fat i det.

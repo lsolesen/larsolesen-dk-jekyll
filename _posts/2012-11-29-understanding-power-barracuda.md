@@ -3,7 +3,7 @@ title: "Understanding the power of Barracuda"
 permalink: /content/understanding-power-barracuda
 language: und
 tags:
-modified: 2012-12-02T20:37:27Z
+last_modified_at: 2012-12-02T20:37:27Z
 ---
 
 There is several ways you can use Barracuda. I am trying to find the most efficient ways, both as a developer and to utilize the server ressources efficiently.

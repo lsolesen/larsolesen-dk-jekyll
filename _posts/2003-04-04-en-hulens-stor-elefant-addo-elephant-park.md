@@ -5,7 +5,7 @@ language: da
 tags:
   - sydafrika
   - safari
-modified: 2010-11-07T01:22:37Z
+last_modified_at: 2010-11-07T01:22:37Z
 ---
 
 **Det kan være nødvendigt at have en kikkert med når man er på safari. For dyrene gør som de selv vil. Vi tog med Anita i Addo Elephant Park, og selvom hun har været der 10-12 gange før, så selv hun noget hun ikke havde set før.**

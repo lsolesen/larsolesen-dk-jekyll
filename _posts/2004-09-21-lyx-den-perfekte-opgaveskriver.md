@@ -4,7 +4,7 @@ permalink: /content/lyx-den-perfekte-opgaveskriver
 language: da
 tags:
   - lyx linux
-modified: 2010-11-06T17:00:09Z
+last_modified_at: 2010-11-06T17:00:09Z
 ---
 
 Det kræver lidt arbejde

@@ -6,12 +6,12 @@ tags:
   - usa
   - los angeles
   - dagbog
-modified: 2010-11-15T14:47:20Z
+last_modified_at: 2010-11-15T14:47:20Z
 ---
 
 **Los Angeles: Englenes by i forskellige glimt. Det eneste jeg kan garantere er, at kronologien er tilfældig, men oplevelserne har fæstnet sig på min nethinde.**
 
-Plukker en tomat til morgenmaden. Kigger på haven fra vores egen lille terrasse. Smører solcreme på, for det er varmt. Ved ikke helt hvor varmt, for termometeret viser fahrenheit. Nyder blomsterne, og det gør humlebierne vist også. De er gigantiske. Men der er også nok at lave som en bi.
+Plukker en tomat til morgenmaden. Kigger på haven fra vores egen lille terrasse. Smører solcreme på, for det er varmt. Ved ikke helt hvor varmt, for termometeret viteret viser fahrenheit. Nyder blomsterne, og det gør humlebierne vist også. De er gigantiske. Men der er også nok at lave som en bi.
 
 Det er formiddag. Løber en tur ned til Santa Monica Beach. Det går ned af bakke, og skal løbe 20 blokke, for at komme helt derned. Det er ret let at regne ud, for vi bor på 20th. Fortsætter til den oprindelige Muscle Beach. Min gps siger, at jeg har løbet 4 kilometer og 786 meter. Muscle Beach er det sted hvor fitnessbølgen for alvor havde sit arnested i Los Angeles. Der er ikke så mange muskler længere. Til gengæld er der personlige trænere, der tager tid på at mere eller mere veltrænede træner tilstrækkeligt til at blive fit.
 
@@ -59,4 +59,4 @@ Tager til vinfest på Hollywood Boulevard. Den største vinsmagning nogensinde i
 
 Sætter os i bussen. En dame sidder og snakker med sit ur. Hun advarer nok mod mærkelige mennesker i LA. For dem er der en del af. Der er ingen regler, ser det ud til. En afrikaner skælder ud på mexicaner, der spytter på gulvet i bussen. Det var vist ikke med vilje, men det er stadig noget svineri. Sidder stadig i bussen, og der er nu gået et par timer. Det tager virkelig lang tid at komme rundt. Til gengæld kan man køre alt det i bus, man har lyst til for $3 på en dag. Og man bliver tålmodig.
 
-Nyder at der er masser af tid. At man ikke skal nå at tage billedet, for der kommer masser af muligheder. Nyder at man også bare kan sætte sig og spilde tiden på at skrive lidt om det man laver. Nyder tilværelsen.
+Nyder at der er masser af tid. At man ikke skal nå at tage billedet, for der kommer masser af muligheder. Nyder at man også bare kan sætte sig og spilde tiden på at skrive lidt om det man laver. Nyder tilvæ

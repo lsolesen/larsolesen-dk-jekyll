@@ -5,7 +5,7 @@ language: da
 tags:
   - new zealand
   - dagbog
-modified: 2011-01-21T11:08:30Z
+last_modified_at: 2011-01-21T11:08:30Z
 ---
 
 Vi rejser snart til New Zealand, og vi er i fuld gang med at planlægge. Dina og jeg tager Lily på et halvt år med, og vi har booket en autocamper i hele perioden. Vi lander i Auckland og to måneder senere skal vi aflevere autocamperen i Christchurch inden vi flyver tilbage til Auckland for at bruge de sidste par dage.

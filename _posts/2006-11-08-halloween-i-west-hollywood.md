@@ -6,7 +6,7 @@ tags:
   - usa
   - los angeles
   - dagbog
-modified: 2010-11-08T12:33:50Z
+last_modified_at: 2010-11-08T12:33:50Z
 ---
 
 **West Hollywood: Santa Monica Boulevard var spærret mellem Doheney og La Cienga, for nu skulle West Hollywood klædes ud. Og så sker der noget.**West Hollywood har en relativ stor del af befolkningen med anden seksuel orientering. Og som vi har set i filmene, så kan de godt lide at klæde sig ud i ekstravagante rober. Og denne aften var ingen undtagelse. Men de var ikke de eneste. Der var mange rigtig fabelagtige udklædninger.

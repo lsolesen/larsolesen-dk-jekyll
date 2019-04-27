@@ -6,7 +6,7 @@ tags:
   - dagbog
   - los angeles
   - usa
-modified: 2010-11-08T12:52:59Z
+last_modified_at: 2010-11-08T12:52:59Z
 ---
 
 **Los Angeles: Hvordan finder man noget at bo i, når man skal skære sig gennem trafikken med buslinjer, man ikke kender?**

@@ -5,7 +5,7 @@ language: und
 tags:
   - drupal
   - planet drupal
-modified: 2012-05-05T10:25:34Z
+last_modified_at: 2012-05-05T10:25:34Z
 ---
 
 I am constantly trying to make it easier to be an editor at Vejle Idrætshøjskole site. Now the time has come to make it easier to create photo galleries. Earlier I uploaded the photo galleries to Picasa Web and created a [custom input filter](http://drupal.org/project/picasa_slideshow_filter), which could embed the photo galleries as a slideshow into the page and used [PWI](http://code.google.com/p/pwi/) to embed a photo gallery.

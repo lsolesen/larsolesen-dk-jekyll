@@ -4,7 +4,7 @@ permalink: /content/guide-til-cykeloplevelser-i-øst-og-vestjylland
 language: da
 tags:
   - cykelferie
-modified: 2010-11-10T15:29:27Z
+last_modified_at: 2010-11-10T15:29:27Z
 ---
 
 ![](https://larsolesen.dk/sites/larsolesen.dk/files/baggrundmedforsider_0.jpg)

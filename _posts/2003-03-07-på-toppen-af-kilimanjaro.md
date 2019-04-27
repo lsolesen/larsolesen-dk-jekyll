@@ -4,7 +4,7 @@ permalink: /content/på-toppen-af-kilimanjaro
 language: da
 tags:
   - tanzania
-modified: 2010-11-07T01:27:39Z
+last_modified_at: 2010-11-07T01:27:39Z
 ---
 
 \[billeder\] Mawenzie er en af de tre toppe på Kilimanjaro. Det er en stor naturoplevelse at gå op på Kilimanjaro.

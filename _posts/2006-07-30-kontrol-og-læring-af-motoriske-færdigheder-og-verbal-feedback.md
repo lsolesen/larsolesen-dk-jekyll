@@ -6,7 +6,7 @@ tags:
   - motorisk læring
   - motorisk kontrol
   - speciale
-modified: 2013-04-24T12:06:46Z
+last_modified_at: 2013-04-24T12:06:46Z
 ---
 
 Jeg skrev speciale om motorisk kontrol og læring og verbal feedback. Her kan du læse et resume af specialet, og hvis det lyder spændende kan du gå i gang med hele molevitten.
