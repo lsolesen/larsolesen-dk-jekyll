@@ -6,7 +6,7 @@ tags:
 last_modified_at: 2012-11-29T15:32:45Z
 ---
 
-Earlier I wrote [how you could easily install Barracuda](http://larsolesen.dk/node/357) on a VM created by Vagrant. I investigated a bit further because I have two development machines, so I wanted to replicate the environment with less hazzle on the second machine.
+Earlier I wrote [how you could easily install Barracuda](/node/357) on a VM created by Vagrant. I investigated a bit further because I have two development machines, so I wanted to replicate the environment with less hazzle on the second machine.
 
 Enter chef
 ----------
