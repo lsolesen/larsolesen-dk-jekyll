@@ -11,7 +11,7 @@ last_modified_at: 2010-11-07T01:46:13Z
 
 Det var en ganske almindelig tanzaniansk, lutheransk gudstjeneste, men det var alligevel en noget mere opløftende oplevelse end en tilsvarende i den danske folkekirke.
 
-Vi kom i god tid for at virke høflige, og vi blev vel modtaget. Vi var de eneste wazeste wazungus, så vi blev behandlet som kongelige og blev ekskorteret til de bedste pladser tæt på prædikestolen. Ganske unødvendigt for taget i betragtning at prædiken var på swahili var alle de tydelige lovprisninger af mungo vel nærmest spildt på os?! Præsten talte i hvert fald længe og ihærdigt, og måske var derfor at folk stødte til undervejs - uden at nogen så skævt til det.
+Vi kom i god tid for at virke høflige, og vi blev vel modtaget. Vi var de eneste _wazungus_, så vi blev behandlet som kongelige og blev ekskorteret til de bedste pladser tæt på prædikestolen. Ganske unødvendigt for taget i betragtning at prædiken var på swahili var alle de tydelige lovprisninger af mungo vel nærmest spildt på os?! Præsten talte i hvert fald længe og ihærdigt, og måske var derfor at folk stødte til undervejs - uden at nogen så skævt til det.
 
 Den store oplevelse var dog et herre- og et pigekor, som sang smukt og guddommeligt. Kirkegængerne stemte ivrigt i ved fællessangene, hvor stemmebåndene virkelige blev strakt igennem. Samlet gav det den lidt løsslubne stemning, hvor menigheden også sommetider svarede på præstens udsagn med et velplaceret amen.
 
@@ -26,4 +26,4 @@ Efter gudstjenesten blev der holdt auktion uden for kirken, hvor man kunne købe
 
 Bagefter tog vi hjem til Steven og nød hans kones kokkerier.
 
-Kwa
+Kwaheri.
