@@ -7,7 +7,7 @@ tags:
 last_modified_at: 2010-11-10T15:29:27Z
 ---
 
-![](https://larsolesen.dk/sites/larsolesen.dk/files/baggrundmedforsider_0.jpg)
+![](/assets/images/baggrundmedforsider_0.jpg)
 
 Vi cyklede rigtig meget i sommeren 2006. Både fordi vi kan lide det, men også fordi vi skulle skrive en cykelguide over Midtjylland. Efter at have hjulet afsted op og ned ad bakke og beskrevet rigtig mange cykelruter, så endte det faktisk med to bøger. Det blev til Guidebog til cykeloplevelser for både Øst- og Vestjylland. Vi er ret godt tilfredse med resultatet.
 
