@@ -27,37 +27,30 @@ How to make media gallery work for the media 2.x branch
 Media gallery still does not have a 2.x-branch. But to have media gallery work anyways, I did the following:
 
 ```
-
-<span style="display: none; "> </span>$ git clone --recursive --branch 7.x-1.x http://git.drupal.org/project/media_gallery.git
-
+$ git clone --recursive --branch 7.x-1.x http://git.drupal.org/project/media_gallery.git
 $ cd media_gallery
-
 $ git apply http://drupal.org/files/fixed-media-adding-and-multedit-1244204-comment-42.patch<span style="display: none; "> </span>
 ```
+
 I only needed one patch, because leschekfm put my three patches into his, which makes testing a lot easier.
 
 I also needed to install the required multiform module.
 
 ```
-
-<span style="display: none; "> </span>$ drush dl multiform
-
-$ drush en multiform<span style="display: none; "> </span>
+$ drush dl multiform
+$ drush en multiform
 ```
+
 Then for ease of upload, I installed plupload to make it easier to upload all the files at once.
 
 ```
-
-<span style="display: none; "> </span>$ drush dl plupload
-
+$ drush dl plupload
 $ drush en plupload
-
 $ cd sites/all/libraries/
-
 $ wget https://github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip
-
-$ unzip plupload_1_5_4.zip<span style="display: none; "> </span>
+$ unzip plupload_1_5_4.zip
 ```
+
 So that is basically all there is to having media gallery work with media 2.x-branch.
 
 Now we are just hoping for the developers of media gallery, that they will open up the 2.x-branch of media gallery, so the community can start helping out.
