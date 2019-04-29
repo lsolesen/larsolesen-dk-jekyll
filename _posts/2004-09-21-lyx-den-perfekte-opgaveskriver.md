@@ -12,8 +12,6 @@ Det kræver lidt arbejde
 
 Du skal installere et par ting for at få Lyx til at køre. For det første skal du have et Latex-miljø. Lyx er nemlig bare en WYSIWYM-editor til Latex, som er et meget kompliceret sprog, der er meget velegnet til opgaver, bl.a. fordi det har nogle unikke styrker hvad angår fx håndteringen af referencer.
 
-Du kan få hjælp til, hvordan du installerer Lyx på Windows i artiklen [Installing LyX on Windows](http://wiki.lyx.org/pmwiki.php/LyX/WindowsSetup).
-
 Hvordan referencer?
 -------------------
 

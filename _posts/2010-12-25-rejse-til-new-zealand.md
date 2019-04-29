@@ -31,7 +31,7 @@ Vi samler vores favoritter på [delicious.com](http://www.delicious.com/lsolesen
 ### Hvad kan man bestille?
 
 - **Flybilletter**. Vi started vores søgning på momondo.com, hvor de lovede priser dog ikke helt var til at genfinde på de enkelte udbyderes hjemmeside. Vi endte med at få den bedste pris fra Seat24.
-- **Autocamper**. Vi bestilte autocamper fra [New Zealand Motorhomes](http://www.newzealand-motorhomes.com), som samarbejder med de fleste udbydere rundt omkring i New Zealand. De gav os rigtig god og hurtig service. Vi endte med at bestille en [Happy Camper 3 Berth](http://budget.newzealand-motorhomes.com/Happy+Camper+3+berth/?pd=15&pm=01&py=2011&dd=02&dm=03&dy=2011&pickup=Auckland&dropoff=Christchurch&adults=2&vehicles=1&model=1).
+- **Autocamper**. Vi bestilte autocamper fra [New Zealand Motorhomes](http://www.newzealand-motorhomes.com), som samarbejder med de fleste udbydere rundt omkring i New Zealand. De gav os rigtig god og hurtig service. Vi endte med at bestille en _Happy Camper 3 Berth_.
 
 Hvad skal man ellers bestille, og hvor bestiller man det?
 
@@ -41,6 +41,6 @@ Vi bruger et Google-dokument til at holde styr på, forskellige steder, der kunn
 
 ### Dagbog og rapportering
 
-Jeg bruger Drupal til at skrive dagbog i, og så smider jeg billederne op på [Picasa Webalbums](http://picasaweb.google.com/lsolesen/2011NewZealand).
+<del>Jeg bruger Drupal til at skrive dagbog i, og så smider jeg billederne op på _Picasa Webalbums_.</del>
 
 Hvad siger I? Hvordan ville I gøre det?
