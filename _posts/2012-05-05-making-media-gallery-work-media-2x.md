@@ -29,7 +29,7 @@ Media gallery still does not have a 2.x-branch. But to have media gallery work a
 ```
 $ git clone --recursive --branch 7.x-1.x http://git.drupal.org/project/media_gallery.git
 $ cd media_gallery
-$ git apply http://drupal.org/files/fixed-media-adding-and-multedit-1244204-comment-42.patch<span style="display: none; "> </span>
+$ git apply http://drupal.org/files/fixed-media-adding-and-multedit-1244204-comment-42.patch
 ```
 
 I only needed one patch, because leschekfm put my three patches into his, which makes testing a lot easier.
