@@ -1,11 +1,11 @@
 ---
 title: "Making Media Gallery work with Media 2.x"
 permalink: /content/making-media-gallery-work-media-2x
-language: und
+language: da
 tags:
   - drupal
   - planet drupal
-modified: 2012-05-05T10:25:34Z
+last_modified_at: 2012-05-05T10:25:34Z
 ---
 
 I am constantly trying to make it easier to be an editor at Vejle Idrætshøjskole site. Now the time has come to make it easier to create photo galleries. Earlier I uploaded the photo galleries to Picasa Web and created a [custom input filter](http://drupal.org/project/picasa_slideshow_filter), which could embed the photo galleries as a slideshow into the page and used [PWI](http://code.google.com/p/pwi/) to embed a photo gallery.
@@ -27,37 +27,30 @@ How to make media gallery work for the media 2.x branch
 Media gallery still does not have a 2.x-branch. But to have media gallery work anyways, I did the following:
 
 ```
-
-<span style="display: none; "> </span>$ git clone --recursive --branch 7.x-1.x http://git.drupal.org/project/media_gallery.git
-
+$ git clone --recursive --branch 7.x-1.x http://git.drupal.org/project/media_gallery.git
 $ cd media_gallery
-
-$ git apply http://drupal.org/files/fixed-media-adding-and-multedit-1244204-comment-42.patch<span style="display: none; "> </span>
+$ git apply http://drupal.org/files/fixed-media-adding-and-multedit-1244204-comment-42.patch
 ```
+
 I only needed one patch, because leschekfm put my three patches into his, which makes testing a lot easier.
 
 I also needed to install the required multiform module.
 
 ```
-
-<span style="display: none; "> </span>$ drush dl multiform
-
-$ drush en multiform<span style="display: none; "> </span>
+$ drush dl multiform
+$ drush en multiform
 ```
+
 Then for ease of upload, I installed plupload to make it easier to upload all the files at once.
 
 ```
-
-<span style="display: none; "> </span>$ drush dl plupload
-
+$ drush dl plupload
 $ drush en plupload
-
 $ cd sites/all/libraries/
-
 $ wget https://github.com/downloads/moxiecode/plupload/plupload_1_5_4.zip
-
-$ unzip plupload_1_5_4.zip<span style="display: none; "> </span>
+$ unzip plupload_1_5_4.zip
 ```
+
 So that is basically all there is to having media gallery work with media 2.x-branch.
 
 Now we are just hoping for the developers of media gallery, that they will open up the 2.x-branch of media gallery, so the community can start helping out.

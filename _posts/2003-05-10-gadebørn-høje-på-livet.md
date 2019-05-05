@@ -4,7 +4,7 @@ permalink: /content/gadebørn-høje-på-livet
 language: da
 tags:
   - sydafrika
-modified: 2010-11-07T01:35:04Z
+last_modified_at: 2010-11-07T01:35:04Z
 ---
 
 Vi sidder mageligt på en pizzarestaurant og har udsigt over en plads. Der står et par sørgelige limbørn og læner sig op ad en lygtepæl. Vi har nok i os selv og har lært at ignorere dem, for vi har efterhånden set så mange af dem. Vi har været i Afrika i to måneder, og storbyerne er fyldte med dem. Vi er i Knysna, som er en af de populære turistbyer i Sydafrika, og her forsøger vi også at overse dem.

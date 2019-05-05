@@ -6,7 +6,7 @@ tags:
   - drupal
   - højskole
   - samarbejde
-modified: 2011-04-04T11:03:06Z
+last_modified_at: 2011-04-04T11:03:06Z
 ---
 
 Det er ingen hemmelighed, at der altid er nok at bruge penge på, når man driver en fri skole, fx højskole og efterskole. Jeg har i en årrække været webmaster for [Vejle Idrætshøjskoles hjemmeside](http://vih.dk), og det koster altid penge, når der skal udvikles noget nyt til hjemmesiden. Vi har bl.a. brugt lidt kræfter på at udvikle noget, der kan håndtere tilmelding til både korte og lange kurser og brochurebestilling. Derudover bruger vi naturligvis mange kræfter på at få netop det design, der appellerer til vores målgruppe, og som helst skal være meget bedre end de andres.
@@ -20,7 +20,7 @@ Hvordan skal de frie skoler arbejde sammen?
 -------------------------------------------
 
 - **Åben kildekode.** På Vejle Idrætshøjskole har vi valgt at [lægge al vores kildekode åbent ud](http://github.com/vih). Det betyder at andre lignende skoler kan kopiere al vores funktionalitet og lægge deres eget design ned over. Det har vi ikke noget imod. Nu er det jo udviklet. Hvorfor skal andre så ikke have gavn af det. Tænk sig, hvis nogen kunne bruge det og skrev tilbage, at de har forbedret funktionerne lidt. Det ville jo være fremragende - og meget billigere for skolerne i det lange løb. Udover os kunne vi kun finde [Den Rymiske Højskole](http://github.com/wulff), som har åbnet deres kildekode. Det undrer at ikke alle gør det, for fordelene er så store!
-- **Tilgængelige, almindelige systemer.** Tidligere brugte vi vores eget hjemmestrikkede system, men er for nylig [gået over til at bruge Drupal](http://larsolesen.dk/node/270) (som tilfældigvis også er det system, Den Rytmiske Højskole benytter sig af). Fordelen ved at bruge et open source system er bl.a. at rigtig mange bidrager til udviklingen, og der findes alverdens nyttige moduler, som man kan forbedre sin hjemmeside med, og at systemet er meget mindre personafhængigt. Det er altså meget lettere bare at skifte firma eller udvikler. Højskolerne kunne naturligvis også vælge at lancere deres helt eget system, men så skal man i gang med at udvikle en masse ting, der allerede ligger klar til brug.
+- **Tilgængelige, almindelige systemer.** Tidligere brugte vi vores eget hjemmestrikkede system, men er for nylig [gået over til at bruge Drupal](/node/270) (som tilfældigvis også er det system, Den Rytmiske Højskole benytter sig af). Fordelen ved at bruge et open source system er bl.a. at rigtig mange bidrager til udviklingen, og der findes alverdens nyttige moduler, som man kan forbedre sin hjemmeside med, og at systemet er meget mindre personafhængigt. Det er altså meget lettere bare at skifte firma eller udvikler. Højskolerne kunne naturligvis også vælge at lancere deres helt eget system, men så skal man i gang med at udvikle en masse ting, der allerede ligger klar til brug.
 - **Projektleder.** Det kræver naturligvis at nogle samler trådene, opretter infrastrukturen til at arbejde sammen og er dygtige til at formidle den nye samlede viden ud til alle de frie skoler. Også de skoler som ikke har ansat IT-kyndige mennesker.
 
 Hvad skal skolerne arbejde sammen om?

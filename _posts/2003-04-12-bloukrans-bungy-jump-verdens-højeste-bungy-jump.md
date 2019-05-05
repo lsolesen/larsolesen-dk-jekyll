@@ -4,7 +4,7 @@ permalink: /content/bloukrans-bungy-jump-verdens-højeste-bungy-jump
 language: da
 tags:
   - sydafrika
-modified: 2010-11-07T16:54:55Z
+last_modified_at: 2010-11-07T16:54:55Z
 ---
 
 Verdens højeste kommercielle bungy jump på 216 meter

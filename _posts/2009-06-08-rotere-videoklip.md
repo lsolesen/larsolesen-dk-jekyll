@@ -5,7 +5,7 @@ language: da
 tags:
   - ubuntu
   - linux
-modified: 2011-06-25T01:08:46Z
+last_modified_at: 2011-06-25T01:08:46Z
 ---
 
 Jeg optager sommetider videoer på højkant med mit Canon G10-kamera. Derfor har jeg ofte brug for at rotere videoerne. Jeg arbejder på Ubuntu, og der fandt jeg via [Rotating video clips shot in portrait mode](http://therning.org/niklas/2006/07/rotating-video-clips-shot-in-portrait-mode/) ud af, hvordan jeg kunne bruge mencoder (som er en del af MPlayer) til at rotere videoklippene. Koden i hans artikel er imidlertid lidt forældet, så i virkeligheden skal du bruge følgende: ` `

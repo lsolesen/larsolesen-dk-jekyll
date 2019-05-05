@@ -4,7 +4,7 @@ permalink: /content/dr-maretu-en-traditionel-healer
 language: da
 tags:
   - tanzania
-modified: 2010-11-07T11:03:10Z
+last_modified_at: 2010-11-07T11:03:10Z
 ---
 
 **Da vesterlændingene koloniserede Afrika forsøgte man at udrydde den sorte tro og erstatte den med kristendommen. Men afrikanerne gav ikke bare afkald på alt de de troede på - og det har de stadig ikke gjort. Vi besøgte en traditionel healer i Tanzania.**

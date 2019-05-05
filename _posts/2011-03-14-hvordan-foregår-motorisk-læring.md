@@ -4,7 +4,7 @@ permalink: /content/hvordan-foregår-motorisk-læring
 language: da
 tags:
   - motorisk læring
-modified: 2011-06-20T13:53:33Z
+last_modified_at: 2011-06-20T13:53:33Z
 ---
 
 Motorisk læring er spørgsmålet om, hvordan den motoriske kontrol optimeres til at klare de udfordringer, kroppen stilles overfor. Kroppen møder nye og uvante situationer som kræver nye og uvante løsninger. Men kroppen er stødt ind i en masse situationer før og har derfor også behov for at skabe faste(re), effektive rutiner til at håndtere velkendte situationer og krav.

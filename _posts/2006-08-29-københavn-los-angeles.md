@@ -3,7 +3,7 @@ title: "København - Los Angeles"
 permalink: /content/københavn-los-angeles
 language: da
 tags:
-modified: 2010-11-15T14:48:46Z
+last_modified_at: 2010-11-15T14:48:46Z
 ---
 
 **Internationalt luftrum: Fra København til Los Angeles på en dag. En historie om forventning og ventetid.**

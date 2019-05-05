@@ -5,7 +5,7 @@ language: da
 tags:
   - usa
   - los angeles
-modified: 2010-11-17T14:59:27Z
+last_modified_at: 2010-11-17T14:59:27Z
 ---
 
 **Los Angeles: Vi tilbragte julen hjemme i Santa Monica, men forsÃ¸gte at holde alle traditionerne i hævd.**
