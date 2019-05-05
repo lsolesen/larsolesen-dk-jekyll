@@ -1,7 +1,7 @@
 ---
 title: "Making Media Gallery work with Media 2.x"
 permalink: /content/making-media-gallery-work-media-2x
-language: und
+language: da
 tags:
   - drupal
   - planet drupal

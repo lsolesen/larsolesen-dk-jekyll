@@ -1,7 +1,7 @@
 ---
 title: "Struggling with duplicate content in Drupal 7"
 permalink: /content/struggling-duplicate-content-drupal-7
-language: und
+language: da
 tags:
   - drupal
   - planet drupal

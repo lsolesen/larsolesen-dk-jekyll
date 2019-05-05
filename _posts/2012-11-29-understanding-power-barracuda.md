@@ -1,8 +1,10 @@
 ---
 title: "Understanding the power of Barracuda"
 permalink: /content/understanding-power-barracuda
-language: und
+language: da
 tags:
+  - drupal
+  - boa
 last_modified_at: 2012-12-02T20:37:27Z
 ---
 
@@ -18,7 +20,6 @@ Usually I have created each of my sites as an install profile, so I could easily
 To create a platform for my site, I would just build it using drush make:
 
 ```
-<pre style="margin-top: 15px; margin-bottom: 15px; padding: 6px 10px; border: 1px solid rgb(204, 204, 204); font-size: 13px; font-family: Consolas, 'Liberation Mono', Courier, monospace; background-color: rgb(248, 248, 248); line-height: 19px; overflow: auto; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; color: rgb(51, 51, 51);">
 `drush make larsolesen_dk.build /data/disk/o1/static/larsolesen_dk_build`
 ```
 
@@ -45,7 +46,7 @@ Third approach: Create all install profiles in one platform and share contrib
 I extracted the common modules and put it into a drush make file. That file I would just include in the build file for my install profiles like this:
 
 ```
-includes[] = https://raw.github.com/lsolesen/buildthat/7.x-1.x/buildthat.make
+includes[] = https://raw.github.com/lsolesen/buildthat/7.x-1.x/build-buildthat.make
 ```
 Now these will go into sites/all module, so the contrib modules will also be shared. All by install profiles with their custom modules will go into sites/sitename.dk.
 
@@ -60,10 +61,10 @@ Barracuda comes with a bunch of built-in platforms, e.g. a regular Drupal. And i
 
 But how will I actually get the code in there.
 
-If I still want to build the sites of the built-in Drupal-install, I should put the shared contrib code into /sites/all/modules, /sites/all/libraries and /sites/all/themes. I could create my own make file to pull in the dependencies, I use on most of my sites and use the drush command above to get the modules into the correct space, like like [buildthat](https://github.com/lsolesen/buildthat/blob/7.x-1.x/buildthat.make). That I would need to do manually going into the sites/all folder and running:
+If I still want to build the sites of the built-in Drupal-install, I should put the shared contrib code into /sites/all/modules, /sites/all/libraries and /sites/all/themes. I could create my own make file to pull in the dependencies, I use on most of my sites and use the drush command above to get the modules into the correct space, like like [buildthat](https://github.com/lsolesen/buildthat/blob/7.x-1.x/build-buildthat.make). That I would need to do manually going into the sites/all folder and running:
 
 ```
-`drush make --no-core --contrib-destination=. `https://raw.github.com/lsolesen/buildthat/7.x-1.x/buildthat.make
+`drush make --no-core --contrib-destination=. `https://raw.github.com/lsolesen/buildthat/7.x-1.x/build-buildthat.make
 ```
 
 But then all the sites have their own custom modules. These should probably go into sites/sitename.dk/modules, but that is discouraged for more reasons. 

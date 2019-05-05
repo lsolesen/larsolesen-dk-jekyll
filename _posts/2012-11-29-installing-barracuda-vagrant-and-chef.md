@@ -1,8 +1,11 @@
 ---
 title: "Installing barracuda with vagrant and chef"
 permalink: /content/installing-barracuda-vagrant-and-chef
-language: und
+language: da
 tags:
+  - boa
+  - vagrant
+  - chef
 last_modified_at: 2012-11-29T15:32:45Z
 ---
 
@@ -15,9 +18,8 @@ With chef you can automate a lot of the settings. Like Vagrant, chef also uses R
 
 I created cookbooks/boa/recipes/default.rb with the following content ([notice the unauthorized use of the boa installer](http://drupal.org/node/1849604)):
 
-  
 ```
-<pre type="ruby">Chef::Log.debug("Running barracuda recipe")
+Chef::Log.debug("Running barracuda recipe")
 
 remote_file "/tmp/BOA.sh" do
   source "http://files.aegir.cc/BOA.sh.txt"
@@ -76,7 +78,6 @@ execute "Rebuild VirtualBox Guest Additions" do
 end
 ```
 
-
 When you have run that, I have a server setup with Barracuda and three octopus instances for my development purposes.
 
 Mounting drives
@@ -85,13 +86,11 @@ Mounting drives
 To mount drives, I add the following to my Vagrantfile.
 
 ```
-
-  config.vm.share_folder "platforms-o1", "/data/disk/o1/static", "~/workspace/platforms", :extra => "dmode=777,fmode=777"
-
-  config.vm.share_folder "platforms-o2", "/data/disk/o2/static", "~/workspace/platforms", :extra => "dmode=777,fmode=777"
-
-  config.vm.share_folder "platforms-o3", "/data/disk/o3/static", "~/workspace/platforms", :extra => "dmode=777,fmode=777"
+config.vm.share_folder "platforms-o1", "/data/disk/o1/static", "~/workspace/platforms", :extra => "dmode=777,fmode=777"
+config.vm.share_folder "platforms-o2", "/data/disk/o2/static", "~/workspace/platforms", :extra => "dmode=777,fmode=777"
+config.vm.share_folder "platforms-o3", "/data/disk/o3/static", "~/workspace/platforms", :extra => "dmode=777,fmode=777"
 ```
+
 Now the drives has been mounted to the octopus users home directory. However, I am still [struggling with having the correct permissions given to the folders](https://github.com/lsolesen/boa-vagrant/issues/2).
 
 I have shared the entire code at [github.com/lsolesen/boa-vagrant](http://github.com/lsolesen/boa-vagrant).
