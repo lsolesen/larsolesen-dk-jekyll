@@ -4,7 +4,7 @@ permalink: /content/verdens-højeste-bungyjump-bloukrans-bungy-jump
 language: da
 tags:
   - sydafrika
-modified: 2010-10-14T00:34:50Z
+last_modified_at: 2010-10-14T00:34:50Z
 ---
 
 **Det er vigtigt at dokumentere, at man lever livet på kanten.De er nu snu, de gutter. De har sørget for at techno-musikken brager ud af højtalerne, så jeg ikke kan råbe om hjælp. Så placerer de mig på en stol, hvor de binder mine fødder sammen, så jeg kun kan hoppe rundt som Snøvsen, og det giver selvsagt nogle begrænsninger for hvor omkringfarende, man kan være.**

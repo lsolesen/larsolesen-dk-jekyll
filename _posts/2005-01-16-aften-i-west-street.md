@@ -3,7 +3,7 @@ title: "Aften i West Street"
 permalink: /content/aften-i-west-street
 language: da
 tags:
-modified: 2010-11-07T18:17:59Z
+last_modified_at: 2010-11-07T18:17:59Z
 ---
 
 Vi har sat os ned igen. For det er et rigtig godt sted. Betjeningen er smilende og rigtig venlig og opmærksom. De sætter en lerskål med glødende kul under vores bord, så vi kan holde varmen. Det er ret nødvendigt, for vi har sat os udenfor på verandaen af første sal, og selvom vejret er mildt, er det ikke varmt. Cafeen hedder Under The Moon, den ligger midt på udlændingenes gade, som er fyldt med spisesteder og souvenirboder, og den bliver rost i Lonely Planet. Når vi nu allerede er trådt i fodsporene af mange andre rygsæksrejsende og besøger Yangshuo, så kan vi lige så godt følge vores ligesindedes anbefalinger.

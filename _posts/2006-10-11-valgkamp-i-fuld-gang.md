@@ -6,7 +6,7 @@ tags:
   - usa
   - los angeles
   - dagbog
-modified: 2010-11-08T12:36:31Z
+last_modified_at: 2010-11-08T12:36:31Z
 ---
 
 **UCLA: Valgkampen er i fuld gang. Demokraterne mener, at republikanerne goer det rigtig skidt. Og Schwarznegger har naermest oedelagt Californien i sin tid som guvornoer. [Phil Angelides](http://www.angelides.com/) er den mand som skal vende skuden for Californien.**

@@ -5,7 +5,7 @@ language: da
 tags:
   - fullrate
   - bredbånd
-modified: 2010-12-22T13:06:06Z
+last_modified_at: 2010-12-22T13:06:06Z
 ---
 
 Jeg er særdeles godt tilfreds med min bredbåndforbindelse fra Fullrate. De har lige sendt en ny router (Netgear VVG2000), som er bedre forberedt til de nye hastigheder, de gratis har opgraderet mit abonnement til. Jeg skyndte mig at koble routeren til, og så ville jeg til at konfigurere den. Først blev jeg lidt irriteret, fordi det lille medfølgende hæfte ikke indeholdte oplysninger om, hvordan jeg kom ind og konfigurerede routeren. Indtil jeg tænkte mig om og læste bagpå routeren, hvor der står, at man skal logge ind på 192.168.0.1.

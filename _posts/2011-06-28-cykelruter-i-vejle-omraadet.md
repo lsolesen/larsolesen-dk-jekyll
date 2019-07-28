@@ -4,7 +4,7 @@ permalink: /content/cykelruter-i-vejle-omraadet
 language: da
 tags:
   - cykelferie
-modified: 2011-06-28T16:08:57Z
+last_modified_at: 2011-06-28T16:08:57Z
 ---
 
 I løbet af sommeren skal vi beskrive nogle cykelruter, der starter fra tre cykelvenlige overnatningssteder:

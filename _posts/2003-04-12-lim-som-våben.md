@@ -4,7 +4,7 @@ permalink: /content/lim-som-våben
 language: da
 tags:
   - sydafrika
-modified: 2010-11-06T20:26:47Z
+last_modified_at: 2010-11-06T20:26:47Z
 ---
 
 Han står på fortovet bag rækværket og stikker hovedet halvt gennem gitteret og kigger nysgerrigt på os i bussen. Han er ikke meget højere end en halv meter og har sikkert lige lært at gå. Han holder en stor pose i sin lille snavsede hånd, mens han holder godt fast i en af stængerne i gitteret med den anden hånd. Han ser glad ud. Han venter spændt på sin fremtid.

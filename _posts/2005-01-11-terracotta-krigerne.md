@@ -4,7 +4,7 @@ permalink: /content/terracotta-krigerne
 language: da
 tags:
   - kina
-modified: 2010-11-07T18:13:14Z
+last_modified_at: 2010-11-07T18:13:14Z
 ---
 
 Qin Shi Huang blev kejser i en alder af 13 år. Han blev senere kendt som den kejser, der samlede Kina, samlede The Great Wall og byggede et fantastisk mausolæum til sig selv.

@@ -3,7 +3,7 @@ title: "Opbevaring og kategorisering af digitale fotos"
 permalink: /content/opbevaring-og-kategorisering-af-digitale-fotos
 language: da
 tags:
-modified: 2010-11-06T16:52:50Z
+last_modified_at: 2010-11-06T16:52:50Z
 ---
 
 **Det kan være et mareridt. Når man går rundt med sit digitale kamera, er de jo let at skyde rigtig mange billeder. Men hvor skal du gøre af dem bagefter, og hvordan skal du gemme dine oplysninger om billederne?**

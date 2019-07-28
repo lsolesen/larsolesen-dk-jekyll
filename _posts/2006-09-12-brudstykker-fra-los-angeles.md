@@ -6,7 +6,7 @@ tags:
   - usa
   - los angeles
   - dagbog
-modified: 2010-11-15T14:47:20Z
+last_modified_at: 2010-11-15T14:47:20Z
 ---
 
 **Los Angeles: Englenes by i forskellige glimt. Det eneste jeg kan garantere er, at kronologien er tilfældig, men oplevelserne har fæstnet sig på min nethinde.**
@@ -19,41 +19,13 @@ Jeg tager nogle armhævninger, men mine muskler er noget slatne. Prøver en sjov
 
 Besøger Koreatown. En masse skilte er på koreansk, men ellers ikke noget anderledes. Dog lige på McDonald's, som er helt fyldt med koreanere. Ser en mexicansk avis. Requelme er på forsiden.
 
-- [Edit](http://intraface.dk/core/restricted/module/cms/3/pages/38/section/69/element/134 "Edit element")
-- [Move](http://intraface.dk/core/restricted/module/cms/3/pages/38/section/69?action=move&element_id=134&id=69)
-- [Delete](http://intraface.dk/core/restricted/module/cms/3/pages/38/section/69?delete=134)
-
-![](http://larsolesen.dk/sites/larsolesen.dk/files/strandlivvenice.jpeg)V for Venice Beach
-
-
-
-
-
-
-
-- [Edit](http://intraface.dk/core/restricted/module/cms/3/pages/38/section/69/element/136 "Edit element")
-- [Move](http://intraface.dk/core/restricted/module/cms/3/pages/38/section/69?action=move&element_id=136&id=69)
-- [Delete](http://intraface.dk/core/restricted/module/cms/3/pages/38/section/69?delete=136)
+![V for Venice Beach](/assets/images/strandlivvenice.jpeg)
 
 Tilskuer på Venice Beach. Det er noget for sig. Og det er menneskene sandelig også. Finder det nuværende Muscle Beach. En turist vil tage et billede. Det har mændene ikke noget imod. De poserer endda til ære for kameraet. Kigger sig grundigt for, så man ikke bliver kørt over af hurtigkørende rulleskøjteløbere eller cykler i alle mulige mærkelige udformninger. En hjemløs trækker to indkøbsvogne. En anden hjemløs går og snakker med sig selv. En har et skilt: "Working for marihuana". Følger Ocean Boardwalk med alle butikkerne og cafeerne. Der er masser af gadehandlere og gadekunstnere. Der er vist ikke så mange penge i det. Men de kommer igen dag efter dag.
 
 Går til Santa Monica Pier. Det er ikke så langt fra Venice Beach. Vi følger bare stranden. Det er ligesom i filmene. Palmer. Livreddere og biler. Sætter os og kigger på surferne. Dypper tæerne i vandet. Det er godt koldt. Solen har ellers varmet i lang tid. På 3rd Street Promenade. En butiksgade med masser af liv. Køber en taco på en af de utallige mexicanske fastfood steder. Det er aften og vi hører musik. De spiller noget almindelig vals fra et lille anlæg, og der er mennesker der danser. Vi går lidt længere og nu spilles der salsa, og her er endnu flere mennesker der danser. Det ser ud til, at det bare er tilfældige mennesker, som lige er kommet forbi, der går med på en dans.
 
-
-
-
-
-- [Edit](http://intraface.dk/core/restricted/module/cms/3/pages/38/section/69/element/135 "Edit element")
-- [Move](http://intraface.dk/core/restricted/module/cms/3/pages/38/section/69?action=move&element_id=135&id=69)
-- [Delete](http://intraface.dk/core/restricted/module/cms/3/pages/38/section/69?delete=135)
-
-![](http://larsolesen.dk/sites/larsolesen.dk/files/strandlivla.jpeg)Strandliv ved Santa Monica Beach
-
-
-
-
-
-
+![Strandliv ved Santa Monica Beach](/assets/images/strandlivla.jpeg)
 
 Tager til vinfest på Hollywood Boulevard. Den største vinsmagning nogensinde i Los Angeles, skriver de. Der var også mange mennesker. Til gengæld var smagsprøverne også små. Vi kunne naturligvis have bedt om anden gang, men bliver hurtigt trætte af alle menneskene. Vi bliver dog ikke helt trætte af chokoladen, som gør sig lækker, mens den løber ned af siderne på noget der ligner et lille vandfald. Der er pinde og jordbær, som man kan holde ind under chokoladen.
 

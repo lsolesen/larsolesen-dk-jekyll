@@ -4,7 +4,7 @@ permalink: /content/børns-rettigheder-i-tanzania
 language: da
 tags:
   - tanzania
-modified: 2010-11-07T01:44:04Z
+last_modified_at: 2010-11-07T01:44:04Z
 ---
 
 Steven Ndosi, som er vores lærer på TCDC, arbejder meget med børns rettigheder i Tanzania - og han ser mange positive fremskridt på dette område. I dag fik vi mulighed for at se hvordan de i lokalområdet arbejder med børn, som har vanskelige vilkår.

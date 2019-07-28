@@ -6,7 +6,7 @@ tags:
   - usa
   - los angeles
   - dagbog
-modified: 2010-11-16T09:29:10Z
+last_modified_at: 2010-11-16T09:29:10Z
 ---
 
 **Los Angeles er naturligvis et mekka for _film makers_. Det er let at komme til screening af nye film i landet lavet af drømme.**

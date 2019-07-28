@@ -5,7 +5,7 @@ language: da
 tags:
   - usa
   - dagbog
-modified: 2010-11-17T14:43:37Z
+last_modified_at: 2010-11-17T14:43:37Z
 ---
 
 Mammoth Lakes: En historie fra bjergene med en kæmpe fødselsdagskage, smukke landskaber, produktion af røde blodlegemer og betagelse.

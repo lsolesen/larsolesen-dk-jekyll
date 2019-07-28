@@ -5,10 +5,10 @@ language: da
 tags:
   - sikkerhed
   - kryptering
-modified: 2010-10-14T23:05:00Z
+last_modified_at: 2010-10-14T23:05:00Z
 ---
 
-Man bør [tage sin digitale sikkerhed alvorligt](http://larsolesen.dk/content/interesseret-i-din-egen-digitale-sikkerhed). Og det kan faktisk være rigtig fornuftigt at kryptere ens data, så andre mennesker ikke bare kan få fat i det.
+Man bør [tage sin digitale sikkerhed alvorligt](/content/interesseret-i-din-egen-digitale-sikkerhed). Og det kan faktisk være rigtig fornuftigt at kryptere ens data, så andre mennesker ikke bare kan få fat i det.
 
 Jeg har på et tidspunkt krypteret nogle særligt følsomme oplysninger på min computer. Det er imidlertid åbenbart virkelig sjældent, at jeg har haft brug for oplysningerne, for da jeg skulle bruge dem, kunne jeg ikke huske, hvordan jeg havde krypteret dem. Når man ikke selv kan få fat i dem, så er tingene blevet lige lovlig sikre. Der er kun en løsning, og det er at komme i tanke om hvilket program, jeg havde brugt til at kryptere tingene.
 

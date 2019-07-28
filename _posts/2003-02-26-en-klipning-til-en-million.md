@@ -4,7 +4,7 @@ permalink: /content/en-klipning-til-en-million
 language: da
 tags:
   - tanzania
-modified: 2010-11-07T01:32:57Z
+last_modified_at: 2010-11-07T01:32:57Z
 ---
 
 **Jeg havde virkelig set frem til i dag, for vi skulle høre om traditionel tro, heksedoktorer og healere, men de eneste, der virkelig lavede heksekunstner var to frisører, som jeg vil vende tilbage til. De tjente i hvert fald rigeligt på at klippe mig. Til gengæld har jeg heller aldrig været så korthåret før, men mere om de senere.**
@@ -74,4 +74,4 @@ Ejeren talte med Steven, og efter at have sikret sig, at den rigtige køber og h
 
 Senere på aftenen ringede han så til Steven, og sagde at han ville møde ham nu på en benzinstation. Steven kørte derhen og mødte ham. Ejeren bad ham følge med, så de kørte nogle kilometer i hver sin bil. Så stoppede han, gav ham en plastikpose, hvor kameraet var i. Derfor kunne vi tage på politistationen og bede om at få lukket sagen. De to drenge, der blev fanget først, bliver formentlig løsladt uden retsforfølgelse, men de har alligevel også siddet fire dage i fængsel for at give en lov til at bruge deres forretning som ramme for et simpelt tyveri.
 
-… og sådan blev jeg bevæbnet igen, så jeg kan tage nogle billeder.
+... og sådan blev jeg bevæbnet igen, så jeg kan tage nogle billeder.
