@@ -29,11 +29,3 @@ Men selv på en festdag skal man jo bokse med opvasken, og inspireret af den god
 Derefter sang vi naturligvis et par julesange mere eller mindre lige efter bogen, for man er jo altid spændt på at se alle sine pakker. Vi gav naturligvis hinanden nogle gaver, og så glædede vi os især over gaverne fra Danmark. Både pengene på bankbogen og gaverne var dejlige. Så vi sender vores tak.
 
 Vi gik rimeligt tidligt i seng, for næste dag skulle vi ud på en lille rejse rundt i Texas og Louisiana. God jul - og heldigvis fik vi mere god jul, da vi kom hjem, for et par af pakkerne fra Danmark var mere end en måned undervejs; så i starten af januar havde vi alt det juleslik og de nissemænd, vi kunne tænke os. Og hvorfor er det ikke også jul i januar. Det er det i hvert fald hos os.
-
-
-
-
-
-- [Edit](http://intraface.dk/core/restricted/module/cms/3/pages/853/section/2341/element/1104 "Edit element")
-- [Move](http://intraface.dk/core/restricted/module/cms/3/pages/853/section/2341?action=move&element_id=1104&id=2341)
-- [Delete](http://intraface.dk/core/restricted/module/cms/3/pages/853/section/2341?delete=1104)

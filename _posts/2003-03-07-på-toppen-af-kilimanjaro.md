@@ -2,6 +2,8 @@
 title: "På toppen af Kilimanjaro"
 permalink: /content/på-toppen-af-kilimanjaro
 language: da
+categories:
+  - Travel
 tags:
   - tanzania
 last_modified_at: 2010-11-07T01:27:39Z
