@@ -59,7 +59,8 @@ social:
   type                   : "Person" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - "https://twitter.com/lsolesen"
+    - "https://facebook.com/lsolesen"
 
 # Site search
 search: true
@@ -101,6 +102,24 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/larssolesen"
 
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lsolesen"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/lsolesen"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lsolesen"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/lsolesen"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/larssolesen"
 
 # Reading Files
 include:
