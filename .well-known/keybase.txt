@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/lsolesen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://larsolesen.dk
+  * I am lsolesen (https://keybase.io/lsolesen) on keybase.
+  * I have a public key with fingerprint 73B8 E344 2E9B 1546 1981  5992 0A87 3EE6 1287 A67D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e1eacf07504640eef3ef88744e589f69326c55cacc7cbcb3ca59f5d0ef6d471d0a",
+      "fingerprint": "73b8e3442e9b1546198159920a873ee61287a67d",
+      "host": "keybase.io",
+      "key_id": "0a873ee61287a67d",
+      "kid": "0101dc23b408dbda62e64640f685f60e3e42f879ccd9221509994057d60796969f860a",
+      "uid": "412846b91ad668b785d2cea2722ada19",
+      "username": "lsolesen"
+    },
+    "service": {
+      "hostname": "larsolesen.dk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1572872859,
+  "expire_in": 157680000,
+  "prev": "a4632cba682fe2b93adbb034b77766b0ae6d99f6f87d48a8f537ed4ecfe837cf",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNwAnicZVJtUFRVGF6+A4YiUEbZUeTCwAS0cz/PvXdHyLAGnZGisbAparsf58KF
+dXe5d3eDcC0ywxhWZwfxC0NgELGAwhGDSgaJUQyoMRCiEBwTkNliZPxocEbqLsmv
+zvlx5rzneZ73ed/z9kcE6ML8wioyZqMqml1+g5eOO3Tv9CK1ZQhvFUsRYxlSBFcO
+aBahajcVySJiRFAMRyEGOUFCaQolAYlCKBFQYhiaJCHFsBJgCRwIFCVwgkALvMAT
+AkexEiWiUAIiSWMiyiFpiCRb8qFiU2SLXZOlCZ6BBEnikOUxigQYy2AUy+Iox9AE
+hADDGZoDtKgRC6yqj6GZ4zkVGmSrFtMupv/s/R+/6hvFRAEneBJlRF7kAA6Bz70E
+GEoCKCQgiUsMzQqCyOI4RqEsy5IoRYsApVmgbYkBK74dK3KkloAEPItxIgAMTzOU
+iAuQw2kc50QOY31AFSoWbjfU0GbVaoYqtCCuNESLOmUB+hrrq2QVwSlPMAaxSCPb
+FKvdKljN2lOB3W5TjT6qvdTmw74PedMTFRMvW0StkRrDCRVVtloQI6YhBbvsk8Uo
+WusDzlBsGgJLbLICTbJlJQwYVFu+PNCpSXIkIHCB5wCDSxDnWYITeR4lSJ6maQB4
+lINAZLWv1TokkgzHSBRBQ5GEggQZghYkxFdXscWqadOaTy5f01TlfAtndygQcfVd
+ygvU+YXpgoP8fROmCwuNXJ27EBipa/Mshjxyv9C2K/1Uw7i39O73rfHu7sJ5f/3C
+lbjkXCU2Ze/B1C1UNBa87+L9uJLC2cRKd+jy/EzN6dFbOVV9dsNA6cbi3JzK7wo6
+gvrunSk9PFMQVX17pr8T3f5BU2DcRFlk3J7gpVZyqH1XgtLY+FqWvXZmoqEDJD3d
+8lTHp/wzNZXE1YGAN70Ht38hm54f1deNVajvYudOsGPLzobfvUJMTkL9ZKvSMX3+
+m7NBKfGHDRf1nnJdRq/hfPjDVvOPvdMP9ncNRD36pNATG/uxend6BG3PnO3smaYm
+uayidjj+wBVwXXBgpvcOHHVUhVSS3tTie7nX5MV/nF9V3Nz0uNrWNGKeHIpTy59r
+TglYs22HFbuR4G1pXDjVZaxef5nNTpdc8UbHubnXX3GPHgqc6K7V//Tir7MHtkpT
+upGR5q+H9tWdGCyK3nTy6uXuDTcs2f1/r4vZG7G27fHIHzYqvyZzw/GA8AvXzf6/
+hVuHe9ZuKcmce9vkbvkyML1xp3MscXBzctv6mGc71tWVv1o8f+FOWWZqYvPJzYFV
+LyV75m4fyWj6eappcaknKaNniQVoTP2Zz1KY7DdO13u7ftn/VudHuUd365eP7WCj
+han7G6eB/sitsdD5Ataw7c7staT6PzMixq8Me/L2/PCtpbla53qY6o7/cOtO+uXP
+e/9as6AMnz2UdTOvW/wXAfPCXw==
+=82ci
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lsolesen
+
+==================================================================
