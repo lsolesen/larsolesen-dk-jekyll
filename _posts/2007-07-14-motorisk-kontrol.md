@@ -13,4 +13,4 @@ Motorisk kontrol er spørgsmålet om, hvilke principper der styrer de komplicere
 
 Disse spørgsmål forsøger jeg at besvare i denne artikel om motorisk læring, der blev bragt i Focus Idræt nr. 3 2007.
 
-[<i class="far fa-file-pdf" aria-hidden="true"></i> Download artiklen](/assets/pdf/Focus-Motorisk-kontrol.pdf)
+[<i class="far fa-file-pdf" aria-hidden="true"></i> Download artiklen](/assets/pdf/Focus-Motorisk-kontrol.pdf){: .btn .btn--large .btn--danger }

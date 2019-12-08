@@ -15,4 +15,4 @@ Hvordan optimeres det motoriske kontrolsystem under læringen af hurtige, motori
 
 Det forsøger jeg at besvare i denne artikel, der også blev bragt i Focus Idræt, nr 1, 2011.
 
-[<i class="far fa-file-pdf" aria-hidden="true"></i> Download artiklen](/assets/pdf/Focus-Hvordan-foregår-motorisk-læring.pdf)
+[<i class="far fa-file-pdf" aria-hidden="true"></i> Download artiklen](/assets/pdf/Focus-Hvordan-foregår-motorisk-læring.pdf){: .btn .btn--large .btn--danger }
