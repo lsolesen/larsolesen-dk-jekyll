@@ -4,6 +4,8 @@ permalink: /content/hvordan-foregår-motorisk-læring
 language: da
 tags:
   - motorisk læring
+  - motorisk kontrol
+  - Focus Idræt
 last_modified_at: 2011-06-20T13:53:33Z
 ---
 
@@ -12,3 +14,5 @@ Motorisk læring er spørgsmålet om, hvordan den motoriske kontrol optimeres ti
 Hvordan optimeres det motoriske kontrolsystem under læringen af hurtige, motoriske færdigheder?
 
 Det forsøger jeg at besvare i denne artikel, der også blev bragt i Focus Idræt, nr 1, 2011.
+
+[<i class="far fa-file-pdf" aria-hidden="true"></i> Download artiklen](/assets/pdf/Focus-Hvordan-foregår-motorisk-læring.pdf)
