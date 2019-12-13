@@ -6,7 +6,15 @@ tags:
   - motorisk læring
   - motorisk kontrol
   - speciale
-last_modified_at: 2013-04-24T12:06:46Z
+last_modified_at: 2019-12-13T12:06:46Z
+feature_row_thesis:
+  - image_path: /assets/images/cover.jpg
+    alt: "Kontrol og læring af motoriske færdigheder og verbal feedback"
+    title: "Kontrol og læring af motoriske færdigheder og verbal feedback"
+    excerpt: "Bogen besvarer følgende to spørgsmål: (1) Hvordan kan komplicerede, hurtige færdigheder tænkes at være kontrolleret, og hvordan kan påvirkningen og læringen i dette kontrolsystem tænkes at foregå? (2) Hvordan kan underviseren verbalt give feedback på udøverens præstation af en kompliceret, hurtig færdighed for at skabe den bedst mulige motoriske læring hos udøveren?"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9780815392842/0x500
     alt: "Skill Acquisition in Sport - Research, Theory and Practice"
@@ -33,6 +41,8 @@ feature_row:
 
 Jeg skrev speciale om motorisk kontrol og læring og verbal feedback. Her kan du læse et resume af specialet, og hvis det lyder spændende kan du gå i gang med hele molevitten.
 
+Specialet _Kontrol og læring af motoriske færdigheder og verbal feedback_ er udgivet som bog bl.a. hos [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378).
+
 ## Resumé
 
 Specialet besvarer følgende to spørgsmål:
@@ -52,5 +62,11 @@ På baggrund af specialet har jeg skrevet et par artikler til _Focus Idræt_. Du
 
 - [Motorisk kontrol](/content/motorisk-kontrol)
 - [Hvordan foregår motorisk læring?](/content/hvordan-foregår-motorisk-læring)
+
+## Køb bogen
+
+{% include feature_row id="feature_row_thesis" type="left" %}
+
+## Inspiration til bogen
 
 {% include feature_row type="left" %}

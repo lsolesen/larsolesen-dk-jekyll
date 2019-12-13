@@ -6,9 +6,17 @@ tags:
   - motorisk læring
   - motorisk kontrol
   - Focus Idræt
-last_modified_at: 2011-06-20T13:53:33Z
+last_modified_at: 2019-12-13T13:53:33Z
 toc: true
 toc_sticky: true
+feature_row_thesis:
+  - image_path: /assets/images/cover.jpg
+    alt: "Kontrol og læring af motoriske færdigheder og verbal feedback"
+    title: "Kontrol og læring af motoriske færdigheder og verbal feedback"
+    excerpt: "Bogen besvarer følgende to spørgsmål: (1) Hvordan kan komplicerede, hurtige færdigheder tænkes at være kontrolleret, og hvordan kan påvirkningen og læringen i dette kontrolsystem tænkes at foregå? (2) Hvordan kan underviseren verbalt give feedback på udøverens præstation af en kompliceret, hurtig færdighed for at skabe den bedst mulige motoriske læring hos udøveren?"
+    url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
+    btn_label: "Læs mere"
+    btn_class: "btn--success"
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9780815392842/0x500
     alt: "Skill Acquisition in Sport - Research, Theory and Practice"
@@ -35,9 +43,11 @@ feature_row:
 
 Motorisk læring er spørgsmålet om, hvordan den motoriske kontrol optimeres til at klare de udfordringer, kroppen stilles overfor. Kroppen møder nye og uvante situationer som kræver nye og uvante løsninger. Men kroppen er stødt ind i en masse situationer før og har derfor også behov for at skabe faste(re), effektive rutiner til at håndtere velkendte situationer og krav.
 
-Hvordan optimeres det motoriske kontrolsystem under læringen af hurtige, motoriske færdigheder? Det har jeg skrevet [speciale](/content/kontrol-og-l%C3%A6ring-af-motoriske-f%C3%A6rdigheder-og-verbal-feedback) om, og det danner baggrund for nedenstående artikel.
+Hvordan optimeres det motoriske kontrolsystem under læringen af hurtige, motoriske færdigheder? Det har jeg skrevet [speciale](/content/kontrol-og-l%C3%A6ring-af-motoriske-f%C3%A6rdigheder-og-verbal-feedback) om, som er udgivet som bog hos bl.a. [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378), og det danner baggrund for nedenstående artikel, som også er bragt i [Focus Idræt, nr 1, 2011](/assets/pdf/Focus-Hvordan-foregår-motorisk-læring.pdf).
 
-Det forsøger jeg at besvare i [denne artikel, der også blev bragt i Focus Idræt, nr 1, 2011](/assets/pdf/Focus-Hvordan-foregår-motorisk-læring.pdf). Du kan læse hele artiklen herunder.
+{% include feature_row id="feature_row_thesis" type="left" %}
+
+Du kan læse hele artiklen herunder.
 
 ***
 
