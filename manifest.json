@@ -3,7 +3,7 @@ layout: none
 ---
 {
     "name": "{{ site.title }}",
-    "short_name": "Motionsplan",
+    "short_name": "larsolesen.dk",
     "description": "{{ site.description }}",
     "start_url": "{{ "/" | relative_url }}",
     "theme_color": "#ffffff",
