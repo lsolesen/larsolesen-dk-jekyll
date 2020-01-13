@@ -1,0 +1,24 @@
+{
+  "name": "larsolesen.dk",
+  "version": "1.0.0",
+  "description": "Official site for larsolesen.dk.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lsolesen/larsolesen-dk-jekyll.git"
+  },
+  "keywords": [
+    "jekyll"
+  ],
+  "author": "Lars Olesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lsolesen/larsolesen-dk-jekyll/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "start": "jekyll server --port 8080 --incremental"
+  }
+}
