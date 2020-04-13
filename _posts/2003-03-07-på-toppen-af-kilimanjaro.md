@@ -52,13 +52,15 @@ Efter at have samlet kræfter fortsætter vi. Som den mest naturlige ting i verd
 
 Vi går videre og holder igen en kort pause. En læner sig op ad sin vandrestav, mens hans ben ryster voldsomt. - Det er ubelejligt, men jeg skal på toilet. Han har da helt ret. Det er temmelig ubelejligt. Vi står og hundefryser, er trætte og vil bare videre, men den stakkels mand skal naturligvis have afløb for sine behov. Det mest ubelejlige er nok at man ikke kan se en hånd for sig, og at han skal have tre lag tøj fjernet, inden han kan få ordnet sagerne. Han tager lige et skridt ud af vores sammentømrede kolonne og bliver straks en ny og bedre bjergbestiger.
 
-Han er færdig, og vi bevæger os igen mod målet. Tiden føles uendelig lang, og alligevel passerer den bare. Nu skal jeg kun forcere tre klipper, så står jeg på Gilmann?s Point, som er det næsthøjste punkt på Kilimanjaro. Så er jeg der. Jeg skynder mig at sætte mig ned sammen med de seks andre fra min gruppe, som nåede så langt - og så var det, jeg sagde: jeg vil gerne med til Uhuru Peak.
+Han er færdig, og vi bevæger os igen mod målet. Tiden føles uendelig lang, og alligevel passerer den bare. Nu skal jeg kun forcere tre klipper, så står jeg på Gilmann's Point, som er det næsthøjste punkt på Kilimanjaro. Så er jeg der. Jeg skynder mig at sætte mig ned sammen med de seks andre fra min gruppe, som nåede så langt - og så var det, jeg sagde: jeg vil gerne med til Uhuru Peak.
 
-\[Billede\] Toppen af Kilimanjaro, Uhuru Peak, i 5.895 meters højde. Deroppe har man mest lyst til at komme ned igen.
+\[Billede\]
+
+Toppen af Kilimanjaro, Uhuru Peak, i 5.895 meters højde. Deroppe har man mest lyst til at komme ned igen.
 
 Oppe i himlen
 -------------
 
-Skiltet kommer hele tiden nærmere. Jeg er altså snart på Afrikas højeste punkt. Jeg har taget hul på min egen kamp mod The Seven Summits, som er et af bjergbestigernes mål, nemlig at bestige det højeste punkt på hvert af de syv kontinenter. Jeg sætter mig på en sten og hviler lidt. Jeg tvinger mig selv til at kigge lidt rundt og nyde det. Vi er højere oppe end de få skyer, der er på himlen. Forunderligt at være helt oppe i himlen. Jeg hviler hovedet på min vandrestav og tænker igen mest på at sove. De tre andre fra Rejselinien på Vejle Idrætshøjskole stiller op til gruppebillede ved siden af skiltet, så vi kan bevise, at vi har været der. Jeg stiller op, men orker hverken at smile eller finde mit eget kamera.
+Skiltet kommer hele tiden nærmere. Jeg er altså snart på Afrikas højeste punkt. Jeg har taget hul på min egen kamp mod The Seven Summits, som er et af bjergbestigernes mål, nemlig at bestige det højeste punkt på hvert af de syv kontinenter. Jeg sætter mig på en sten og hviler lidt. Jeg tvinger mig selv til at kigge lidt rundt og nyde det. Vi er højere oppe end de få skyer, der er på himlen. Forunderligt at være helt oppe i himlen. Jeg hviler hovedet på min vandrestav og tænker igen mest på at sove. De tre andre fra Rejselinjen på Vejle Idrætshøjskole stiller op til gruppebillede ved siden af skiltet, så vi kan bevise, at vi har været der. Jeg stiller op, men orker hverken at smile eller finde mit eget kamera.
 
 Jeg begynder hurtigt at gå ned igen, og det er herligt at opleve, hvordan man gradvist får mere og mere overskud i takt med, at ilttrykket i luften stiger. De resterende seks bjerge på de andre kontinenter skal nok ikke forvente at få besøg af mig.
