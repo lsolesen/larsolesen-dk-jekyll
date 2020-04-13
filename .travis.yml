@@ -5,12 +5,12 @@ branches:
   - gh-pages
   - /.*/
 rvm:
-  - 2.2.7
-  - 2.3.4
-  - 2.4.1
+  - 2.3.6
+  - 2.4.1  
+  - 2.5.3
 matrix:
   allow_failures:
-    - rvm: 2.3.4
+    - rvm: 2.3.6
     - rvm: 2.4.1
   fast_finish: true
 install:
