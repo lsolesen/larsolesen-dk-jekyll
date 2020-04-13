@@ -19,7 +19,7 @@
   "devDependencies": {
   },
   "scripts": {
-    "start": "jekyll server --port 8080 --incremental",
-    "test-html": "htmlproofer ./_site --only-4xx --assume-extension --check-favicon --check-html --allow-hash-href --url-ignore '/drupal.org/, /drupalcode.org/, /vimeo.com/'"
+    "start": "bundle exec jekyll server --port 8080 --incremental",
+    "test-html": "bundle exec htmlproofer ./_site --only-4xx --assume-extension --check-favicon --check-html --allow-hash-href --url-ignore '/drupal.org/, /drupalcode.org/, /vimeo.com/'"
   }
 }
