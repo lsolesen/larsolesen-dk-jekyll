@@ -101,6 +101,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/larssolesen"
+    - label: "Støt sitet"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/hmBeaqv9P"
 
 
 footer:
