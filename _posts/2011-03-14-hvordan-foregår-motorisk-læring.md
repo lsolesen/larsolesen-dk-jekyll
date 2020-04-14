@@ -653,4 +653,4 @@ fra min forståelsesramme af motorisk kontrol og læring.
 
 ***
 
-[<i class="far fa-file-pdf" aria-hidden="true"></i> Download artiklen](/assets/pdf/Focus-Hvordan-foregår-motorisk-læring.pdf){: .btn .btn--large .btn--danger }
+[<i class="far fa-file-pdf" aria-hidden="true"></i> Download artiklen](/assets/pdf/Focus-Hvordan-foregaar-motorisk-laering.pdf){: .btn .btn--large .btn--danger }
