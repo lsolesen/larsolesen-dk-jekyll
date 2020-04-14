@@ -48,7 +48,9 @@ på usenet.dk - og endelig har jeg modtaget og sendt et hav af e-mails.
 
 **Skriv din e-mail i tekstformat**. Der er ingen grund til at spilde god båndbredde på at skrive html-emails. Hvis du vil fremhæve noget, understøtter det gode e-mailprogrammer:
 
-`<strong>fed tekst</strong> <em>/kursiveret tekst/</em> `Når du **skriver et link** i din e-mail, kan du undgå at det knækker over ved at skrive det på følgende standardform:
+`<strong>fed tekst</strong> <em>/kursiveret tekst/</em> `
+
+Når du **skriver et link** i din e-mail, kan du undgå at det knækker over ved at skrive det på følgende standardform:
 
 `&lt;http://www.vih.dk&gt;`
 

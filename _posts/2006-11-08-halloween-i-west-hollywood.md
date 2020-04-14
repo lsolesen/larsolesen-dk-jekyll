@@ -13,8 +13,6 @@ last_modified_at: 2010-11-08T12:33:50Z
 
 Vi var ikke selv klædt ud, men vi var klædt rigeligt på med to digitale kameraer, og vi fik dokumenteret nogle af de mange fantasifulde og flotte udklædninger.
 
-
-
 Halloween
 ---------
 

@@ -23,3 +23,5 @@ Vores opgave er:
 - at give input til kortkonsulenten
 
 Hvis du har nogle input, hører vi meget gerne om det i kommentarerne!
+
+Læs mere om [cykelruterne](http://www.cykel-ruter.dk).
