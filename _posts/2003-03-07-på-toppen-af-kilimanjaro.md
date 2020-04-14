@@ -43,7 +43,7 @@ Jeg var afsted med en gruppe fra Rejselinjen på Vejle Idrætshøjskole, og vi v
 Hurtigløber
 -----------
 
-De almindelige ture til toppen af Kilimanjaro tager fem eller seks dage. I 1993 slog brasilianeren, Mozart Catao, imidlertid alle hastighedsrekorder ved at nå til toppen og tilbage til indgangen til naturparken på 17:30 time. Det er hurtigt!
+De almindelige ture til toppen af Kilimanjaro tager fem eller seks dage. I 1993 slog brasilianeren, Mozart Catão, imidlertid alle hastighedsrekorder ved at nå til toppen og tilbage til indgangen til naturparken på 17:30 time. Det er hurtigt!
 
 Forsøget
 --------
