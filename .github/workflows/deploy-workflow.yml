@@ -26,12 +26,15 @@ jobs:
       # to push our website updates to the `gh-pages` branch.
       # Notice that we are specifying the path to the action here.
       # We will create those files in a sec
-      - uses: ./.github/actions/build-dist-site
+      - uses: helaili/jekyll-action@2.0.0
         env:
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+      #- uses: ./.github/actions/build-dist-site
+      #  env:
           # Now make sure you add this environment variable.
           # This token will allow us to push to github directly
           # without having to type in our password.
           # The GITHUB_TOKEN is available by default 
-         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-         GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
-         GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+      #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+      #   GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
