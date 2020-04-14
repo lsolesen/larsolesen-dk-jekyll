@@ -1,4 +1,4 @@
-FROM ruby:2.6-slim-stretch
+FROM ruby:2-slim
 LABEL author="Lars Olesen"
 LABEL version="1.0.0"
 
