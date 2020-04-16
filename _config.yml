@@ -129,6 +129,7 @@ include:
   - .htaccess
   - _pages
   - .well-known
+  - .nojekyll
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

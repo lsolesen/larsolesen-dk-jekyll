@@ -5,7 +5,6 @@ branches:
   - gh-pages
   - /.*/
 rvm:
-  - 2.5.3
   - 2.6.3
   - 2.6.6
   - 2.7.1
@@ -13,7 +12,6 @@ matrix:
   allow_failures:
     - rvm: 2.6.3
     - rvm: 2.6.6
-    - rvm: 2.7.1
   fast_finish: true
 install:
   - travis_retry bundle install
