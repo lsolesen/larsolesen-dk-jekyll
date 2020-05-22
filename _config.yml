@@ -70,7 +70,7 @@ search: true
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false # false (default), "google", "google-universal", "custom"
+  provider               : false # "google-universal" # false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-793671-5"
 
