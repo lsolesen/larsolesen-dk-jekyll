@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "mmistakes/minimal-mistakes@4.19.1"
+remote_theme:            "mmistakes/minimal-mistakes@4.19.2"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Site Settings
@@ -23,7 +23,7 @@ words_per_minute         : 200
 comments:
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
 staticman:
-  branch                 : "gh-pages"
+  branch                 : "master"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -61,6 +61,8 @@ social:
   links: # An array of links to social media profiles
     - "https://twitter.com/lsolesen"
     - "https://facebook.com/lsolesen"
+    - "https://www.linkedin.com/in/lsolesen/"
+
 
 # Site search
 search: true
@@ -104,6 +106,9 @@ author:
     - label: "Støt sitet"
       icon: "fas fa-fw fa-mug-hot"
       url: "https://www.buymeacoffee.com/lsolesen"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lsolesen/"      
 
 
 footer:
@@ -114,15 +119,19 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/lsolesen"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lsolesen"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/lsolesen"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lsolesen/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/larssolesen"
+    - label: "Køb mig en kaffe"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://www.buymeacoffee.com/lsolesen"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lsolesen"
+
 
 # Reading Files
 include:
