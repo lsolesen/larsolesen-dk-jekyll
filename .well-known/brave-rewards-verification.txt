@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: larsolesen.dk
+Token: b82143d3c4852c6ec2fd06f1c4692fa947bb9071aee0f895009d26390546a564
