@@ -1,4 +1,4 @@
-{% if jekyll.environment == 'production' %}
+{% if jekyll.environment == 'production' AND site.ads == 'true' %}
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({
@@ -6,7 +6,6 @@
           enable_page_level_ads: true
      });
 </script>
-
 {% endif %}
 
 <link rel="manifest" type="application/manifest+json" href="{{ "/manifest.json" | relative_url }}">
