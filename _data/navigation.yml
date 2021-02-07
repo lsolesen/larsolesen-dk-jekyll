@@ -2,4 +2,5 @@
 main:
   - title: "Tags"
     url: /tags/
-
+  - title: "Foto"
+    url: /foto/
