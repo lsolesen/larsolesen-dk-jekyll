@@ -2,6 +2,7 @@
 title: Parafrase af Danske Pressefotos 2013
 author: lsolesen
 category:
+  - Foto
   - Opgave
 tags:
   - Parafrase

@@ -4,6 +4,7 @@ header:
   overlay_image: /assets/images/picture-1.png
 author: lsolesen
 category:
+  - Foto
   - Komposition
 tags:
   - Komposition

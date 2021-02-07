@@ -2,6 +2,7 @@
 title: Hvad betyder indstillingerne?
 author: lsolesen
 category:
+  - Foto
   - Teknik
 tags:
   - Blænde

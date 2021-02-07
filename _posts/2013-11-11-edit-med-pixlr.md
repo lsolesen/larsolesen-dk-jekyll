@@ -2,6 +2,7 @@
 title: Opgaver med Pixlr
 author: lsolesen
 category:
+  - Foto
   - Redigering
 tags:
   - Pixlr
