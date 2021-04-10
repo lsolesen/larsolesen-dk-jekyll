@@ -1,6 +1,7 @@
 ---
 title: "De frie skoler bør open source deres hjemmeside"
-permalink: /content/de-frie-skoler-bør-open-source-deres-hjemmeside
+permalink: /content/de-frie-skoler-boer-open-source-deres-hjemmeside/
+redirect_from: /content/de-frie-skoler-bør-open-source-deres-hjemmeside
 language: da
 tags:
   - drupal
@@ -9,7 +10,7 @@ tags:
 last_modified_at: 2011-04-04T11:03:06Z
 ---
 
-Det er ingen hemmelighed, at der altid er nok at bruge penge på, når man driver en fri skole, fx højskole og efterskole. Jeg har i en årrække været webmaster for [Vejle Idrætshøjskoles hjemmeside](http://vih.dk), og det koster altid penge, når der skal udvikles noget nyt til hjemmesiden. Vi har bl.a. brugt lidt kræfter på at udvikle noget, der kan håndtere tilmelding til både korte og lange kurser og brochurebestilling. Derudover bruger vi naturligvis mange kræfter på at få netop det design, der appellerer til vores målgruppe, og som helst skal være meget bedre end de andres.
+Det er ingen hemmelighed, at der altid er nok at bruge penge på, når man driver en fri skole, fx højskole og efterskole. Jeg har i en årrække været webmaster for [Vejle Idrætshøjskoles hjemmeside](http://www.vih.dk), og det koster altid penge, når der skal udvikles noget nyt til hjemmesiden. Vi har bl.a. brugt lidt kræfter på at udvikle noget, der kan håndtere tilmelding til både korte og lange kurser og brochurebestilling. Derudover bruger vi naturligvis mange kræfter på at få netop det design, der appellerer til vores målgruppe, og som helst skal være meget bedre end de andres.
 
 Hvorfor arbejder de frie skoler ikke sammen?
 --------------------------------------------

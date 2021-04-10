@@ -3,3 +3,5 @@ _site
 npm-debug.log
 .jekyll-cache/
 .jekyll-metadata
+vendor/
+.bundle/

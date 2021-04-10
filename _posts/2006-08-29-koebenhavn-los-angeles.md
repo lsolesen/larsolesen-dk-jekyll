@@ -1,6 +1,7 @@
 ---
 title: "København - Los Angeles"
-permalink: /content/københavn-los-angeles
+redirect_from: /content/københavn-los-angeles
+permalink: /content/koebenhavn-los-angeles/
 language: da
 tags:
 last_modified_at: 2010-11-15T14:48:46Z

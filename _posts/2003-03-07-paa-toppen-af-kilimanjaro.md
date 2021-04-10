@@ -1,6 +1,7 @@
 ---
 title: "På toppen af Kilimanjaro"
-permalink: /content/på-toppen-af-kilimanjaro
+redirect_from: /content/på-toppen-af-kilimanjaro/
+permalink: /content/paa-toppen-af-kilimanjaro
 language: da
 categories:
   - Travel
