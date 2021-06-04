@@ -2,10 +2,10 @@ name: motionsplan
 
 backend:
   name: github
-  repo: lsolesen/plakaterne-dk-jekyll
+  repo: lsolesen/lsolesen/larsolesen-dk-jekyll
   branch: master # Branch to update (optional; defaults to master)
   api_root: https://api.github.com
-  site_domain: plakaterne.netlify.app
+  site_domain: larsolesen.netlify.app
   base_url: https://api.netlify.com
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
@@ -13,9 +13,9 @@ backend:
 
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
 
-site_url: https://www.plakaterne.dk
-display_url: https://www.plakaterne.dk
-logo_url: https://www.plakaterne.dk/android-chrome-192x192.png
+site_url: https://www.larsolesen.dk
+display_url: https://www.larsolesen.dk
+logo_url: https://www.larsolesen.dk/android-chrome-192x192.png
 
 show_preview_links: false
 
