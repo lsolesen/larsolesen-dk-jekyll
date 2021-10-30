@@ -17,3 +17,5 @@ Vi cyklede rigtig meget i sommeren 2006. Både fordi vi kan lide det, men også 
 [Lån Østjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26917603){: .btn .btn--large .btn--danger}
 
 [Lån Vestjylland - guidebog til cykeloplevelser](https://bibliotek.dk/da/work/870970-basis%3A26918979){: .btn .btn--large .btn--danger}
+
+Du kan læse mere om [cykelruter i Danmark på cykel-ruter.dk](/cykelruter-danmark/).
