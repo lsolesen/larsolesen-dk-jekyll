@@ -1,7 +1,5 @@
 ---
-layout: category
-taxonomy: Foto # category name
-entries_layout: list # list (default), grid
+layout: splash
 permalink: /foto/
 title: Vejle Idrætshøjskole Foto
 description: Vi maler med lys
@@ -15,3 +13,15 @@ excerpt: 'Vi maler med lys'
 ---
 
 Vi maler med lys. Vil du være med til at male med lys?
+
+<div class="feature__wrapper">
+
+{% assign site_posts = site.posts | where: "categories", "Foto" | sort: "last_modified_at" | reverse %}
+
+{% if site_posts.size > 0 %}
+  {% for post in site_posts limit:8 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endif %}
+
+</div>

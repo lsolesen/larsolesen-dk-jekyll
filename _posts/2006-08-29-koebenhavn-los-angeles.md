@@ -3,7 +3,10 @@ title: "København - Los Angeles"
 redirect_from: /content/københavn-los-angeles
 permalink: /content/koebenhavn-los-angeles/
 language: da
+categories:
+  - Rejser
 tags:
+  - Los Angelse
 last_modified_at: 2010-11-15T14:48:46Z
 ---
 

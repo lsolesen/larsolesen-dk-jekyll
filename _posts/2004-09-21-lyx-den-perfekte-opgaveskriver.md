@@ -3,7 +3,8 @@ title: "Lyx - den perfekte opgaveskriver"
 permalink: /content/lyx-den-perfekte-opgaveskriver
 language: da
 tags:
-  - lyx linux
+  - lyx
+  - linux
 last_modified_at: 2019-12-02T16:00:09Z
 ---
 

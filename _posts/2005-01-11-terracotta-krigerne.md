@@ -2,8 +2,10 @@
 title: "Terracotta krigerne"
 permalink: /content/terracotta-krigerne
 language: da
+categories:
+  - Rejser
 tags:
-  - kina
+  - Kina
 last_modified_at: 2010-11-07T18:13:14Z
 ---
 

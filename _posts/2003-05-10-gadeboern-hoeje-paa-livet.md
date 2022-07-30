@@ -3,8 +3,10 @@ title: "Gadebørn høje på livet"
 redirect_from: /content/gadebørn-høje-på-livet
 permalink: /content/gadeboern-hoeje-paa-livet/
 language: da
+category:
+  - Rejser
 tags:
-  - sydafrika
+  - Sydafrika
 last_modified_at: 2010-11-07T01:35:04Z
 ---
 

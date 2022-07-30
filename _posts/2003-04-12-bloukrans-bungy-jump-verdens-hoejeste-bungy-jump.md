@@ -5,8 +5,10 @@ redirect_from:
   - /content/verdens-højeste-bungyjump-bloukrans-bungy-jump
 permalink: /content/verdens-hoejeste-bungy-jump-i-bloukrans/
 language: da
+category:
+  - Rejser
 tags:
-  - sydafrika
+  - Sydafrika
 last_modified_at: 2010-11-07T16:54:55Z
 ---
 

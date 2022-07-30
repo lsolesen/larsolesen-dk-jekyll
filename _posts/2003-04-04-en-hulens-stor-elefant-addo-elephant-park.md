@@ -2,8 +2,10 @@
 title: "En hulens stor elefant - Addo Elephant Park"
 permalink: /content/en-hulens-stor-elefant-addo-elephant-park
 language: da
+category:
+  - Rejser
 tags:
-  - sydafrika
+  - Sydafrika
   - safari
 last_modified_at: 2010-11-07T01:22:37Z
 ---

@@ -1,10 +1,13 @@
 ---
 title: "Filmbyen Los Angeles"
-permalink: /content/filmbyen-los-angeles
+permalink: /content/filmbyen-los-angeles/
+redirect_from: /content/filmbyen-los-angeles
 language: da
+categories:
+  - Rejser
 tags:
-  - usa
-  - los angeles
+  - USA
+  - Los Angeles
   - dagbog
 last_modified_at: 2010-11-16T09:29:10Z
 ---

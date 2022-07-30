@@ -2,8 +2,10 @@
 title: "Mungo er stor"
 permalink: /content/mungo-er-stor
 language: da
+category:
+  - Rejser
 tags:
-  - tanzania
+  - Tanzania
 last_modified_at: 2010-11-07T01:46:13Z
 ---
 

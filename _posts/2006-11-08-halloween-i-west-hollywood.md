@@ -2,9 +2,11 @@
 title: "Halloween i West Hollywood"
 permalink: /content/halloween-i-west-hollywood
 language: da
+categories:
+  - Rejser
 tags:
-  - usa
-  - los angeles
+  - USA
+  - Los Angeles
   - dagbog
 last_modified_at: 2010-11-08T12:33:50Z
 ---

@@ -3,8 +3,10 @@ title: "Børns rettigheder i Tanzania"
 permalink: /content/boerns-rettigheder-i-tanzania/
 redirect_from: /content/børns-rettigheder-i-tanzania
 language: da
+categories:
+  - Rejser
 tags:
-  - tanzania
+  - Tanzania
 last_modified_at: 2010-11-07T01:44:04Z
 ---
 

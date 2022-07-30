@@ -1,9 +1,13 @@
 ---
 title: "Rejse til New Zealand"
+redirect_from:
+  - /content/rejse-til-new-zealand
 permalink: /content/rejse-til-new-zealand
 language: da
+categories:
+  - Rejser
 tags:
-  - new zealand
+  - New Zealand
   - dagbog
 last_modified_at: 2011-01-21T11:08:30Z
 ---

@@ -4,9 +4,9 @@ redirect_from: /content/på-toppen-af-kilimanjaro/
 permalink: /content/paa-toppen-af-kilimanjaro
 language: da
 categories:
-  - Travel
+  - Rejser
 tags:
-  - tanzania
+  - Tanzania
 last_modified_at: 2010-11-07T01:27:39Z
 ---
 

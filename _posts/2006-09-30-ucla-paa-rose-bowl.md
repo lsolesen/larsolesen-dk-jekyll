@@ -3,6 +3,8 @@ title: "UCLA på Rose Bowl"
 permalink: /content/ucla-paa-rose-bowl/
 redirect_from: /content/ucla-på-rose-bowl
 language: da
+categories:
+  - Rejser
 tags:
   - usa
   - los angeles

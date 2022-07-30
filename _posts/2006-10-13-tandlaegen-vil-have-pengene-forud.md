@@ -3,8 +3,10 @@ title: "Tandlægen vil have pengene forud"
 redirect_from: /content/tandlægen-vil-have-pengene-forud
 permalink: /content/tandlaegen-vil-have-pengene-forud/
 language: da
+categories:
+  - Rejser
 tags:
-  - usa
+  - USA
   - dagbog
 last_modified_at: 2010-11-08T12:35:30Z
 ---

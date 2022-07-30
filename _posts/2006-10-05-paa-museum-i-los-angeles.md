@@ -3,10 +3,12 @@ title: "På museum i Los Angeles"
 redirect_from: /content/paa-museum-i-los-angeles/
 permalink: /content/på-museum-i-los-angeles
 language: da
+categories:
+  - Rejser
 tags:
   - dagbog
-  - los angeles
-  - usa
+  - Los Angeles
+  - USA
 last_modified_at: 2010-11-08T12:48:40Z
 ---
 

@@ -1,9 +1,12 @@
 ---
 title: "Mammoth Lakes betager"
-permalink: /content/mammoth-lakes-betager
+redirect_from: /content/mammoth-lakes-betager
+permalink: /content/mammoth-lakes-betager/
 language: da
+categories:
+  - Rejser
 tags:
-  - usa
+  - USA
   - dagbog
 last_modified_at: 2010-11-17T14:43:37Z
 ---

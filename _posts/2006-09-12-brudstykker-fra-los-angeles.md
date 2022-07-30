@@ -2,9 +2,11 @@
 title: "Brudstykker fra Los Angeles"
 permalink: /content/brudstykker-fra-los-angeles
 language: da
+categories:
+  - Rejser
 tags:
-  - usa
-  - los angeles
+  - USA
+  - Los Angeles
   - dagbog
 last_modified_at: 2010-11-15T14:47:20Z
 ---

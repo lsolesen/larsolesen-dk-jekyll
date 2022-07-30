@@ -2,8 +2,10 @@
 title: "En klipning til en million"
 permalink: /content/en-klipning-til-en-million
 language: da
+category:
+  - Rejser
 tags:
-  - tanzania
+  - Tanzania
 last_modified_at: 2010-11-07T01:32:57Z
 ---
 

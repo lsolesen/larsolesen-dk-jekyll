@@ -3,9 +3,11 @@ title: "New Orleans på vej tilbage"
 redirect_from: /content/new-orleans-på-vej-tilbage
 permalink: /content/new-orleans-paa-vej-tilbage/
 language: da
+categories:
+  - Rejser
 tags:
-  - usa
-  - new orleans
+  - USA
+  - New Orleans
 last_modified_at: 2010-11-07T19:17:57Z
 ---
 

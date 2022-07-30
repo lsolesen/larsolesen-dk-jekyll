@@ -1,10 +1,13 @@
 ---
 title: "Valgkamp i fuld gang"
-permalink: /content/valgkamp-i-fuld-gang
+redirect_from: /content/valgkamp-i-fuld-gang
+permalink: /content/valgkamp-i-fuld-gang/
 language: da
+categories:
+  - Rejser
 tags:
-  - usa
-  - los angeles
+  - USA
+  - Los Angeles
   - dagbog
 last_modified_at: 2010-11-08T12:36:31Z
 ---

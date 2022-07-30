@@ -2,7 +2,10 @@
 title: "Aften i West Street"
 permalink: /content/aften-i-west-street
 language: da
+categories:
+  - Rejser
 tags:
+  - Kina
 last_modified_at: 2010-11-07T18:17:59Z
 ---
 

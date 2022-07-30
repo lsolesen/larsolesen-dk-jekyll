@@ -2,9 +2,11 @@
 title: "Jul i Los Angeles"
 permalink: /content/jul-i-los-angeles
 language: da
+categories:
+  - Rejser
 tags:
-  - usa
-  - los angeles
+  - USA
+  - Los Angeles
 last_modified_at: 2010-11-17T14:59:27Z
 ---
 

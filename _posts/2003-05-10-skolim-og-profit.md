@@ -2,12 +2,16 @@
 title: "Skolim og profit"
 permalink: /content/skolim-og-profit
 language: da
+category:
+  - Rejser
 tags:
-  - sydafrika
+  - Sydafrika
 last_modified_at: 2010-11-07T01:20:57Z
 ---
 
-**Limbørnene elsker skolim, for den blæser hjernen ud med det samme. Skolimsfabrikanter elsker limbørnene så meget, at de gerne producerer en farvestrålende skolim til dem og tjener en bunke penge. Regulering af limsalget i Sydafrika er påkrævet.**En lidt snavset dreng træder stiv i blikket ind i en af de mange lille kiosker, der ligger rundt omkring i Sydafrika. Hans fødder er temmelig ramponerede, og han ejer æjensynligt hverken sko eller sandaler. Alligevel er det eneste han køber skolim, som han uden spørgsmål fra kioskindehaveren får stukket i hånden. Der er ingen regulering af salget af lim i Sydafrika, men man er begyndt at klæbe de første sider, som kan afhjælpe problemet, ind i lovgivningen. Det er et problem på flere niveauer:
+**Limbørnene elsker skolim, for den blæser hjernen ud med det samme. Skolimsfabrikanter elsker limbørnene så meget, at de gerne producerer en farvestrålende skolim til dem og tjener en bunke penge. Regulering af limsalget i Sydafrika er påkrævet.**
+
+En lidt snavset dreng træder stiv i blikket ind i en af de mange lille kiosker, der ligger rundt omkring i Sydafrika. Hans fødder er temmelig ramponerede, og han ejer æjensynligt hverken sko eller sandaler. Alligevel er det eneste han køber skolim, som han uden spørgsmål fra kioskindehaveren får stukket i hånden. Der er ingen regulering af salget af lim i Sydafrika, men man er begyndt at klæbe de første sider, som kan afhjælpe problemet, ind i lovgivningen. Det er et problem på flere niveauer:
 
 - Kioskejerne sælger relativt ubekymret lim, men det har vist sig at en fokuseret indsats sagtens kan få kioskerne til at mærke limbøtterne eller helt fjerne den skadelige lim fra sortimentet.
 - Skolimsfrabrikanterne er straks et større problem, og det handler om profit.

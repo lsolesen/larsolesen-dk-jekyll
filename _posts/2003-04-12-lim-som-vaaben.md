@@ -3,8 +3,10 @@ title: "Lim som våben"
 redirect_from: /content/lim-som-våben
 permalink: /content/lim-som-vaaben/
 language: da
+category:
+  - Rejser
 tags:
-  - sydafrika
+  - Sydafrika
 last_modified_at: 2010-11-06T20:26:47Z
 ---
 

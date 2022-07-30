@@ -2,10 +2,12 @@
 title: "Boligjagt i Los Angeles"
 permalink: /content/boligjagt-i-los-angeles
 language: da
+categories:
+  - Rejser
 tags:
   - dagbog
-  - los angeles
-  - usa
+  - Los Angeles
+  - USA
 last_modified_at: 2010-11-08T12:52:59Z
 ---
 

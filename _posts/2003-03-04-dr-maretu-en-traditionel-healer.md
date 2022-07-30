@@ -2,8 +2,10 @@
 title: "Dr. Maretu - en traditionel healer"
 permalink: /content/dr-maretu-en-traditionel-healer
 language: da
+category:
+  - Rejser
 tags:
-  - tanzania
+  - Tanzania
 last_modified_at: 2010-11-07T11:03:10Z
 ---
 
