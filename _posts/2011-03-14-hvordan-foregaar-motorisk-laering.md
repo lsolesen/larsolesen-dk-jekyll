@@ -19,6 +19,7 @@ feature_row_thesis:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9780815392842/0x500
     alt: "Skill Acquisition in Sport - Research, Theory and Practice"
@@ -27,6 +28,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/skill-acquisition-in-sport_nicola-j-hodges_paperback_9780815392842"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9781492571186/0x500
     alt: "Motor Learning and Performance - From Principles to Application"
     title: "Motor Learning and Performance - From Principles to Application"
@@ -34,6 +36,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motor-learning-and-performance_richard-a-schmidt_ukendt_9781492571186"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9781260084023/0x500
     alt: "Motor Learning and Control: Concepts and Applications"
     title: "Motor Learning and Control: Concepts and Applications"
@@ -41,11 +44,12 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motor-learning-and-control-concepts-and-applications_richard-magill_paperback_9781260084023"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Motorisk læring er spørgsmålet om, hvordan den motoriske kontrol optimeres til at klare de udfordringer, kroppen stilles overfor. Kroppen møder nye og uvante situationer som kræver nye og uvante løsninger. Men kroppen er stødt ind i en masse situationer før og har derfor også behov for at skabe faste(re), effektive rutiner til at håndtere velkendte situationer og krav.
 
-Hvordan optimeres det motoriske kontrolsystem under læringen af hurtige, motoriske færdigheder? Det har jeg skrevet [speciale](/content/kontrol-og-l%C3%A6ring-af-motoriske-f%C3%A6rdigheder-og-verbal-feedback) om, som er udgivet som bog hos bl.a. [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378), og det danner baggrund for nedenstående artikel, som også er bragt i [Focus Idræt, nr 1, 2011](/assets/pdf/Focus-Hvordan-foregaar-motorisk-laering.pdf).
+Hvordan optimeres det motoriske kontrolsystem under læringen af hurtige, motoriske færdigheder? Det har jeg skrevet [speciale](/content/kontrol-og-l%C3%A6ring-af-motoriske-f%C3%A6rdigheder-og-verbal-feedback) om, som er udgivet som bog hos bl.a. [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378){: rel="sponsored nofollow noopener" }, og det danner baggrund for nedenstående artikel, som også er bragt i [Focus Idræt, nr 1, 2011](/assets/pdf/Focus-Hvordan-foregaar-motorisk-laering.pdf).
 
 {% include feature_row id="feature_row_thesis" type="left" %}
 
@@ -621,15 +625,15 @@ fra min forståelsesramme af motorisk kontrol og læring.
 
 [Dickinson 2004] Dickinson, John AND Weeks, David, "One-trial motor learning", in [Skill Acquisition](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/skill-acquisition-in-sport_nicola-j-hodges_paperback_9780815392842) (Routledge, 2004), pp. 63-83.
 
-[Dreyfus 1991] [Dreyfus, Hubert L. AND Dreyfus, Stuart E., Intuitiv Ekspertise. Den bristede drøm om tænkende maskiner 1 (Nysyn - Munksgaard, 1991)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/intuitiv-ekspertise-den-bristede-droem-om-taenkende-maskiner_hubert-l-dreyfus-dreyfus_ukendt_sx68907485).
+[Dreyfus 1991] [Dreyfus, Hubert L. AND Dreyfus, Stuart E., Intuitiv Ekspertise. Den bristede drøm om tænkende maskiner 1 (Nysyn - Munksgaard, 1991)](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/intuitiv-ekspertise-den-bristede-droem-om-taenkende-maskiner_hubert-l-dreyfus-dreyfus_ukendt_sx68907485){: rel="sponsored nofollow noopener" }.
 
 [Feigenberg 1998] Feigenberg, Josef M., "The Model of the Future in Motor Control", in Progress in Motor Control. Volume One. Bernstein's tradtions in Movement Studies vol. 1,  (Human Kinetics, 1998).
 
 [Gallistel 1980] Gallistel, C. R., The Organisation of Action: a new Synthesis (Hillsdale, New Jersey: Lawrence Erlbaum Associates Publishers, 1980).
 
-[Hodges 2004] Hodges, Nicola J. AND Franks, Ian M., "Instructions, demonstrations and the learning process", in [Skill Acquisition in Sport](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/skill-acquisition-in-sport_nicola-j-hodges_paperback_9780815392842) (Routledge, 2004), pp. 145-174.
+[Hodges 2004] Hodges, Nicola J. AND Franks, Ian M., "Instructions, demonstrations and the learning process", in [Skill Acquisition in Sport](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/skill-acquisition-in-sport_nicola-j-hodges_paperback_9780815392842){: rel="sponsored nofollow noopener" } (Routledge, 2004), pp. 145-174.
 
-[Khan 2004] Khan, Michael A. AND Franks, Ian M., "The utilization of visual feedback in the acquisition of motor skills", in [Skill Acquisition in Sport](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/skill-acquisition-in-sport_nicola-j-hodges_paperback_9780815392842) (Routledge, 2004), pp. 45-62.
+[Khan 2004] Khan, Michael A. AND Franks, Ian M., "The utilization of visual feedback in the acquisition of motor skills", in [Skill Acquisition in Sport](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/skill-acquisition-in-sport_nicola-j-hodges_paperback_9780815392842){: rel="sponsored nofollow noopener" } (Routledge, 2004), pp. 45-62.
 
 [Laszlo 1992] Laszlo, Judith I., "Motor Control and Learning: How far do the experimental tasks restrict our theoretical insight?", in Approaches to the Study of Motor Control and Learning (Elsevier Science Publishers B. V., 1992).
 
@@ -637,11 +641,11 @@ fra min forståelsesramme af motorisk kontrol og læring.
 
 [Lee 2004] Lee, Timothy D. AND Simon, Dominic A., "Contextual interference", in Skill Acquisition in Sport (Routledge, 2004), pp. 29-44.
 
-[Magill 2001] Magill, Richard A., [Motor Learning. Concepts and Applications](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motor-learning-and-control-concepts-and-applications_richard-magill_paperback_9781260084023) (McGraw Hill, 2001).
+[Magill 2001] Magill, Richard A., [Motor Learning. Concepts and Applications](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motor-learning-and-control-concepts-and-applications_richard-magill_paperback_9781260084023){: rel="sponsored nofollow noopener" } (McGraw Hill, 2001).
 
 [Olesen 2007] Olesen, Lars, "Motorisk kontrol", Focus Idræt  31, 3 (2007), pp. 36-44.
 
-[Schmidt 2000] Schmidt, Richard A. AND Wrisberg, Craig, [Motor Learning and Performance. A Problem-based Learning Approach](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motor-learning-and-performance_richard-a-schmidt_ukendt_9781492571186) (Human Kinetics, 2000).
+[Schmidt 2000] Schmidt, Richard A. AND Wrisberg, Craig, [Motor Learning and Performance. A Problem-based Learning Approach](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motor-learning-and-performance_richard-a-schmidt_ukendt_9781492571186){: rel="sponsored nofollow noopener" } (Human Kinetics, 2000).
 
 [Silverman 1994] Silverman, Stephen, "Communication and Motor Skill Learning: What We Learn From Research in the Gymnasium", Quest  46 (1994), pp. 345-355.
 
@@ -649,7 +653,7 @@ fra min forståelsesramme af motorisk kontrol og læring.
 
 [Singer 1990] Singer, Robert N., "Motor Learning Research: Meaningful for Physical Educators or A Waste of Time?", Quest  42 (1990), pp. 114-125.
 
-[Stelter 1999] Stelter, Reinhard, [Med kroppen i centrum - idrætspsykologi i teori og praksis 1](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/med-kroppen-i-centrum_reinhard-stelter_epub_9788777068508) (Dansk Psykologisk Forlag, 1999).
+[Stelter 1999] Stelter, Reinhard, [Med kroppen i centrum - idrætspsykologi i teori og praksis 1](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/med-kroppen-i-centrum_reinhard-stelter_epub_9788777068508){: rel="sponsored nofollow noopener" } (Dansk Psykologisk Forlag, 1999).
 
 [Whiting 1992] Whiting, H. T. A. AND Vogt, Beatrix, "Human Skill and Motor Control: Some Aspects of the Motor Control - Motor Learning Relation", in  (Elsevier Science Publisers, 1992).
 

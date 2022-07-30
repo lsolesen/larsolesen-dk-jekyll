@@ -16,6 +16,7 @@ feature_row_thesis:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 feature_row:
   - image_path: https://imgcdn.saxo.com/_9780815392842/0x500
     alt: "Skill Acquisition in Sport - Research, Theory and Practice"
@@ -24,6 +25,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/skill-acquisition-in-sport_nicola-j-hodges_paperback_9780815392842"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9781492571186/0x500
     alt: "Motor Learning and Performance - From Principles to Application"
     title: "Motor Learning and Performance - From Principles to Application"
@@ -31,6 +33,7 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motor-learning-and-performance_richard-a-schmidt_ukendt_9781492571186"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
   - image_path: https://imgcdn.saxo.com/_9781260084023/0x500
     alt: "Motor Learning and Control: Concepts and Applications"
     title: "Motor Learning and Control: Concepts and Applications"
@@ -38,11 +41,12 @@ feature_row:
     url: "https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/motor-learning-and-control-concepts-and-applications_richard-magill_paperback_9781260084023"
     btn_label: "Læs mere"
     btn_class: "btn--success"
+    rel: sponsored nofollow noopener
 ---
 
 Jeg skrev speciale om motorisk kontrol og læring og verbal feedback. Her kan du læse et resume af specialet, og hvis det lyder spændende kan du gå i gang med hele molevitten.
 
-Specialet _Kontrol og læring af motoriske færdigheder og verbal feedback_ er udgivet som bog bl.a. hos [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378).
+Specialet _Kontrol og læring af motoriske færdigheder og verbal feedback_ er udgivet som bog bl.a. hos [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378){: rel="sponsored nofollow noopener" }.
 
 ## Resumé
 
