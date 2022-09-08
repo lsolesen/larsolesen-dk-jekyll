@@ -5,7 +5,7 @@ backend:
   repo: lsolesen/lsolesen/larsolesen-dk-jekyll
   branch: master # Branch to update (optional; defaults to master)
   api_root: https://api.github.com
-  site_domain: larsolesen.netlify.app
+  site_domain: larsolesen-dk.netlify.app
   base_url: https://api.netlify.com
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
