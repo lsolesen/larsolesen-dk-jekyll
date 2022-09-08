@@ -1,8 +1,6 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2"
-#gem "github-pages", group: :jekyll_plugins
-#gem "jekyll-include-cache"
 group :jekyll_plugins do
     gem 'jekyll-paginate'
     gem 'jekyll-feed'
@@ -10,9 +8,12 @@ group :jekyll_plugins do
     gem 'jekyll-redirect-from'
     gem 'jekyll-gist'
     gem 'jekyll-include-cache'
-    gem 'jekyll-remote-theme'
     gem 'jekyll-sitemap'
+    gem 'jekyll-gzip'
+    gem 'jekyll-brotli'
 end
 gem 'classifier-reborn'
-gem 'gsl'
+gem 'gsl', git: 'https://github.com/SciRuby/rb-gsl.git', ref: '103a3e1'
+gem 'webrick'
 gem 'html-proofer'
+gem "minimal-mistakes-jekyll", "~> 4.24"
