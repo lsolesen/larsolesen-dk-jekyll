@@ -9,7 +9,7 @@ backend:
   base_url: https://api.netlify.com
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
-  open_authoring: true
+  open_authoring: false
 
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under images/uploads
 
