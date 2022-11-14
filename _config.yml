@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Lars Olesen"
-  avatar           : "/assets/images/authors/lars-olesen.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/authors/lars-olesen.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Familiefar. Højskolemenneske."
   location         : "Vejle"
   links            :
@@ -163,9 +163,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-keep_files:
-  - .git
-  - .svn
+keep_files: []
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
