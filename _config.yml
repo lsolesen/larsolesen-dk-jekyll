@@ -22,7 +22,13 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "custom" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  google_forms           :
+    app_script           : https://script.google.com/macros/s/AKfycbzRevVoiMW67A11Bn6sRmm7la5Rhty5ROAJ_8510g-8QDc3YoSmxANrZy_Bmus3Nr8_/exec
+    lazy_load            : true
+    replies_enabled      : true
+    chunked_loading      : true
+    recaptcha_site_key   : 6LeRKAAjAAAAAD85dQDWplJEiT8JB2lzHkKfnUzA
 staticman:
   branch                 : "master"
 atom_feed:
