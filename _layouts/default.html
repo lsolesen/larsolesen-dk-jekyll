@@ -30,6 +30,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 {% endif %}
+    <style>
+      .progress { position: fixed; top: 0; left: 0; height: 5px; background-color: purple; transition: all linear 0.1s; }
+    </style>
+    <div class="progress"></div>
     {% include_cached skip-links.html %}
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
@@ -52,6 +56,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 
     {% include scripts.html %}
-
+    <script>
+      $(document).on("scroll", function(){
+        var pixels = $(document).scrollTop();
+        var pageHeight = $(document).height() - $(window).height();
+        var progress = 100 * pixels / pageHeight;
+        
+        $("div.progress").css("width", progress + "%");
+      });
+      
+    </script>
   </body>
 </html>

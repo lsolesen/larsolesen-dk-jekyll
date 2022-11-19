@@ -542,7 +542,6 @@
 		<div class="page__comments-form">
 			<h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comment_label | default: "Leave a Comment" }}</h4>
 			<p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Note that I may remove comments for any reason, so try to be civil. If you are looking for a response to your comment, either leave your email address or check back on this page periodically." }} {{ site.data.ui-text[site.locale].comment_form_required | default: "Required fields are marked" }} <span class="required">*</span>.</p>
-			<p id="comment-submit-error"></p>
 			{%- if recaptcha_enabled -%}
 			<form id="comment-form" class="page__comments-form js-form form" onsubmit="return checkRecaptcha()" autocomplete="off">
 			{%- else -%}
@@ -575,7 +574,7 @@
 			</div>
 			<!-- Start comment form alert messaging -->
 			<p class="hidden js-notice">
-				<strong class="js-notice-text"></strong>
+				<strong id="comment-submit-error" class="js-notice-text"></strong>
 			</p>
 			<!-- End comment form alert messaging -->
 			<div class="form-group">
