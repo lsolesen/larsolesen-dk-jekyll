@@ -3,7 +3,7 @@ message: >-
   With extra flexibility comes a hit in performance.
 
   Larry Garfield did a write up a while ago about the cost of using call\_user\_func\_array etc:
-  http://www.garfieldtech.com/blog/benchmarking-magic
+  https://www.garfieldtech.com/blog/benchmarking-magic
   that's well worth a read.
 
   Other than the performance issues, are you suggesting that before _every_ call to `l` I'd need to do:

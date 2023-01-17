@@ -72,7 +72,7 @@ end
 end
 
 # Rebuild VirtualBox Guest Additions
-# http://vagrantup.com/v1/docs/troubleshooting.html
+# https://vagrantup.com/v1/docs/troubleshooting.html
 execute "Rebuild VirtualBox Guest Additions" do
   command "sudo /etc/init.d/vboxadd setup"
 end
