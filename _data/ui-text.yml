@@ -852,11 +852,7 @@ da: &DEFAULT_DA
   page                       : "Side"
   pagination_previous        : "Forrige"
   pagination_next            : "Næste"
-<<<<<<< HEAD
-  breadcrumb_home_label      : "<i class='fas fa-home'></i>"
-=======
   breadcrumb_home_label      : "<i class='fas fa-home'></i> <span class='hidden'>Forsiden</span>"
->>>>>>> b9c540b8d135d0b624f6da02531b8ab007899509
   breadcrumb_separator       : ">"
   menu_label                 : "Vis/skjul menu"
   toc_label                  : "På denne side"
@@ -879,10 +875,9 @@ da: &DEFAULT_DA
   email_label                : "E-mail"
   recent_posts               : "Seneste indlæg"
   undefined_wpm              : "Parameteren words_per_minute er ikke defineret i _config.yml"
-  comment_form_info          : "Skriv meget gerne en kommentar og skriv pænt. Hvis du gerne vil have et svar, så husk at skrive din e-mail eller tjekke tilbage jævnligt."
+  comment_form_info          : "Din e-mail bliver ikke offentliggjort. Obligatoriske felter er markeret"
   comment_form_comment_label : "Kommentar"
   comment_form_md_info       : "Markdown er understøttet."
-  comment_form_email_info    : "Din e-mail-adresse bliver ikke publiceret."
   comment_form_name_label    : "Navn"
   comment_form_email_label   : "E-mail"
   comment_form_website_label : "Website (frivillig)"
@@ -890,18 +885,6 @@ da: &DEFAULT_DA
   comment_btn_submitted      : "Sendt"
   comment_success_msg        : "Tak for din kommentar! Den bliver vist på siden, så snart den er godkendt."
   comment_error_msg          : "Desværre skete der en fejl. Prøv igen, mens du sørger for at alle obligatoriske felter er udfyldt."
-  comment_no_comments        : "Du kan blive den første til at kommentere på indlægget."
-  comment_load               : "Hent kommentarer"
-  comment_load_older_comments: "Hent ældre kommentarer"
-  comment_label              : "Skriv en kommentar"
-  comment_form_required      : "Obligatoriske felter er markeret med"
-  comment_form_recaptcha_disclaimer: |
-    Denne side beskyttes af reCAPTCHA og derfor gælder Google
-    <a href="https://policies.google.com/privacy">Privacy Policy</a> og
-    <a href="https://policies.google.com/terms">Terms of Service</a>.
-  comment_reply              : "Svar"
-  comment_reply_to_comment   : "Svarer på kommentar"
-  comment_author             : "Forfatter"
   loading_label              : "Indlæser..."
   search_placeholder_text    : "Hvad leder du efter..."
   results_found              : "Resultat(er) fundet"
