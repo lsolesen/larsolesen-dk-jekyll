@@ -52,7 +52,7 @@ på usenet.dk - og endelig har jeg modtaget og sendt et hav af e-mails.
 
 Når du **skriver et link** i din e-mail, kan du undgå at det knækker over ved at skrive det på følgende standardform:
 
-`&lt;http://www.vih.dk&gt;`
+`&lt;https://www.vih.dk&gt;`
 
 En **ordentlig signatur** er ikke for lang, og den startes med to streger efterfulgt af et mellemrum (`-- `):
 

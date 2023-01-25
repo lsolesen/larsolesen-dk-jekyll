@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2010-11-08T12:36:31Z
 ---
 
-**UCLA: Valgkampen er i fuld gang. Demokraterne mener, at republikanerne goer det rigtig skidt. Og Schwarznegger har naermest oedelagt Californien i sin tid som guvornoer. [Phil Angelides](http://www.angelides.com/) er den mand som skal vende skuden for Californien.**
+**UCLA: Valgkampen er i fuld gang. Demokraterne mener, at republikanerne goer det rigtig skidt. Og Schwarznegger har naermest oedelagt Californien i sin tid som guvornoer. [Phil Angelides](https://www.angelides.com/) er den mand som skal vende skuden for Californien.**
 
 Det er altid en god ide at komme til politiske moeder. Naar man er stemmeeberettiget faar man informationer om, hvad kandidaterne rent faktisk staar for. Uanset om man er berettiget til at stemme eller ej, kan man naesten altid vaere sikker paa, at der er mad. Her fik vi pizza. En dame som var trukket i en t-shirt med paaskriften fitness, men som var alt andet end fit, synes det var saa laekkert, at hun tog et par stykker i tasken.
 

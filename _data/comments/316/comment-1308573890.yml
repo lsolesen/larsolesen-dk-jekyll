@@ -1,6 +1,6 @@
 _id: drupal-comment-432
 message: >-
-  The redirect module (http://drupal.org/project/redirect) is probably the best way to handle this in Drupal 7. It allows you to create redirects with 3xx codes (301, etc), which will let Google know that the content has moved. From what I understand, using a 404 essentially throws away any SEO value you had from that page, so I would use a 301 to redirect to a relevant page. Nice tip on using page manager response codes though.
+  The redirect module (https://drupal.org/project/redirect) is probably the best way to handle this in Drupal 7. It allows you to create redirects with 3xx codes (301, etc), which will let Google know that the content has moved. From what I understand, using a 404 essentially throws away any SEO value you had from that page, so I would use a 301 to redirect to a relevant page. Nice tip on using page manager response codes though.
 name: rbayliss
 email: 378e86018e121aee5099da8ed5fe5b20
 url: ''

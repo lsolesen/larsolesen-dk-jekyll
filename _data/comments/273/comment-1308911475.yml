@@ -3,6 +3,6 @@ message: >-
   Yeap, it's not being invoked from the views.module code so it's not needed anymore.
 name: Martin
 email: c861448087a37f7afaa5eaaddbfc2798
-url: 'http://mmartinov.com'
+url: 'https://mmartinov.com'
 hidden: ''
 date: '2011-06-24T13:31:15Z'

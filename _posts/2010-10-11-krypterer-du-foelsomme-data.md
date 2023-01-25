@@ -1,7 +1,6 @@
 ---
 title: "Kryptérer du følsomme data?"
 permalink: /content/krypterer-du-foelsomme-data/
-redirect_from: /content/kryptérer-du-følsomme-data
 language: da
 tags:
   - sikkerhed
@@ -15,6 +14,6 @@ Jeg har på et tidspunkt krypteret nogle særligt følsomme oplysninger på min 
 
 Jeg kunne ikke huske, om jeg havde gjort det fra Ubuntu eller fra Windows, men jeg var næsten sikker på, at jeg havde valgt en open source, cross-platform løsning. 
 
-Tilfældigvis læste jeg en artikel om [Lessons learned when my laptop was stolen](http://lifehacker.com/5663246/lessons-i-learned-when-my-laptop-was-stolen) tre dage efter, at jeg var kommet i knibe, så jeg fandt ud af, at jeg havde brugt [Truecrypt](http://truecrypt.com).
+Tilfældigvis læste jeg en artikel om [Lessons learned when my laptop was stolen](https://lifehacker.com/5663246/lessons-i-learned-when-my-laptop-was-stolen) tre dage efter, at jeg var kommet i knibe, så jeg fandt ud af, at jeg havde brugt [Truecrypt](https://truecrypt.com).
 
 Det er rigtig let at bruge, og jeg kan garantere for, at det er vanskeligt at se ens filer, hvis man ikke kan huske, hvordan man har krypteret dem.

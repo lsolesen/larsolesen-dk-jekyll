@@ -1,7 +1,6 @@
 ---
 title: "De frie skoler bør open source deres hjemmeside"
 permalink: /content/de-frie-skoler-boer-open-source-deres-hjemmeside/
-redirect_from: /content/de-frie-skoler-bør-open-source-deres-hjemmeside
 language: da
 tags:
   - drupal
@@ -10,7 +9,7 @@ tags:
 last_modified_at: 2011-04-04T11:03:06Z
 ---
 
-Det er ingen hemmelighed, at der altid er nok at bruge penge på, når man driver en fri skole, fx højskole og efterskole. Jeg har i en årrække været webmaster for [Vejle Idrætshøjskoles hjemmeside](http://www.vih.dk), og det koster altid penge, når der skal udvikles noget nyt til hjemmesiden. Vi har bl.a. brugt lidt kræfter på at udvikle noget, der kan håndtere tilmelding til både korte og lange kurser og brochurebestilling. Derudover bruger vi naturligvis mange kræfter på at få netop det design, der appellerer til vores målgruppe, og som helst skal være meget bedre end de andres.
+Det er ingen hemmelighed, at der altid er nok at bruge penge på, når man driver en fri skole, fx højskole og efterskole. Jeg har i en årrække været webmaster for [Vejle Idrætshøjskoles hjemmeside](https://www.vih.dk), og det koster altid penge, når der skal udvikles noget nyt til hjemmesiden. Vi har bl.a. brugt lidt kræfter på at udvikle noget, der kan håndtere tilmelding til både korte og lange kurser og brochurebestilling. Derudover bruger vi naturligvis mange kræfter på at få netop det design, der appellerer til vores målgruppe, og som helst skal være meget bedre end de andres.
 
 Hvorfor arbejder de frie skoler ikke sammen?
 --------------------------------------------
@@ -20,7 +19,7 @@ Hvorfor arbejder de frie skoler ikke sammen?
 Hvordan skal de frie skoler arbejde sammen?
 -------------------------------------------
 
-- **Åben kildekode.** På Vejle Idrætshøjskole har vi valgt at [lægge al vores kildekode åbent ud](http://github.com/vih). Det betyder at andre lignende skoler kan kopiere al vores funktionalitet og lægge deres eget design ned over. Det har vi ikke noget imod. Nu er det jo udviklet. Hvorfor skal andre så ikke have gavn af det. Tænk sig, hvis nogen kunne bruge det og skrev tilbage, at de har forbedret funktionerne lidt. Det ville jo være fremragende - og meget billigere for skolerne i det lange løb. Udover os kunne vi kun finde [Den Rymiske Højskole](http://github.com/wulff), som har åbnet deres kildekode. Det undrer at ikke alle gør det, for fordelene er så store!
+- **Åben kildekode.** På Vejle Idrætshøjskole har vi valgt at [lægge al vores kildekode åbent ud](https://github.com/vih). Det betyder at andre lignende skoler kan kopiere al vores funktionalitet og lægge deres eget design ned over. Det har vi ikke noget imod. Nu er det jo udviklet. Hvorfor skal andre så ikke have gavn af det. Tænk sig, hvis nogen kunne bruge det og skrev tilbage, at de har forbedret funktionerne lidt. Det ville jo være fremragende - og meget billigere for skolerne i det lange løb. Udover os kunne vi kun finde [Den Rymiske Højskole](https://github.com/wulff), som har åbnet deres kildekode. Det undrer at ikke alle gør det, for fordelene er så store!
 - **Tilgængelige, almindelige systemer.** Tidligere brugte vi vores eget hjemmestrikkede system, men er for nylig [gået over til at bruge Drupal](/node/270) (som tilfældigvis også er det system, Den Rytmiske Højskole benytter sig af). Fordelen ved at bruge et open source system er bl.a. at rigtig mange bidrager til udviklingen, og der findes alverdens nyttige moduler, som man kan forbedre sin hjemmeside med, og at systemet er meget mindre personafhængigt. Det er altså meget lettere bare at skifte firma eller udvikler. Højskolerne kunne naturligvis også vælge at lancere deres helt eget system, men så skal man i gang med at udvikle en masse ting, der allerede ligger klar til brug.
 - **Projektleder.** Det kræver naturligvis at nogle samler trådene, opretter infrastrukturen til at arbejde sammen og er dygtige til at formidle den nye samlede viden ud til alle de frie skoler. Også de skoler som ikke har ansat IT-kyndige mennesker.
 
@@ -28,7 +27,7 @@ Hvad skal skolerne arbejde sammen om?
 -------------------------------------
 
 - **Ikke design, layout og indhold.** Det er jo alt det unikke for den enkelte skole, og det skal skolerne naturligvis have helt for sig selv.
-- **Fælles funktioner.** Der er mange områder, men i hvert fald let installation, tilmeldingssystemer til både korte og lange kurser, brochurebestilling, integration med BRUGSEN (eller endnu bedre en open source, netbaseret omskrivning) o.lign., som man ikke allerede kan finde i det meget [omfattende netværk på fx Drupal](http://drupal.org). Og det behøver ikke være systemafhængigt. Nogle højskoler har valgt at bruge Wordpress som deres system, og de højskoler kunne gå sammen om modulerne, mens andre skoler kunne samarbejde med os om at udvikle nogle virkelig gode moduler til vores foretrukne system Drupal.
+- **Fælles funktioner.** Der er mange områder, men i hvert fald let installation, tilmeldingssystemer til både korte og lange kurser, brochurebestilling, integration med BRUGSEN (eller endnu bedre en open source, netbaseret omskrivning) o.lign., som man ikke allerede kan finde i det meget [omfattende netværk på fx Drupal](https://drupal.org). Og det behøver ikke være systemafhængigt. Nogle højskoler har valgt at bruge Wordpress som deres system, og de højskoler kunne gå sammen om modulerne, mens andre skoler kunne samarbejde med os om at udvikle nogle virkelig gode moduler til vores foretrukne system Drupal.
 
 Hvad nu hvis jeg ikke bryder mig om det, de andre har lavet?
 ------------------------------------------------------------

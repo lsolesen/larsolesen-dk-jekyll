@@ -1,6 +1,5 @@
 ---
 title: "New Orleans på vej tilbage"
-redirect_from: /content/new-orleans-på-vej-tilbage
 permalink: /content/new-orleans-paa-vej-tilbage/
 language: da
 tags:
@@ -9,7 +8,7 @@ tags:
 last_modified_at: 2010-11-07T19:17:57Z
 ---
 
-**Da orkanen [Katrina](http://en.wikipedia.org/wiki/Hurricane_Katrina) ramte New Orleans, Louisiana, i starten af 2005, var byen som med et forvandlet. Men menneskene er så småt på vej tilbage byen, som stadig sprudler.**
+**Da orkanen [Katrina](https://en.wikipedia.org/wiki/Hurricane_Katrina) ramte New Orleans, Louisiana, i starten af 2005, var byen som med et forvandlet. Men menneskene er så småt på vej tilbage byen, som stadig sprudler.**
 
 New Orleans egentlig trodser egentlig naturen. Store dele af beboelsesområderne ligger under havets overflade, og den udsatte placering var en af årsagerne til de katastrofale følger af orkanen. Den bydel der hedder Lower Ninth Ward blev praktisk talt fuldstændig ødelagt af orkanen, og bydelen ligger stadig øde hen. Der er nogle store diger (levees), der skulle beskytte kanalerne i byen for oversvømmelse, og det har de gjort i mange år. Faktisk havde en stor del af befolkningen ikke oversvømmelsesforsikring, fordi de ikke burde kunne blive oversvømmet. Men det gjorde det.
 

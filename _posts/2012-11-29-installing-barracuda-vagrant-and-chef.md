@@ -16,13 +16,13 @@ Enter chef
 
 With chef you can automate a lot of the settings. Like Vagrant, chef also uses Ruby as it's language. Luckily it is not too hard to grasp coming from php.
 
-I created cookbooks/boa/recipes/default.rb with the following content ([notice the unauthorized use of the boa installer](http://drupal.org/node/1849604)):
+I created cookbooks/boa/recipes/default.rb with the following content ([notice the unauthorized use of the boa installer](https://drupal.org/node/1849604)):
 
 ```
 Chef::Log.debug("Running barracuda recipe")
 
 remote_file "/tmp/BOA.sh" do
-  source "http://files.aegir.cc/BOA.sh.txt"
+  source "https://files.aegir.cc/BOA.sh.txt"
   mode 00755
 end
 
@@ -72,7 +72,7 @@ end
 end
 
 # Rebuild VirtualBox Guest Additions
-# http://vagrantup.com/v1/docs/troubleshooting.html
+# https://vagrantup.com/v1/docs/troubleshooting.html
 execute "Rebuild VirtualBox Guest Additions" do
   command "sudo /etc/init.d/vboxadd setup"
 end
@@ -93,4 +93,4 @@ config.vm.share_folder "platforms-o3", "/data/disk/o3/static", "~/workspace/plat
 
 Now the drives has been mounted to the octopus users home directory. However, I am still [struggling with having the correct permissions given to the folders](https://github.com/lsolesen/boa-vagrant/issues/2).
 
-I have shared the entire code at [github.com/lsolesen/boa-vagrant](http://github.com/lsolesen/boa-vagrant).
+I have shared the entire code at [github.com/lsolesen/boa-vagrant](https://github.com/lsolesen/boa-vagrant).

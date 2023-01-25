@@ -14,4 +14,4 @@ Så er bogen [Demokratisk Dannelse - højskolen til debat](https://www.partner-a
 
 [Køb Demokratisk Dannelse - højskolen til debat hos Saxo*](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/demokratisk-dannelse_rasmus-kolby-rahbekrasmus-kolby-rahbek_haeftet_9788771298567){: .btn .btn--large .btn--danger}
 
-{% include figure image_path="http://historie.vih.dk/assets/images/yearbooks/2017/demokratisk-dannelse.jpg" caption="Artiklen har oprindeligt været bragt i Jonas Møller og Rasmus Kolby, red.: Demokratisk dannelse - højskolen til debat, ISBN-13:9788771298567" alt="Forside til Demokratisk Dannelse - højskolen til debat" %}
+{% include figure image_path="https://historie.vih.dk/assets/images/yearbooks/2017/demokratisk-dannelse.jpg" caption="Artiklen har oprindeligt været bragt i Jonas Møller og Rasmus Kolby, red.: Demokratisk dannelse - højskolen til debat, ISBN-13:9788771298567" alt="Forside til Demokratisk Dannelse - højskolen til debat" %}

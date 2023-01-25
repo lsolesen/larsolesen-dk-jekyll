@@ -10,7 +10,7 @@ last_modified_at: 2010-11-17T14:43:37Z
 
 Mammoth Lakes: En historie fra bjergene med en kæmpe fødselsdagskage, smukke landskaber, produktion af røde blodlegemer og betagelse.
 
-Vi er klar til at producere nogle røde blodlegemer, så vi kan få transporteret noget ilt hen til alle de vigtige steder. Vi skal nemlig bruge en masse ilt til at nyde alt det, vi skal se i bjergene. Alfred tager os med op til hans hus i [Mammoth Lakes](http://www.visitmammoth.com/). Og han siger at det er det smukkeste sted i de forenede amerikanske stater. Og han er jo en kender. Han er nemlig gennem 30 år kommet til Mammoth. Mammoth var oprindelig en lille by, der levede af tømmer og af at finde guld i bjergene, men nu er det hele større – og det vigtigste erhverv er turisme.
+Vi er klar til at producere nogle røde blodlegemer, så vi kan få transporteret noget ilt hen til alle de vigtige steder. Vi skal nemlig bruge en masse ilt til at nyde alt det, vi skal se i bjergene. Alfred tager os med op til hans hus i [Mammoth Lakes](https://www.visitmammoth.com/). Og han siger at det er det smukkeste sted i de forenede amerikanske stater. Og han er jo en kender. Han er nemlig gennem 30 år kommet til Mammoth. Mammoth var oprindelig en lille by, der levede af tømmer og af at finde guld i bjergene, men nu er det hele større – og det vigtigste erhverv er turisme.
 
 Bilen kravler stille og roligt op mod de omkring 8000ft, hvor huset ligger. Man kan mærke højdeforskellen i vejrtrækningen. Vi starter med at køre gennem San Fernando-valley, som næsten kan betragtes som en udbygning af Los Angeles på den anden side af Santa Monica Mountains. Der er bare for det meste noget varmere, fordi den ligger i læ. Og så er det jo her verdens største pornoproduktion finder sted.
 
@@ -24,7 +24,7 @@ Det var godt at strække ben, inden vi kører videre mod Mammoth. Det er en hygg
 
 Man har jo masser af energi, for man går stadig og bilder sig selv ind, at man hele tiden bliver yngre. Og vi vil gerne bruge den, og Alfred vil gerne trave sine yndlingsstier, så vi kan se bjergene fra deres bedste side. Men man skal altid være varsom med højder. Det fortæller Alfred os også. Og han tager det roligt. Og vi venter lidt. Og så kommer vi afsted. Vi er klar til tre dage, hvor vi skal få tiden til at gå med at hike.
 
-Vi går i [John Muirs](http://en.wikipedia.org/wiki/John_Muir) fodspor. Det er ham, der gjorde stierne i området berømte. Han var en almindelige landmand, der elskede omgivelserne omkring Mammoth – og han lavede nogle stier, som man nu kan nyde at gå i. For det er flot – og landskabet er imponerende. Også selvom man lige trækker efter vejret en ekstra gang.
+Vi går i [John Muirs](https://en.wikipedia.org/wiki/John_Muir) fodspor. Det er ham, der gjorde stierne i området berømte. Han var en almindelige landmand, der elskede omgivelserne omkring Mammoth – og han lavede nogle stier, som man nu kan nyde at gå i. For det er flot – og landskabet er imponerende. Også selvom man lige trækker efter vejret en ekstra gang.
 
 Jeg vil ikke fortælle så meget om de forskellige hikes, men mere lade billederne tale for sig selv.
 

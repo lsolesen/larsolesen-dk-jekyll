@@ -1,8 +1,5 @@
 ---
 title: "Bloukrans Bungy Jump: Verdens højeste bungy jump"
-redirect_from:
-  - /content/bloukrans-bungy-jump-verdens-højeste-bungy-jump
-  - /content/verdens-højeste-bungyjump-bloukrans-bungy-jump
 permalink: /content/verdens-hoejeste-bungy-jump-i-bloukrans/
 language: da
 tags:

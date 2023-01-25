@@ -3,6 +3,6 @@ message: >-
   I think you chose the right approach. I would consider using 410 instead of 404 though, it just feels more accurate, even when both would get the same effect.
 name: jmfederico
 email: c4433f1f8b73a912df78844aa6eef8ad
-url: 'http://federicojm.com'
+url: 'https://federicojm.com'
 hidden: ''
 date: '2011-06-21T05:40:37Z'

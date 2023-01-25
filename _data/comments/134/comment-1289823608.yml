@@ -1,6 +1,6 @@
 _id: drupal-comment-30
 message: >-
-  The youtube integration creates the DOM error you will see in the top of all my pages. [I have reported the error](http://drupal.org/project/issues/media_youtube) and I am hoping for a quick fix now that Drupal 7 is close to being released.
+  The youtube integration creates the DOM error you will see in the top of all my pages. [I have reported the error](https://drupal.org/project/issues/media_youtube) and I am hoping for a quick fix now that Drupal 7 is close to being released.
 name: lsolesen
 email: d41d8cd98f00b204e9800998ecf8427e
 url: ''

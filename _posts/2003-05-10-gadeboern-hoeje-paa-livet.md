@@ -1,6 +1,5 @@
 ---
 title: "Gadebørn høje på livet"
-redirect_from: /content/gadebørn-høje-på-livet
 permalink: /content/gadeboern-hoeje-paa-livet/
 language: da
 tags:

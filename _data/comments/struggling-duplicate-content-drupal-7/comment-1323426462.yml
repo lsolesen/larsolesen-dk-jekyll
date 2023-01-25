@@ -3,6 +3,6 @@ message: >-
   It is enough to set a canonical url property in your meta tags. Search engines will ignore and skip the page if canonical url differs from page url.
 name: Tim Kamanin
 email: c364da0f8b93e3c1e42794b5f3fbbd7b
-url: 'http://timonweb.com'
+url: 'https://timonweb.com'
 hidden: ''
 date: '2011-12-09T12:27:42Z'

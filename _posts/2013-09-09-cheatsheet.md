@@ -46,4 +46,4 @@ Et billede er korrekt eksponeret, når der kommer den rigtige mængde lys ind p�
 
 [Download Cheatsheet](/assets/pdf/foto-cheatsheet.pdf){: .btn-info .btn--large }
 
-[Find flere cheatsheets](http://www.digitalcameraworld.com/tag/photography-cheat-sheet/page/2/){: .btn }
+[Find flere cheatsheets](https://www.digitalcameraworld.com/tutorials/photography-cheat-sheets/){: .btn }

@@ -24,4 +24,4 @@ Vores opgave er:
 
 Hvis du har nogle input, hører vi meget gerne om det i kommentarerne!
 
-Læs mere om [cykelruterne](http://www.cykel-ruter.dk).
+Læs mere om [cykelruterne](https://www.cykel-ruter.dk).

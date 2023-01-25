@@ -72,7 +72,7 @@ But then all the sites have their own custom modules. These should probably go i
 - They could be pulled in there with a make file and using the same drush command as above, but the site would need to be available before you could do that.
 - On migration or cloning these modules are just tarballed "as is", and having modules in this space there is no reliable rollback in Aegir, so that is not the best place to keep those modules.
 
-So should these modules also go into the sites/all space and thus be available to all sites? That seems odd, if you have a custom module aimed at [exercises](http://github.com/motionsplan/motionsplan_exercise).
+So should these modules also go into the sites/all space and thus be available to all sites? That seems odd, if you have a custom module aimed at [exercises](https://github.com/motionsplan/motionsplan_exercise).
 
 Minor Drupal updates: What when?
 --------------------------------

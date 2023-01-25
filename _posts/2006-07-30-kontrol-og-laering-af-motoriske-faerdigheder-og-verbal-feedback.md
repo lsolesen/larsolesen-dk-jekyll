@@ -1,6 +1,5 @@
 ---
 title: "Kontrol og læring af motoriske færdigheder og verbal feedback"
-redirect_from: /content/kontrol-og-læring-af-motoriske-færdigheder-og-verbal-feedback
 permalink: /content/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback/
 language: da
 tags:
@@ -62,7 +61,7 @@ Konkluderende argumenteres for at constrained action-hypotesen tilsyneladende ha
 På baggrund af specialet har jeg skrevet et par artikler til _Focus Idræt_. Du kan se dem her.
 
 - [Motorisk kontrol](/content/motorisk-kontrol)
-- [Hvordan foregår motorisk læring?](/content/hvordan-foregår-motorisk-læring)
+- [Hvordan foregår motorisk læring?](/content/hvordan-foregaar-motorisk-laering/)
 
 ## Køb bogen
 

@@ -1,6 +1,5 @@
 ---
 title: "København - Los Angeles"
-redirect_from: /content/københavn-los-angeles
 permalink: /content/koebenhavn-los-angeles/
 language: da
 tags:

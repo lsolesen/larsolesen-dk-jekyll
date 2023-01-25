@@ -1,7 +1,6 @@
 ---
 title: "Hvordan foregår motorisk læring?"
 permalink: /content/hvordan-foregaar-motorisk-laering/
-redirect_from: /content/hvordan-foregår-motorisk-læring
 language: da
 tags:
   - motorisk læring
@@ -44,7 +43,7 @@ feature_row:
 
 Motorisk læring er spørgsmålet om, hvordan den motoriske kontrol optimeres til at klare de udfordringer, kroppen stilles overfor. Kroppen møder nye og uvante situationer som kræver nye og uvante løsninger. Men kroppen er stødt ind i en masse situationer før og har derfor også behov for at skabe faste(re), effektive rutiner til at håndtere velkendte situationer og krav.
 
-Hvordan optimeres det motoriske kontrolsystem under læringen af hurtige, motoriske færdigheder? Det har jeg skrevet [speciale](/content/kontrol-og-l%C3%A6ring-af-motoriske-f%C3%A6rdigheder-og-verbal-feedback) om, som er udgivet som bog hos bl.a. [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378), og det danner baggrund for nedenstående artikel, som også er bragt i [Focus Idræt, nr 1, 2011](/assets/pdf/Focus-Hvordan-foregaar-motorisk-laering.pdf).
+Hvordan optimeres det motoriske kontrolsystem under læringen af hurtige, motoriske færdigheder? Det har jeg skrevet [speciale](/content/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback/) om, som er udgivet som bog hos bl.a. [Saxo](https://www.partner-ads.com/dk/klikbanner.php?partnerid=28187&bannerid=43264&htmlurl=https://www.saxo.com/dk/kontrol-og-laering-af-motoriske-faerdigheder-og-verbal-feedback_lars-olesen_epub_9788743011378), og det danner baggrund for nedenstående artikel, som også er bragt i [Focus Idræt, nr 1, 2011](/assets/pdf/Focus-Hvordan-foregaar-motorisk-laering.pdf).
 
 {% include feature_row id="feature_row_thesis" type="left" %}
 

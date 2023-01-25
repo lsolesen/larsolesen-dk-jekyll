@@ -3,7 +3,7 @@ message: >-
   With extra flexibility comes a hit in performance.
 
   Larry Garfield did a write up a while ago about the cost of using call\_user\_func\_array etc:
-  http://www.garfieldtech.com/blog/benchmarking-magic
+  https://www.garfieldtech.com/blog/benchmarking-magic
   that's well worth a read.
 
   Other than the performance issues, are you suggesting that before _every_ call to `l` I'd need to do:
@@ -19,6 +19,6 @@ message: >-
   A great idea, but needs a better implementation, maybe using PHP namespaces?
 name: Steven Jones
 email: 4a7b2105a0b71e0d35eb3fdabd01811a
-url: 'http://www.computerminds.co.uk'
+url: 'https://www.computerminds.co.uk'
 hidden: ''
 date: '2011-06-27T10:01:00Z'

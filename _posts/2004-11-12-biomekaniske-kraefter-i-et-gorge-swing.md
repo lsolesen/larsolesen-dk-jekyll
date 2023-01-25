@@ -1,13 +1,12 @@
 ---
 title: "Biomekaniske kræfter i et gorge swing"
-redirect_from: /content/biomekaniske-kræfter-i-et-gorge-swing
 permalink: /content/biomekaniske-kraefter-i-et-gorge-swing/
 language: da
 tags:
 last_modified_at: 2010-11-07T01:08:36Z
 ---
 
-Da jeg var i Sydafrika prøvede jeg noget der hedder _[gorge swing (mpeg)](http://www.thezambeziswing.com/MVC-152W.MPG)_ hos [thezambeziswing.com](http://www.thezambeziswing.com/). De lovede at man kunne komme op på 180 km / t - og at man ville falde hurtigere, hvis man var to. Måske mente de i virkeligheden svinge hurtigere?
+Da jeg var i Sydafrika prøvede jeg noget der hedder _[gorge swing (mpeg)](https://www.thezambeziswing.com/MVC-152W.MPG)_ hos [thezambeziswing.com](https://www.thezambeziswing.com/). De lovede at man kunne komme op på 180 km / t - og at man ville falde hurtigere, hvis man var to. Måske mente de i virkeligheden svinge hurtigere?
 
 Et gorge swing består først af et frit fald og derefter af et pendulsving.
 

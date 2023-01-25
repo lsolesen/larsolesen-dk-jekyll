@@ -2,7 +2,7 @@ _id: drupal-comment-7641
 message: >-
   @John Barclay and juliangb. I agree that people need to help getting patches into RTBC and that people have different schedules. However, for people to go digging through code and keeping their motivation to create patches, it is important to get feedback from the maintainers. Waiting months without response on your issues is probably to long to keep people engaged with your module. You will spend time on a module, because you need it. Waiting without response would probably make you look somewhere else - leaving the whole community worse off?
 
-  I have asked to co-maintain media\_gallery to get something committed, and luckily the [maintainers responded quickly to that issue](http://drupal.org/node/1655160) :)
+  I have asked to co-maintain media\_gallery to get something committed, and luckily the [maintainers responded quickly to that issue](https://drupal.org/node/1655160) :)
 name: lsolesen
 email: d41d8cd98f00b204e9800998ecf8427e
 url: ''

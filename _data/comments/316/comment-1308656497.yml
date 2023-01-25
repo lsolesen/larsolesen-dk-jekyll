@@ -1,8 +1,8 @@
 _id: drupal-comment-450
 message: >-
-  Not very good solution from SEO point of view, as this way you loose all your search engine rankings you have earned so far for those pages. Much better solution would be to install Redirect module (<http://drupal.org/project/redirect>) and redirect all legacy URLs with 301 redirect (moved permanently) to their relevant new URLs (and that's how it's usually done when site's URL are changing).
+  Not very good solution from SEO point of view, as this way you loose all your search engine rankings you have earned so far for those pages. Much better solution would be to install Redirect module (<https://drupal.org/project/redirect>) and redirect all legacy URLs with 301 redirect (moved permanently) to their relevant new URLs (and that's how it's usually done when site's URL are changing).
 name: Maciej
 email: cd1bb1c788df31c5d515d67129e0588f
-url: 'http://zgadzaj.com/'
+url: 'https://zgadzaj.com/'
 hidden: ''
 date: '2011-06-21T14:41:37Z'

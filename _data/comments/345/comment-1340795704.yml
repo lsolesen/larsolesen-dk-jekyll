@@ -7,6 +7,6 @@ message: >-
   As a maintainer of a couple of modules, my spare time ebbs and flows, but when I have time, I always start by looking for RTBC patches to commit, then I review issues marked Needs Review, then Needs Work, before going for new work. I also prioritise bug reports over other tasks or features.
 name: juliangb
 email: 51607853f5002b21bfc37319ef8a5e73
-url: 'http://julian.granger-bevan.me'
+url: 'https://julian.granger-bevan.me'
 hidden: ''
 date: '2012-06-27T14:15:04Z'
